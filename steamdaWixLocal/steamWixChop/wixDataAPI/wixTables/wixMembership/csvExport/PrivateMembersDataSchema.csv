@@ -1,0 +1,2 @@
+"ID","Login Email","Main Phone","Name","First Name","Last Name","Picture","Nickname","Slug","Language","Status","Creation Date","Last Updated","Last Login Date","Emails","Phones","groups","contactId"
+"_id","loginEmail","mainPhone","name","firstName","lastName","picture","nickname","slug","language","status","_createdDate","_updatedDate","lastLogin","emails","phones","groups","contactId"

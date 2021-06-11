@@ -1,0 +1,21 @@
+{
+    "_id": "INSTANTIATE",
+    "loginEmail": "qiqgroup+feather@gmail.com",
+    "name": "Freddie Foxtrot",
+    "firstName": "Fred",
+    "lastName": "Foxtrot",
+    "picture": "",
+    "nickname": "",
+    "slug": "",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "",
+    "_updatedDate": "",
+    "lastLogin": "",
+    "emails": [
+        "qiqgroup+feather@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "INSTANTIATE"
+}

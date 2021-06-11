@@ -1,0 +1,658 @@
+{
+    "courses_array": [
+        {
+            "index": 1,
+            "weekId": 1,
+            "dateString": "June 7-11, 2021",
+            "dateStart": 1623070800000,
+            "dateEnd": 1623448800000,
+            "value": "1SKC68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "1SKC68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Summer Kickoff Camp",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2WSA47",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 590
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2WSA47",
+            "gradeLevel": "4-7",
+            "location": "Charlottesville Catholic",
+            "courseName": "Wilderness Survival & Architecture",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 2,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2DP68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 885
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2DP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Drone Pilot",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CM68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1180
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CM68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Ceramics",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 2,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CP68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1475
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Computer Programming in Video Games & E-Sports",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 3,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CE68",
+            "billing": {
+                "discount": [
+                    null,
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1770
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CE68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Cardboard Engineering",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4EA68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2065
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4EA68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Edible Art",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 2,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4GI68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2360
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4GI68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Girls Impact: Leaders in Science",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5MSC68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2655
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5MSC68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Mad Science Chemistry",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 2,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5MGS68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2950
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5MGS68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Math & Game Strategy",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 6,
+            "dateString": "July 19-23, 2021",
+            "dateStart": 1626699600000,
+            "dateEnd": 1627077600000,
+            "value": "6DB68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3245
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "6DB68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Dissect Biology",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 2,
+            "weekId": 6,
+            "dateString": "July 19-23, 2021",
+            "dateStart": 1626699600000,
+            "dateEnd": 1627077600000,
+            "value": "6LS68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3540
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "6LS68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Lead with STEAM",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 7,
+            "dateString": "July 26-30, 2021",
+            "dateStart": 1627304400000,
+            "dateEnd": 1627682400000,
+            "value": "7SI68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3835
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "7SI68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "STEAM Imagineers",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 8,
+            "dateString": "Aug 2-6, 2021",
+            "dateStart": 1627909200000,
+            "dateEnd": 1628287200000,
+            "value": "8MSP68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 4130
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "8MSP68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Mission Space - WAITLIST",
+            "gradeMismatchCount": null
+        },
+        {
+            "index": 1,
+            "weekId": 9,
+            "dateString": "August 9-14, 2021",
+            "dateStart": 1628514000000,
+            "dateEnd": 1628978400000,
+            "value": "9TV68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 4425
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "9TV68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "As Seen on TV",
+            "gradeMismatchCount": null
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "creationDateString": "Tue Mar 30 2021 20:10:36",
+    "creationDateUnix": 1617153036000,
+    "family": {
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Keith",
+                "last": "Partridge",
+                "preferred": "Keith",
+                "studentParentCombo": "Keith Partridge (Shirley)",
+                "lastFirst": "Partridge, Keith",
+                "fullName": "Keith Partridge"
+            },
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "04/12/2012",
+            "currentGrade": 8,
+            "currentGradeString": "Eighth Grade",
+            "currentGradeLevel": "6-8",
+            "dob": {
+                "date": "2012-04-12T05:00:00.000Z",
+                "month": 4,
+                "day": 12,
+                "year": 2012
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Partridge",
+                "first": "Shirley",
+                "fullName": "Shirley Partridge",
+                "lastFirst": "Partridge, Shirley"
+            }
+        },
+        "addresses": {
+            "mailing": {
+                "address": "123 Old Bus Drive",
+                "address2": "#101",
+                "city": "Tuluca Lake",
+                "state": "CA",
+                "zip": "90210"
+            }
+        }
+    },
+    "countWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+    ],
+    "writeMapWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 0,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 1,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 2,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 2,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 3,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 3,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 4,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 2,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 5,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 2,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 6,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 2,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 7,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 8,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 9,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            false,
+            false,
+            false,
+            true
+        ],
+        "overloadedErrorArray": [
+            false,
+            false,
+            false,
+            true
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

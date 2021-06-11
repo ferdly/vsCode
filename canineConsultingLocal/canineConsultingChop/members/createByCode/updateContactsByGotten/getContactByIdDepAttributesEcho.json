@@ -1,0 +1,46 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+ernie@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Echo Evangeline",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+ernie@gmail.com",
+            "contacts.displayByFirstName": "Evangeline Echo"
+        },
+        "labelKeys": [
+            "custom.barking-intensive-long-weekend"
+        ],
+        "name": {
+            "first": "Evangeline",
+            "last": "Echo"
+        },
+        "picture": {
+            "image": "1bf8c6_edf568fd0ee54a61a1be9331851e0076~mv2.png",
+            "imageProvider": "EXTERNAL"
+        }
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+ernie@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

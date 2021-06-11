@@ -1,0 +1,533 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 1,
+            "dateString": "June 7-11, 2021",
+            "dateStart": 1623070800000,
+            "dateEnd": 1623448800000,
+            "value": "1SKC35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "1SKC35",
+            "gradeLevel": "3-5",
+            "location": "Charlottesville Catholic",
+            "courseName": "Summer Kickoff Camp"
+        },
+        {
+            "index": 0,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2WSA47",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 590
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2WSA47",
+            "gradeLevel": "4-7",
+            "location": "Charlottesville Catholic",
+            "courseName": "Wilderness Survival & Architecture"
+        },
+        {
+            "index": 0,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CP68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 885
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Computer Programming in Video Games & E-Sports"
+        },
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5PMM35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1180
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5PMM35",
+            "gradeLevel": "3-5",
+            "location": "Charlottesville Catholic",
+            "courseName": "Paint & Mixed Media"
+        },
+        {
+            "index": 0,
+            "weekId": 7,
+            "dateString": "July 26-30, 2021",
+            "dateStart": 1627304400000,
+            "dateEnd": 1627682400000,
+            "value": "7FI68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1475
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "7FI68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Forensic Investigators"
+        },
+        {
+            "index": 0,
+            "weekId": 9,
+            "dateString": "August 9-14, 2021",
+            "dateStart": 1628514000000,
+            "dateEnd": 1628978400000,
+            "value": "9TV35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1770
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "9TV35",
+            "gradeLevel": "3-5",
+            "location": "STEAM Incubator",
+            "courseName": "As Seen on TV"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "formStack": {
+        "uniqueId": "786364121",
+        "formId": "4223065",
+        "wixWebhookId": "7197bbf8-4715-48a5-9b45-d329a3883760"
+    },
+    "appllication": {
+        "studentStatement": "Every. other Week, every other Cours is the wrong Grade Level (plust 1 4-7)"
+    },
+    "stamps": [
+        {
+            "kind": "creation",
+            "string": "Wed Mar 31 2021 15:15:12 GMT-0500 (Central Daylight Time)",
+            "iso": "20210331201512000",
+            "unix": 1617221712
+        },
+        {
+            "kind": "process",
+            "string": "Sun Apr 04 2021 14:44:16 GMT-0500 (Central Daylight Time)",
+            "iso": "20210404194416284",
+            "unix": 1617565456
+        }
+    ],
+    "family": {
+        "phones": [
+            {
+                "phone": "(218) 595-0499",
+                "role": "Primary Parent",
+                "who": "Mike",
+                "kind": "cell",
+                "usage": "Personal"
+            },
+            {
+                "phone": "(315) 287-2578",
+                "role": "Home",
+                "who": "family",
+                "kind": "landline",
+                "usage": "Family"
+            },
+            {
+                "phone": "(218) 310-5153",
+                "role": "Secondary Parent",
+                "who": "Carol",
+                "kind": "cell",
+                "usage": "Personal"
+            }
+        ],
+        "emails": [
+            {
+                "email": "qiqgroup+bobby@gmail.com",
+                "role": "Primary Parent",
+                "who": "Mike",
+                "kind": "home",
+                "usage": "Personal"
+            }
+        ],
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Robert",
+                "last": "Brady",
+                "preferred": "Bobby",
+                "studentParentCombo": "Bobby Brady (Mike)",
+                "lastFirst": "Brady, Bobby",
+                "fullName": "Bobby Brady"
+            },
+            "declaredGender": "Male",
+            "studentStatement": "Every. other Week, every other Cours is the wrong Grade Level (plust 1 4-7)",
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "05/08/2010",
+            "currentSchool": "Clinton Elementary",
+            "currentGrade": 4,
+            "currentGradeString": "Fourth Grade",
+            "currentGradeLevel": "3-5",
+            "dob": {
+                "date": "2010-05-08T05:00:00.000Z",
+                "month": 5,
+                "day": 8,
+                "year": 2010
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Brady",
+                "first": "Mike",
+                "fullName": "Mike Brady",
+                "lastFirst": "Brady, Mike"
+            },
+            "secondary": {
+                "first": "Carol",
+                "last": "Martin"
+            }
+        },
+        "addresses": [
+            {
+                "kind": "mailing",
+                "address": {
+                    "streetAddress": {
+                        "number": "11222",
+                        "name": "Dilling Street"
+                    },
+                    "city": "North Hollywood",
+                    "state": "CA",
+                    "postalCode": "91602",
+                    "country": "US",
+                    "subdivision": "CA",
+                    "location": {
+                        "latitude": null,
+                        "longitue": null
+                    },
+                    "formatted": "11222 Dilling Street, North Hollywood, CA 91602, USA"
+                }
+            }
+        ]
+    },
+    "countWeekArray": [
+        -999,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+    ],
+    "writeMapWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        0,
+        0,
+        0
+    ],
+    "mapWeekCountObject": [
+        [
+            -999,
+            -777
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            2,
+            1
+        ],
+        [
+            3,
+            1
+        ],
+        [
+            5,
+            1
+        ],
+        [
+            7,
+            1
+        ],
+        [
+            9,
+            1
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ]
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 2,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 1,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 2,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 3,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 5,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 7,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 9,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            true,
+            false,
+            false,
+            false
+        ],
+        "overloadedErrorArray": [
+            true,
+            false,
+            false,
+            false
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

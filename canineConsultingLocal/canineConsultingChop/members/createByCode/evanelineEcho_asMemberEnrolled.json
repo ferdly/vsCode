@@ -1,0 +1,21 @@
+{
+    "_id": "d3e67a25-6eea-46ad-bd4c-ce8e155e776f",
+    "loginEmail": "qiqgroup+ernie@gmail.com",
+    "name": "Evangeline Echo",
+    "firstName": "Evangeline",
+    "lastName": "Echo",
+    "picture": "//static.wixstatic.com/media/1bf8c6_edf568fd0ee54a61a1be9331851e0076%7Emv2.png",
+    "nickname": "Evangeline Echo",
+    "slug": "qiqgroupernie",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-03-22T11:23:52.000Z",
+    "_updatedDate": "2021-03-22T11:40:14.387Z",
+    "lastLogin": "2021-03-22T11:40:42.000Z",
+    "emails": [
+        "qiqgroup+ernie@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "d3e67a25-6eea-46ad-bd4c-ce8e155e776f"
+}

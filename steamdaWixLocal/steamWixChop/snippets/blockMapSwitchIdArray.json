@@ -1,0 +1,74 @@
+
+{
+    "blockMapArray":[
+        {
+            "blockMap" : -999,
+            "week": -999,
+            "switchIdArray":[],
+            "selectedCount": 0,
+            "checkedCount": -999
+        },
+        {
+            "blockMap" : 1,
+            "week": 0,
+            "switchIdArray":["#switch101","#switch102", "#switch103"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 2,
+            "week": 0,
+            "switchIdArray":["#switch201","#switch202", "#switch203"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 3,
+            "week": 0,
+            "switchIdArray":["#switch301","#switch302", "#switch303"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 4,
+            "week": 0,
+            "switchIdArray":["#switch401","#switch402", "#switch403"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 5,
+            "week": 0,
+            "switchIdArray":["#switch501","#switch502", "#switch503"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 6,
+            "week": 0,
+            "switchIdArray":["#switch601","#switch602", "#switch603"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 7,
+            "week": 0,
+            "switchIdArray":["#switch701","#switch702", "#switch703"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 8,
+            "week": 0,
+            "switchIdArray":["#switch801","#switch802", "#switch803"],
+            "selectedCount": 0,
+            "checkedCount": 0
+        },
+        {
+            "blockMap" : 9,
+            "week": 0,
+            "switchIdArray":["#switch901","#switch902", "#switch903"],
+            "checkedCount": 0
+        }
+    ]
+}

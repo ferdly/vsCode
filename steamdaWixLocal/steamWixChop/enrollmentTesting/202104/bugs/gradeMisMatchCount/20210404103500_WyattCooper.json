@@ -1,0 +1,126 @@
+{
+    "FormID": "4223065",
+    "UniqueID": "783702626",
+    "HandshakeKey": "AB324590076895D72F0F36A40070CEAB038B99982F41ACFA83EE6DDCDFF4BB2A",
+    "student_information": "",
+    "student_name": {
+        "first": "Cooper",
+        "last": "Wyatt"
+    },
+    "preferred_name": "Cooper",
+    "date_of_birth": "12/18/2014",
+    "gender": "Male",
+    "grade_during_the_202021_school_year": [
+        {
+            "value": "0",
+            "label": "Kindergarten"
+        }
+    ],
+    "current_school": "Charlottesville Day School",
+    "have_you_attended_steam_discovery_academy_before": "No",
+    "why_are_you_interested_in_attending_steam_discovery_academy_this_summer": "Cooper is absolutely passionate about science, engineering, coding and robotics. He wants to invent things RIGHT NOW, and he is desperate for this type of program. He literally weeps while begging me to find classes for him. ",
+    "how_did_you_hear_about_us": "Google",
+    "have_you_discussed_the_course_selection": "Yes",
+    "parentguardian_information": "",
+    "primary_parentguardian_name": {
+        "first": "Melissa",
+        "last": "Castro Wyatt"
+    },
+    "mailing_address": {
+        "address": "6622 Welbourne Ln.",
+        "city": "Crozet",
+        "state": "VA",
+        "zip": "22932"
+    },
+    "primary_mobile_phone": "(434) 260-2456",
+    "secondary_phone": "",
+    "primary_email_address": "castrosdistrict@gmail.com",
+    "second_parentguardian_phone": {
+        "first": "Jami",
+        "last": "Wyatt"
+    },
+    "secondary_parentguardian_mobile_phone": "(202) 746-1446",
+    "i_certify_that_i_am_the_legal_guardian_of_this_participant_and_am_allowing_himher_to_participate_in_the_steam_discovery_academy": "Yes",
+    "2021_course_selection": "",
+    "week_1_june_711_2021": [
+        {
+            "value": "1SKCK2",
+            "label": "K-2: Summer Kickoff Camp - Charlottesville Catholic"
+        }
+    ],
+    "week_2_june_1418_2021": [
+        {
+            "value": "2GGK2",
+            "label": "K-2: Gadgets & Gizmos - WAITLIST ONLY - Charlottesville Catholic"
+        }
+    ],
+    "week_3_june_2125_2021": [
+        {
+            "value": "3CKK2",
+            "label": "K-2: Construction Kids - HALF DAY - STEAM Incubator"
+        }
+    ],
+    "week_4_june_28july_2_2021": [
+        {
+            "value": "4PSK2",
+            "label": "K-2: Pirate Science - Charlottesville Catholic"
+        }
+    ],
+    "week_5_july_1216_2021": [
+        {
+            "value": "5GGK2",
+            "label": "K-2: Gadgets & Gizmos  - Charlottesville Catholic"
+        }
+    ],
+    "week_6_july_1923_2021": [
+        {
+            "value": "6MSCK2",
+            "label": "K-2: Mad Science Chemistry - WAITLIST ONLY -Charlottesville Catholic School"
+        },
+        {
+            "value": "6LSK2",
+            "label": "K-2: Lead with STEAM - STEAM Incubator"
+        }
+    ],
+    "week_7_july_2630_2021": [
+        {
+            "value": "7SIK2H",
+            "label": "K-2: STEAM Imagineers - HALF DAY - STEAM Incubator"
+        }
+    ],
+    "week_8_aug_26_2021": [
+        {
+            "value": "8MSPK2",
+            "label": "K-2: Mission Space - HALF DAY - WAITLIST ONLY - STEAM Incubator"
+        }
+    ],
+    "week_9_august_914_2021": [
+        {
+            "value": "9TVK2",
+            "label": "K-2: As Seen on TV - HALF DAY - WAITLIST ONLY - STEAM Incubator"
+        }
+    ],
+    "student_acknowledgement": "CCCW",
+    "i_agree_to_abide_by_the_behavior_standards_set_forth_by_steam_discovery_academy_to_participate_in_all_planned_events_and_activities": "Yes",
+    "i_understand_that_as_part_of_my_course_i_will_have_access_to_expensive_and_fragile_tools_such_as_ipads_drones_and_robots_i_agree_to_use_all_tools_and_equipment_responsibly_and_as_it_is_intended_i_acknowledge_that_intentional_misuse_and_damage_will_result_in_a_replacement_fee_at_retail_rate": null,
+    "parent_acknowledgment": "MCW",
+    "waivers_and_release_form": "",
+    "initials": "MCW",
+    "photo_release": "Approved",
+    "parentguardian_signature_required": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10282864181",
+    "date_": "03/25/2021",
+    "parentguardian_signature": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10282864183",
+    "date": "03/25/2021",
+    "application_deposit__program_payment": "",
+    "please_indicate_how_you_would_like_to_be_invoiced": "Two Invoices",
+    "application_deposit": {
+        "charge_type": "fixed_amount",
+        "quantity": "1",
+        "unit_price": "75",
+        "total": "75"
+    },
+    "credit_card": {
+        "card": "************7171",
+        "cardexp": "08/25"
+    }
+}

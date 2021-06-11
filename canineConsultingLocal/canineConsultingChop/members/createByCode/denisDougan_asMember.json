@@ -1,0 +1,21 @@
+{
+    "_id": "acee678e-76a6-49b1-96c3-a467b7a1acba",
+    "loginEmail": "qiqgroup+dexter@gmail.com",
+    "name": "Denis Dougan",
+    "firstName": "Denis",
+    "lastName": "Dougan",
+    "picture": "//static.wixstatic.com/media/1bf8c6_b6b13333907645eb9730bdd581ef3dc5%7Emv2.png",
+    "nickname": "Denis Dougan",
+    "slug": "qiqgroupdexter",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-03-18T17:46:03.000Z",
+    "_updatedDate": "2021-03-18T17:47:14.885Z",
+    "lastLogin": "2021-03-18T17:49:47.000Z",
+    "emails": [
+        "qiqgroup+dexter@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "acee678e-76a6-49b1-96c3-a467b7a1acba"
+}

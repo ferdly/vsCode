@@ -1,0 +1,7 @@
+https://support.wix.com/en/article/velo-about-validating-user-input-with-code
+
+resetValidityIndication()
+The resetValidityIndication() function clears the visual cue that signifies that an element is invalid.
+
+updateValidityIndication()
+The updateValidityIndication() function updates the visual cue that signifies whether an element is invalid based on the element's current validity state.

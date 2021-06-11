@@ -1,0 +1,484 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2DP68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2DP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Drone Pilot",
+            "checked": true
+        },
+        {
+            "index": 0,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CP68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 590
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Computer Programming in Video Games & E-Sports",
+            "checked": true
+        },
+        {
+            "index": 0,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4EA68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 885
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4EA68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Edible Art",
+            "checked": true
+        },
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5MSC68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1180
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5MSC68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Mad Science Chemistry",
+            "checked": true
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "formStack": {
+        "uniqueId": "786493846",
+        "formId": "4223065",
+        "wixWebhookId": "5ec5f52d-f2bf-43f8-8c6f-9a4c3d6ccda4"
+    },
+    "application": {
+        "studentStatement": null,
+        "photoRelease": "Approved"
+    },
+    "stamps": [
+        {
+            "kind": "creation",
+            "string": "Wed Mar 31 2021 21:28:46 GMT-0500 (Central Daylight Time)",
+            "iso": "20210401022846000",
+            "unix": 1617244126
+        },
+        {
+            "kind": "process",
+            "string": "Sun Apr 11 2021 16:06:43 GMT-0500 (Central Daylight Time)",
+            "iso": "20210411210643333",
+            "unix": 1618175203
+        }
+    ],
+    "family": {
+        "phones": [
+            {
+                "phone": "(617) 543-6627",
+                "role": "Primary Parent",
+                "who": "Helena",
+                "kind": "cell",
+                "usage": "Personal"
+            },
+            {
+                "phone": "(617) 543-7374",
+                "role": "Secondary Parent",
+                "who": "Zhaohui",
+                "kind": "cell",
+                "usage": "Personal"
+            }
+        ],
+        "emails": [
+            {
+                "email": "helena_fang@yahoo.com",
+                "role": "Primary Parent",
+                "who": "Helena",
+                "kind": "home",
+                "usage": "Personal"
+            }
+        ],
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "photoRelease": true,
+            "name": {
+                "first": "Eric",
+                "last": "Chen",
+                "preferred": "Eric",
+                "studentParentCombo": "Eric Chen (HelenaFang)",
+                "lastFirst": "Chen, Eric",
+                "fullName": "Eric Chen"
+            },
+            "declaredGender": "male",
+            "studentStatement": null,
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "09/26/2006",
+            "currentSchool": "Jouett Middle School",
+            "currentGrade": 8,
+            "currentGradeString": "Eighth Grade",
+            "currentGradeLevel": "6-8",
+            "dob": {
+                "date": "2006-09-26T05:00:00.000Z",
+                "month": 9,
+                "day": 26,
+                "year": 2006
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Fang",
+                "first": "Helena",
+                "fullName": "Helena Fang",
+                "lastFirst": "Fang, Helena"
+            },
+            "secondary": {
+                "first": "Zhaohui",
+                "last": "Chen"
+            }
+        },
+        "addresses": [
+            {
+                "kind": "mailing",
+                "address": {
+                    "streetAddress": {
+                        "number": "1120",
+                        "name": "Inglecress Dr"
+                    },
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "postalCode": "22901",
+                    "country": "US",
+                    "subdivision": "VA",
+                    "location": {
+                        "latitude": null,
+                        "longitue": null
+                    },
+                    "formatted": "1120 Inglecress Dr, Charlottesville, VA 22901, USA"
+                }
+            }
+        ]
+    },
+    "countWeekArray": [
+        -999,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "writeMapWeekArray": [
+        -999,
+        2,
+        3,
+        4,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mapWeekCountObject": [
+        [
+            -999,
+            -777
+        ],
+        [
+            2,
+            1
+        ],
+        [
+            3,
+            1
+        ],
+        [
+            4,
+            1
+        ],
+        [
+            5,
+            1
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ]
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 0,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 2,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 3,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 4,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 5,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "overloadedErrorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

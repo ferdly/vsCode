@@ -1,0 +1,27 @@
+{
+    "_id": "7feb1a78-ee98-48f9-b389-8155e7b2f222",
+    "loginEmail": "qiqgroup+blackie@gmail.com",
+    "name": "Beth Baird",
+    "firstName": "Beth",
+    "lastName": "Baird",
+    "picture": "//static.wixstatic.com/media/1bf8c6_79f460056cae42f3864cf9b8aa07696c%7Emv2.png",
+    "nickname": "qiqgroup+blackie",
+    "slug": "qiqgroupblackie",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-03-16T19:15:09.000Z",
+    "_updatedDate": "2021-03-16T19:19:05.335Z",
+    "lastLogin": "2021-04-17T02:13:58.000Z",
+    "emails": [
+        "qiqgroup+blackie@gmail.com",
+        "bradlowry+blackie@gmail.com"
+    ],
+    "phones": [
+        "2183105153",
+        "2185950499",
+        "3152872578"
+    ],
+    "mainPhone": "2183105153",
+    "groups": [],
+    "contactId": "7feb1a78-ee98-48f9-b389-8155e7b2f222"
+}

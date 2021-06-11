@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <!-- phonestripRegEx.html -->
+<body>
+
+<h1>JS Regular Expressions</h1>
+<h2> • common use case, telephone number variations</h2>
+<p>Below are two examples of parsing out Only Digits from a string. The first is a pretty typical string expression of a phone number you may recieve from an end user. The second is data from the End-User-from-Hell, which, of course, you must always be ready for.</p>
+
+<!-- <button onclick="myFunction()">Try it</button> -->
+
+<dl>
+  <dt>critical regEx:</dt>
+  <dd id="codeRegex"></dd>
+  <dt>code regEx replace():</dt>
+  <dd id="codeRegExReplace"></dd>
+  <hr>
+  <dt>first example:</dt>
+  <dd id="codePhoneStringOne"></dd>
+  <dt>result:</dt>
+  <dd id="phoneStringStrippedResultOne"></dd>
+  <hr>
+  <dt>second example:</dt>
+  <dd id="codePhoneStringTwo"></dd>
+  <dt>result:</dt>
+  <dd id="phoneStringStrippedResultTwo"></dd>
+</dl>
+<script>
+  var codeRegex = '  var regEx = /[^0-9]/g;';
+  document.getElementById("codeRegex").innerHTML = codeRegex;
+  var codeRegExReplace = 'phoneStringStrippedResult = phoneString.replace(regEx,"");';
+  document.getElementById("codeRegExReplace").innerHTML = codeRegExReplace;
+  var codePhoneStringOne = 'phoneStringOne = "(218) 595-0499";';
+  document.getElementById("codePhoneStringOne").innerHTML = codePhoneStringOne;
+  // document.getElementById("phoneStringOne").innerHTML = phoneStringOne;
+  var regEx = /[^0-9]/g;
+  var phoneStringOne = "(218) 595-0499";
+  var phoneStringStrippedResultOne = getPhoneOnlyDigits(regEx, phoneStringOne);
+  // console.log(phoneStringStrippedResultOne);
+  document.getElementById("phoneStringStrippedResultOne").innerHTML = phoneStringStrippedResultOne;
+  var phoneStringTwo = "#3!1%5@2*8&7^6(90)$4";
+  var codePhoneStringTwo = 'phoneStringTwo = "#3!1%5@2*8&7^6(90)$4";';
+  document.getElementById("codePhoneStringTwo").innerHTML = codePhoneStringTwo;
+  var phoneStringStrippedResultTwo = getPhoneOnlyDigits(regEx, phoneStringTwo);
+  // console.log(phoneStringStrippedResultTwo);
+  document.getElementById("phoneStringStrippedResultTwo").innerHTML = phoneStringStrippedResultTwo;
+  // document.getElementById("phoneStringStrippedResultTwo").innerHTML = getPhoneOnlyDigits(regEx, phoneStringTwo);
+  function getPhoneOnlyDigits(regEx, phoneString) {
+    // var regExLocal = /[^0-9]/g;
+    // var phoneStringLocal = "(315) 287-2578";
+    return phoneString.replace(regEx,'');
+    // return phoneStringLocal.replace(regExLocal,'');
+    // return 'Hello Phone Parser!'
+    // return phoneStrippedResult;
+  }
+</script>
+
+</body>
+</html>

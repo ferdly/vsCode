@@ -1,0 +1,25 @@
+{
+    "_id": "71518a4a-34ca-4e5a-9633-3d4548dbe578",
+    "loginEmail": "qiqgroup+victor@gmail.com",
+    "name": "Victor Veracruz",
+    "firstName": "Victor",
+    "lastName": "Veracruz",
+    "nickname": "Victor Veracruz",
+    "slug": "qiqgroupvictor",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-04-25T00:51:38.000Z",
+    "_updatedDate": "2021-04-25T01:03:24.756Z",
+    "emails": [
+        "qiqgroup+victor102@gmail.com",
+        "qiqgroup+victor900@gmail.com",
+        "qiqgroup+victor@gmail.com"
+    ],
+    "phones": [
+        "2139261853",
+        "3174638707"
+    ],
+    "mainPhone": "2139261853",
+    "groups": [],
+    "contactId": "71518a4a-34ca-4e5a-9633-3d4548dbe578"
+}

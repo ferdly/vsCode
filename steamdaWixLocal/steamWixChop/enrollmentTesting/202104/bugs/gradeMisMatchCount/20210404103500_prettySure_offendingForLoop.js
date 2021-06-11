@@ -1,0 +1,45 @@
+for (let index = 0; index < superEnrollmentObject.courses_array.length; index++) {
+    console.log("index: " + index);
+    const element = superEnrollmentObject.courses_array[index];
+    console.log("element: ");
+    console.log(element);
+    mapIndex = element.weekId;
+    console.log("mapIndex: " + mapIndex);
+    // mapIndex = index + 1;
+    const mapElement = superEnrollmentObject.blockMapArray.blockMapArray[mapIndex];
+    console.log("weekId: " + element.weekId);
+    console.log("weekIndexWas: " + weekIndexWas);
+    console.log("weekWas: " + weekWas);
+    weekIndexIncrement = element.weekId === weekWas ? 0 : 1;
+    console.log("weekIndexIncrement: " + weekIndexIncrement);
+    weekIndexWas += weekIndexIncrement;
+    weekWas = element.weekId;
+    courseIndex = element.index;
+    courseCardinality = element.index + 1;
+    arrHOLDER = element.gradeLevel.split('-');
+    // console.log(arrHOLDER);
+    minString = arrHOLDER[0];
+    minGrade = parseInt(minString,10);
+    console.log("minString raw: " + minString);
+    minString = minString === 'K' ? '0' : minString;
+    maxString = arrHOLDER[1];
+    maxGrade = parseInt(maxString,10);
+    switchKey = switchWord.concat(weekIndexWas.toString(), zeroString, courseCardinality.toString());
+    switched = $w(switchKey).checked; 
+    console.log("weekIndexWas: " + weekIndexWas);
+    console.log("courseCardinality: " + courseCardinality);
+    console.log("switchKey: " + switchKey);
+    console.log("minString: " + minString);
+    console.log("minGrade: " + minGrade);
+    console.log("maxString: " + maxString);
+    console.log("maxGrade: " + maxGrade);
+    console.log("switched: " + switched);
+    misMatch = 0;
+    misMatch = studentCurrentGrade < minGrade ? 1 : 0;
+    misMatch = studentCurrentGrade > maxGrade ? 1 : misMatch;
+    misMatch = switched ? misMatch : 0;
+    mapElement.gradeMismatchCount = misMatch;
+    mismatchCount += misMatch;
+    console.log("misMatch: " + misMatch);
+
+}

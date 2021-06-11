@@ -1,0 +1,132 @@
+{
+    "A": {
+        "city": "Ashville",
+        "state": "NC",
+        "postalCode": "28801"
+    },
+    "B": {
+        "city": "Burlington",
+        "state": "VT",
+        "postalCode": "05401"
+    },
+    "C": {
+        "city": "Charlottesville",
+        "state": "VA",
+        "postalCode": "22901"
+    },
+    "D": {
+        "city": "Duluth",
+        "state": "MN",
+        "postalCode": "55805"
+    },
+    "E": {
+        "city": "Evanston",
+        "state": "IL",
+        "postalCode": "60201"
+    },
+    "F": {
+        "city": "Fargo",
+        "state": "ND",
+        "postalCode": "58102"
+    },
+    "G": {
+        "city": "Grand Marais",
+        "state": "MN",
+        "postalCode": "55604"
+    },
+    "H": {
+        "city": "Hermantown",
+        "state": "MN",
+        "postalCode": "55811"
+    },
+    "I": {
+        "city": "Indianapollis",
+        "state": "IN",
+        "postalCode": "46201"
+    },
+    "J": {
+        "city": "Juneau",
+        "state": "AK",
+        "postalCode": "99801"
+    },
+    "K": {
+        "city": "Kalamazoo",
+        "state": "MI",
+        "postalCode": "49001"
+    },
+    "L": {
+        "city": "Lake Placid",
+        "state": "NY",
+        "postalCode": "12946"
+    },
+    "M": {
+        "city": "Minneapolis",
+        "state": "MN",
+        "postalCode": "55403"
+    },
+    "N": {
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37201"
+    },
+    "O": {
+        "city": "Ogden",
+        "state": "UT",
+        "postalCode": "84201"
+    },
+    "P": {
+        "city": "Philadelphia",
+        "state": "PA",
+        "postalCode": "19104"
+    },
+    "Q": {
+        "city": "Quincy",
+        "state": "MA",
+        "postalCode": "02169"
+    },
+    "R": {
+        "city": "Rochester",
+        "state": "NY",
+        "postalCode": "14604"
+    },
+    "S": {
+        "city": "San Francisco",
+        "state": "CA",
+        "postalCode": "94102"
+    },
+    "T": {
+        "city": "Tuscon",
+        "state": "AZ",
+        "postalCode": "85701"
+    },
+    "U": {
+        "city": "Urbana",
+        "state": "MD",
+        "postalCode": "21704"
+    },
+    "V": {
+        "city": "Virginia",
+        "state": "MN",
+        "postalCode": "55792"
+    },
+    "W": {
+        "city": "Washington",
+        "state": "DC",
+        "postalCode": "20003"
+    },
+    "X": {
+        "city": "Xenia",
+        "state": "OH",
+        "postalCode": "45385"
+    },
+    "Y": {
+        "city": "Ypsilanti",
+        "state": "MI",
+        "postalCode": "48197"
+    },
+    "Z": {
+        "city": "Zionsville",
+        "state": "IN",
+        "postalCode": "46077"
+    }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the date and time as a string.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+  <fieldset>
+	<legend>toString</legend>
+  	<spand id="demoString"></span>
+  </fieldset>
+  <fieldset>
+	<legend>toUTCString</legend>
+    <spand id="demoUTCString"></span></fieldset>
+  <fieldset>
+	<legend>toISOString</legend>
+    <spand id="demoISOString"></span>
+  </fieldset>
+  <fieldset>
+	<legend>toISOString Digits Only</legend>
+    <spand id="demoISODigitString"></span>
+  </fieldset>
+  <fieldset>
+	<legend>getTime / 1000</legend>
+    <spand id="demoUNIXtimestamp"></span>
+  </fieldset>
+
+
+<script>
+function myFunction() {
+  var d = new Date("Apr 03 1952 10:22");
+  var nString = d.toString();
+  var nUTCString = d.toUTCString();
+  var nISOString = d.toISOString();
+  var nISODigitString = d.toISOString().replace(/[^0-9]/g,'');
+// FAILED  var nUNIXtimestamp = parseInt((d.getTime() / 1000);
+  var nUNIXtimestamp = parseInt((d.getTime() / 1000).toFixed(0));
+  document.getElementById("demoString").innerHTML = nString;
+  document.getElementById("demoUTCString").innerHTML = nUTCString;
+  document.getElementById("demoISOString").innerHTML = nISOString;
+  document.getElementById("demoISODigitString").innerHTML = nISODigitString;
+  document.getElementById("demoUNIXtimestamp").innerHTML = nUNIXtimestamp;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+dexter@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Dougan Denis",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+dexter@gmail.com",
+            "contacts.displayByFirstName": "Denis Dougan"
+        },
+        "name": {
+            "first": "Denis",
+            "last": "Dougan"
+        },
+        "picture": {
+            "image": "1bf8c6_b6b13333907645eb9730bdd581ef3dc5~mv2.png",
+            "imageProvider": "EXTERNAL"
+        }
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+dexter@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

@@ -1,0 +1,801 @@
+{
+    "aaaAlphaNotes": [
+        "emails[0]._id",
+        "emails[0].primary",
+        "phones[0]._id",
+        "phones[0].primary",
+        "source: 'WIX_FORMS' had (consistent) 'appId'"
+    ],
+    "aaaAlphaToDo": [
+        "extendedFields.contacts.displayByLastName: add comma?",
+        " ↪ could it be that I didn't escape the comma?",
+        " ↪ NONE of the displayByLastName values have  comma",
+        "figure out Picture",
+        "extendedFields: which (if editable) should be set and to whaat for best CRM",
+        "extendedFields.memberMobilie: ALL 'false', how to affect this?",
+        " ↪ for 'alpha' it's 'false', but 'primaryInfo' has a phone?",
+        "'EXTERNAL' maybe I can do 'internal' for defaults",
+        "Confirm the good news about 'primaryInfo.email' & 'primaryInfo.phone' others?",
+        "Confirm whether (that) 'source' is automated like 'revision' and so on",
+        "Confirm that 'labelKeys' are editable",
+        " ↪ whether they are free-form or limitied",
+        " ↪ how robust for search, filter, sort?",
+        " ↪ does the 'Keys' part mean that is a LookUp/Join table with attributes?"
+    ],
+    "aaaBetaNotes": [
+        "addresses: multiple with tag attributes, Good!",
+        "emails: tag attributes working",
+        "multiple labels, not surpising, but only one for 'alpha'",
+        "booking label (also first)"
+    ],
+    "aaaBetaToDo": [
+        "'locale': 'en' why here not 'alpha', more?",
+        "only 'primary': true email has '_id'",
+        "phones, there is a  'primary': true, there is a 'primaryInfo' 'phone' however, NO '_id'",
+        " ↪ this is different than 'alpha'"
+    ],
+    "aaaCharlieNotes": [
+        "addresses[0].formatted: 'United States' instead of 'US'",
+        "addresses[0] has an '_id' and is 'UNTAGGED'",
+        " ↪ '_id' and 'tag' are outside of 'address' object, elements of array element object",
+        " ↪ 'NOT the case for 'emails' and 'phones'",
+        "source: 'WIX_BOOKINGS' had 'appId'(only one)"
+    ],
+    "aaaCharlieToDo": [],
+    "aaaDeltaNotes": [
+        "no phones, (no primary), no primaryInfo phone"
+    ],
+    "aaaDeltaToDo": [],
+    "aaaEchoNotes": [],
+    "aaaEchoToDo": [],
+    "aaaFoxtrotNotes": [],
+    "aaaFoxtrotToDo": [],
+    "aaaSierraNotes": [
+        "'picture' object exists for all contacts, just empty here to end"
+    ],
+    "aaaSierraToDo": [],
+    "aaaTangoNotes": [],
+    "aaaTangoToDo": [],
+    "aaaUniformNotes": [
+        "first where only Phone/Email 'primary' true as 'primaryInfo' Phone/Email",
+        " ↪ how determin primary (sometimes NOT login)",
+        " ↪ where not phones, no phones Object (unlike picture)"
+    ],
+    "aaaUniformToDo": [],
+    "aaaVictorNotes": [],
+    "aaaVictorToDo": [],
+    "aaaWhiskyNotes": [],
+    "aaaWhiskyToDo": [],
+    "aaaXrayNotes": [],
+    "aaaXrayToDo": [],
+    "aaaYankeeNotes": [],
+    "aaaYankeeToDo": [],
+    "aaaZuluNotes": [],
+    "aaaZuluToDo": [],
+    "alpha": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "_id": "f2f34eb1-09c1-40d6-ab93-df2790fbd422",
+                    "tag": "UNTAGGED"
+                },
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "_id": "53d14087-3a60-492a-bdd0-d82079056745",
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+arnie@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Anderson Abby",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+arnie@gmail.com",
+                "contacts.displayByFirstName": "Abby Anderson"
+            },
+            "labelKeys": [
+                "contacts.contacted-me"
+            ],
+            "name": {
+                "first": "Abby",
+                "last": "Anderson"
+            },
+            "phones": [
+                {
+                    "_id": "aeea6f93-a3e7-408c-a5ae-7381aec24e4e",
+                    "tag": "UNTAGGED",
+                    "phone": "2185950499",
+                    "primary": true
+                }
+            ],
+            "picture": {
+                "image": "1bf8c6_df9ebfaa8c0a4614a5baf9996310f199~mv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+arnie@gmail.com",
+            "phone": "2185950499"
+        },
+        "source": {
+            "appId": "14ce1214-b278-a7e4-1373-00cebd1bef7c",
+            "sourceType": "WIX_FORMS"
+        }
+    },
+    "beta": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "222 Baxter Street\nBurlington, Vermont 05401\nUnited States",
+                        "city": "Burlington",
+                        "subdivision": "US-VT",
+                        "country": "US",
+                        "postalCode": "05401",
+                        "addressLine1": "222 Baxter Street"
+                    },
+                    "tag": "HOME"
+                },
+                {
+                    "address": {
+                        "formatted": "202 Billings Ave\nBurlington, Vermont 05401\nUnited States",
+                        "city": "Burlington",
+                        "subdivision": "US-VT",
+                        "country": "US",
+                        "postalCode": "05401",
+                        "addressLine1": "202 Billings Ave"
+                    },
+                    "tag": "BILLING"
+                }
+            ],
+            "emails": [
+                {
+                    "_id": "98ae7495-3a3b-435e-90e4-349f534bbb54",
+                    "tag": "MAIN",
+                    "email": "qiqgroup+blackie@gmail.com",
+                    "primary": true
+                },
+                {
+                    "tag": "WORK",
+                    "email": "bradlowry+blackie@gmail.com",
+                    "primary": false
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Baird Beth",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "SUBSCRIBED",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+blackie@gmail.com",
+                "contacts.displayByFirstName": "Beth Baird"
+            },
+            "labelKeys": [
+                "contacts.contacted-me",
+                "custom.puppy-training-course"
+            ],
+            "locale": "en",
+            "name": {
+                "first": "Beth",
+                "last": "Baird"
+            },
+            "phones": [
+                {
+                    "tag": "MOBILE",
+                    "phone": "2183105153",
+                    "primary": true
+                },
+                {
+                    "tag": "FAX",
+                    "phone": "2185950499",
+                    "primary": false
+                },
+                {
+                    "tag": "HOME",
+                    "phone": "3152872578",
+                    "primary": false
+                }
+            ],
+            "picture": {
+                "image": "//static.wixstatic.com/media/1bf8c6_79f460056cae42f3864cf9b8aa07696c%7Emv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+blackie@gmail.com",
+            "phone": "2183105153"
+        },
+        "revision": 14,
+        "source": {
+            "appId": "14ce1214-b278-a7e4-1373-00cebd1bef7c",
+            "sourceType": "WIX_FORMS"
+        }
+    },
+    "charlie": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "_id": "f8a9a540-052d-4799-b41f-a8670a5e8994",
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "_id": "7b37911a-cd80-418f-8cc3-7ad54470c9c3",
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+cooper@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Congdon Conrad",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+cooper@gmail.com",
+                "contacts.displayByFirstName": "Conrad Congdon"
+            },
+            "labelKeys": [
+                "custom.barking-intensive-long-weekend"
+            ],
+            "name": {
+                "first": "Conrad",
+                "last": "Congdon"
+            },
+            "phones": [
+                {
+                    "_id": "bc40ae97-4f63-43e2-b0af-3c8e9d4f7cd1",
+                    "tag": "UNTAGGED",
+                    "phone": "3152872578",
+                    "primary": true
+                }
+            ],
+            "picture": {
+                "image": "1bf8c6_df99450fb81e4d9f94890cee886924af~mv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+cooper@gmail.com",
+            "phone": "3152872578"
+        },
+        "source": {
+            "appId": "13d21c63-b5ec-5912-8397-c3a5ddb27a97",
+            "sourceType": "WIX_BOOKINGS"
+        }
+    },
+    "delta": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+dexter@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Dougan Denis",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+dexter@gmail.com",
+                "contacts.displayByFirstName": "Denis Dougan"
+            },
+            "name": {
+                "first": "Denis",
+                "last": "Dougan"
+            },
+            "picture": {
+                "image": "1bf8c6_b6b13333907645eb9730bdd581ef3dc5~mv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+dexter@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "echo": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+ernie@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Echo Evangeline",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+ernie@gmail.com",
+                "contacts.displayByFirstName": "Evangeline Echo"
+            },
+            "labelKeys": [
+                "custom.barking-intensive-long-weekend"
+            ],
+            "name": {
+                "first": "Evangeline",
+                "last": "Echo"
+            },
+            "picture": {
+                "image": "1bf8c6_edf568fd0ee54a61a1be9331851e0076~mv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+ernie@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "foxtrot": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+feather@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Foxtrot Fred",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+feather@gmail.com",
+                "contacts.displayByFirstName": "Fred Foxtrot"
+            },
+            "name": {
+                "first": "Fred",
+                "last": "Foxtrot"
+            },
+            "picture": {
+                "image": "image://v1/523205_f28ead167fb548468c8fe7484149a3d8~mv2.png/240_240/523205_f28ead167fb548468c8fe7484149a3d8~mv2.png",
+                "imageProvider": "EXTERNAL"
+            }
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+feather@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "sierra": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+sarah@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "qiqgroup+sarah@gmail.com",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+sarah@gmail.com",
+                "contacts.displayByFirstName": "qiqgroup+sarah@gmail.com"
+            },
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+sarah@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "tango": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+tom@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Tango Tom",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+tom@gmail.com",
+                "contacts.displayByFirstName": "Tom Tango"
+            },
+            "name": {
+                "first": "Tom",
+                "last": "Tango"
+            },
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+tom@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "uniform": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+ulysses948@gmail.com",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+ulysses776@gmail.com",
+                    "primary": false
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+ulysses@gmail.com",
+                    "primary": false
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Uniform Ulysses",
+                "emailSubscriptions.deliverabilityStatus": "NOT_SET",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+ulysses776@gmail.com",
+                "contacts.displayByFirstName": "Ulysses Uniform"
+            },
+            "name": {
+                "first": "Ulysses",
+                "last": "Uniform"
+            },
+            "phones": [
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(905) 498-9298",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(518) 270-6373",
+                    "primary": false
+                }
+            ],
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+ulysses948@gmail.com",
+            "phone": "(905) 498-9298"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "victor": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+victor102@gmail.com",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+victor900@gmail.com",
+                    "primary": false
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+victor@gmail.com",
+                    "primary": false
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Veracruz Victor",
+                "emailSubscriptions.deliverabilityStatus": "NOT_SET",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+victor102@gmail.com",
+                "contacts.displayByFirstName": "Victor Veracruz"
+            },
+            "name": {
+                "first": "Victor",
+                "last": "Veracruz"
+            },
+            "phones": [
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(213) 926-1853",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(317) 463-8707",
+                    "primary": false
+                }
+            ],
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+victor102@gmail.com",
+            "phone": "(213) 926-1853"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "whisky": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+wendy584@gmail.com",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+wendy978@gmail.com",
+                    "primary": false
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+wendy664@gmail.com",
+                    "primary": false
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+wendy@gmail.com",
+                    "primary": false
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Whiskey Wendy",
+                "emailSubscriptions.deliverabilityStatus": "NOT_SET",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+wendy584@gmail.com",
+                "contacts.displayByFirstName": "Wendy Whiskey"
+            },
+            "name": {
+                "first": "Wendy",
+                "last": "Whiskey"
+            },
+            "phones": [
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(509) 551-3299",
+                    "primary": true
+                },
+                {
+                    "tag": "UNTAGGED",
+                    "phone": "(307) 252-7542",
+                    "primary": false
+                }
+            ],
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+wendy584@gmail.com",
+            "phone": "(509) 551-3299"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "xray": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+xavier@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "qiqgroup+xavier@gmail.com",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+xavier@gmail.com",
+                "contacts.displayByFirstName": "qiqgroup+xavier@gmail.com"
+            },
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+xavier@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "yankee": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+yuri@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "Yankee Yuri",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+yuri@gmail.com",
+                "contacts.displayByFirstName": "Yuri Yankee"
+            },
+            "name": {
+                "first": "Yuri",
+                "last": "Yankee"
+            },
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+yuri@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    },
+    "zulu": {
+        "info": {
+            "addresses": [
+                {
+                    "address": {
+                        "formatted": "United States",
+                        "country": "US"
+                    },
+                    "tag": "UNTAGGED"
+                }
+            ],
+            "emails": [
+                {
+                    "tag": "UNTAGGED",
+                    "email": "qiqgroup+zane@gmail.com",
+                    "primary": true
+                }
+            ],
+            "extendedFields": {
+                "contacts.displayByLastName": "qiqgroup+zane@gmail.com",
+                "emailSubscriptions.deliverabilityStatus": "VALID",
+                "members.membershipStatus": "APPROVED",
+                "emailSubscriptions.subscriptionStatus": "NOT_SET",
+                "members.mobile": false,
+                "emailSubscriptions.effectiveEmail": "qiqgroup+zane@gmail.com",
+                "contacts.displayByFirstName": "qiqgroup+zane@gmail.com"
+            },
+            "picture": {}
+        },
+        "primaryInfo": {
+            "email": "qiqgroup+zane@gmail.com"
+        },
+        "source": {
+            "sourceType": "ADMIN"
+        }
+    }
+}

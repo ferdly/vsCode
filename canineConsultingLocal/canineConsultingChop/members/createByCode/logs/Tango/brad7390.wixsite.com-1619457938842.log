@@ -1,0 +1,3 @@
+workerLogger.js:103 PENDING
+workerLogger.js:103 JWS.eyJraWQiOiJSc012MmV3MiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjU0NDhjMjNhLTI3MjMtNDRmOS05ODA5LWNkN2VjMDk5YTNiNVwiLFwiY29sbGVjdGlvbklkXCI6XCIxMTcwNzUwOC0xOGVkLTRhOGEtYTNjZS1lNmQ5ODkwMDdiODNcIn0iLCJpYXQiOjE2MTk0NTc5MjEsImV4cCI6MTYxOTU2NTkyMX0.wNaWI92TYofZR1tWJ6-bgfvC67ys2nC0_R3TALINOBo
+workerLogger.js:103 e {loggedIn: false, id: "5448c23a-2723-44f9-9809-cd7ec099a3b5", role: "Visitor", getUserPlans: ƒ}

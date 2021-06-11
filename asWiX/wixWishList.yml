@@ -1,0 +1,17 @@
+Wish List:
+   - Clicking 'Preview' prevents Re-Click until completion
+   - as above, clicking 'Back To Editor' prevents Reclick until completion
+   - Console Log (as with Google Dev TOols) should have an option for a Pop-Out Window for those of us with a Second Monitor
+   - access to git repository (or sync/clone with major player, GitHub or other)
+   - allow Editor window in Editor mode show '...Editor' and when in Preview mode show '...Preview'
+    - similarly, a Tab indicator that 'Editor' or 'Preview' is ready, so if on other tabs display that WiX is thinking
+   - Remember the Toolbar Position... other stuff around this, but previous versions were like what I want (not locked to bottom)
+   - have an Alert in Site Dashboard as to whether Editor is in Use
+   - Sync Data:
+    - (as is) true 'Sync', update any Published data that matches current (sandbox) data
+    - 'Replace' Whatever the Published Data is, Replace the it with the Sandbox Data
+   - ability to 'Lock' elements on the Editor UI:
+    - Alignment tool will force to Locked element
+    - distribute between two locked elements will force the distribution between those points (imagine a grid of days of the week, lock Sunday element and lock Saturday element and then distribute the other 5 day elements between them)
+    - select a group of elements by selection box on screen, then when you move those elements the locked elements stay where they are.
+    - it would be nice if there was a visual for locked elements (like the dragger handles become 'x's)

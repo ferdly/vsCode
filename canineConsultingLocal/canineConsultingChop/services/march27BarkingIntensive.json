@@ -1,0 +1,18 @@
+{
+  "directName": "March 27 Barking Intensive",
+  "directId": "d5db4861-2310-4c81-b0b0-3974a9d9b456",
+  "slots": [
+    {
+      "_id": "2y9Lvvkc0qKI6x05noJi2EvxjfDEtYSoogTYR8d7ZlRADdDaRIinjvYunzCvUhFX6CXogrX9zSOg0Q5sDKukhnuqCan6DXLa7zdir6HhsZy8lTV9bJKgFNl2EvuXTvL3Pr4v82xJ0I4woJMJAZitJbdZrEF9a45NDaAuCLW3eW3CUI2S7yKpFbHSyc7uwECETfrNqCIR0j2J41JcCgBYGHEiAai3uc1uxBXtwHDsz",
+      "startDateTime": "2021-03-27T15:00:00.000Z",
+      "endDateTime": "2021-03-29T21:00:00.000Z",
+      "serviceId": "d5db4861-2310-4c81-b0b0-3974a9d9b456",
+      "capacity": 50,
+      "remainingSpots": 49,
+      "location": {
+        "type": "OWNER_CUSTOM",
+        "locationText": "Leif Erikson Park"
+      }
+    }
+  ]
+}

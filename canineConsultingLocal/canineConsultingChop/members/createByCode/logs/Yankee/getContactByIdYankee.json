@@ -1,0 +1,48 @@
+{
+    "_createdDate": "2021-04-23T16:16:13.536Z",
+    "_id": "0f798345-7f85-4421-af92-8947c8dfc019",
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+yuri@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Yankee Yuri",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+yuri@gmail.com",
+            "contacts.displayByFirstName": "Yuri Yankee"
+        },
+        "name": {
+            "first": "Yuri",
+            "last": "Yankee"
+        },
+        "picture": {}
+    },
+    "lastActivity": {
+        "activityDate": "2021-04-23T16:17:03.788Z",
+        "activityType": "MEMBER_STATUS_CHANGED"
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+yuri@gmail.com"
+    },
+    "revision": 3,
+    "source": {
+        "sourceType": "ADMIN"
+    },
+    "_updatedDate": "2021-04-23T16:17:21.495Z"
+}

@@ -1,0 +1,416 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 1,
+            "dateString": "June 7-11, 2021",
+            "dateStart": 1623070800000,
+            "dateEnd": 1623448800000,
+            "value": "1SKCK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "1SKCK2",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Summer Kickoff Camp"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "formStack": {
+        "uniqueId": "786726067",
+        "formId": "4223065",
+        "wixWebhookId": "4fc44031-c1bc-4454-bffe-cb3ba62b3c8e"
+    },
+    "appllication": {
+        "studentStatement": "Just need to test Address Line 2"
+    },
+    "stamps": [
+        {
+            "kind": "creation",
+            "string": "Thu Apr 01 2021 10:12:29 GMT-0500 (Central Daylight Time)",
+            "iso": "20210401151229000",
+            "unix": 1617289949
+        },
+        {
+            "kind": "process",
+            "string": "Sun Apr 04 2021 14:39:30 GMT-0500 (Central Daylight Time)",
+            "iso": "20210404193930124",
+            "unix": 1617565170
+        }
+    ],
+    "family": {
+        "phones": [
+            {
+                "phone": "(615) 751-8913",
+                "role": "Primary Parent",
+                "who": "Billy Ray",
+                "kind": "cell",
+                "usage": "Personal"
+            },
+            {
+                "phone": "(615) 751-8914",
+                "role": "Home",
+                "who": "family",
+                "kind": "landline",
+                "usage": "Family"
+            },
+            {
+                "phone": "(615) 751-8915",
+                "role": "Secondary Parent",
+                "who": "Hannah",
+                "kind": "cell",
+                "usage": "Personal"
+            }
+        ],
+        "emails": [
+            {
+                "email": "qiqgroup+miley@gmail.com",
+                "role": "Primary Parent",
+                "who": "Billy Ray",
+                "kind": "home",
+                "usage": "Personal"
+            }
+        ],
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Miley",
+                "last": "Cyrus",
+                "preferred": "Hannah",
+                "studentParentCombo": "Hannah Cyrus (Billy Ray)",
+                "lastFirst": "Cyrus, Hannah",
+                "fullName": "Hannah Cyrus"
+            },
+            "declaredGender": "",
+            "studentStatement": "Just need to test Address Line 2",
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "02/28/2015",
+            "currentSchool": "Montana Elementary",
+            "currentGrade": 0,
+            "currentGradeString": "Kindergarten",
+            "currentGradeLevel": "K-2",
+            "dob": {
+                "date": "2015-02-28T06:00:00.000Z",
+                "month": 2,
+                "day": 28,
+                "year": 2015
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Cyrus",
+                "first": "Billy Ray",
+                "fullName": "Billy Ray Cyrus",
+                "lastFirst": "Cyrus, Billy Ray"
+            },
+            "secondary": {
+                "first": "Hannah",
+                "last": "Montana"
+            }
+        },
+        "addresses": [
+            {
+                "kind": "mailing",
+                "address": {
+                    "streetAddress": {
+                        "number": "101",
+                        "name": "Grand Ole Opry Way"
+                    },
+                    "city": "Nashville",
+                    "streetAddress2": "Apartment 1510",
+                    "state": "TN",
+                    "postalCode": "37201",
+                    "country": "US",
+                    "subdivision": "TN",
+                    "location": {
+                        "latitude": null,
+                        "longitue": null
+                    },
+                    "formatted": "101 Grand Ole Opry Way, Apartment 1510, Nashville, TN 37201, USA"
+                }
+            }
+        ]
+    },
+    "countWeekArray": [
+        -999,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "writeMapWeekArray": [
+        -999,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mapWeekCountObject": [
+        [
+            -999,
+            -777
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ]
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 0,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 1,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "overloadedErrorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [
+                "Student was 4 years old on September 30, 2020"
+            ],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

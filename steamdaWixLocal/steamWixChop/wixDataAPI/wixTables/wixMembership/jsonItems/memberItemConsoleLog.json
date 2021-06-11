@@ -1,0 +1,20 @@
+{
+  "_id": "95e1887c-7cb3-4649-a222-b567a3a29aa5",
+  "loginEmail": "daria.bazhinova@gmail.com",
+  "name": "Daria Bazhinov",
+  "firstName": "Daria",
+  "lastName": "Bazhinov",
+  "nickname": "Daria Bazhinov",
+  "slug": "dariabazhinova",
+  "language": "en",
+  "status": "ACTIVE",
+  "_createdDate": "2020-06-05T17:51:32.000Z",
+  "_updatedDate": "2020-06-05T19:35:48.188Z",
+  "lastLogin": "2020-09-29T00:11:10.000Z",
+  "emails": [
+    "daria.bazhinova@gmail.com"
+  ],
+  "phones": [],
+  "groups": [],
+  "contactId": "95e1887c-7cb3-4649-a222-b567a3a29aa5"
+}

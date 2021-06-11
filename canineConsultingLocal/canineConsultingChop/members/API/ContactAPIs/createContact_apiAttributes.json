@@ -1,0 +1,52 @@
+[
+    {
+      "name": "_id",
+      "type": "string",
+      "description": "Contact ID."
+    },
+    {
+      "name": "revision",
+      "type": "number",
+      "description": "Revision number| which increments by 1 each time the contact is updated. To prevent conflicting changes| the existing revision must be used when updating a contact."
+    },
+    {
+      "name": "source",
+      "type": "Source",
+      "description": "Details about the contact's source."
+    },
+    {
+      "name": "sourceType",
+      "type": "string",
+      "description": "Source type.Some possible values: 'OTHER'| 'ADMIN'| 'WIX_APP'| 'IMPORT'| 'THIRD_PARTY'| 'WIX_BOOKINGS'| 'WIX_CHAT'| 'WIX_EMAIL_MARKETING'| 'WIX_EVENTS'| 'WIX_FORMS'| 'WIX_GROUPS'| 'WIX_HOTELS'| 'WIX_MARKET_PLACE'| 'WIX_MUSIC'| 'WIX_RESTAURANTS'| 'WIX_SITE_MEMBERS'| 'WIX_STORES'"
+    },
+    {
+      "name": "appId",
+      "type": "string",
+      "description": "App ID| if the contact was created by an app."
+    },
+    {
+      "name": "_createdDate",
+      "type": "Date",
+      "description": "Date and time the contact was created."
+    },
+    {
+      "name": "_updatedDate",
+      "type": "Date",
+      "description": "Date and time the contact was last updated."
+    },
+    {
+      "name": "lastActivity",
+      "type": "LastActivity",
+      "description": "Details about the contact's last action in the site."
+    },
+    {
+      "name": "primaryInfo",
+      "type": "OPTIONAL",
+      "description": "PrimaryInfo.Contact's primary phone and email."
+    },
+    {
+      "name": "info",
+      "type": "Info",
+      "description": "Contact's details."
+    }
+   ]

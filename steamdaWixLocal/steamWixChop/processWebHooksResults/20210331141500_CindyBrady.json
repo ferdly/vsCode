@@ -1,0 +1,491 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 1,
+            "dateString": "June 7-11, 2021",
+            "dateStart": 1623070800000,
+            "dateEnd": 1623448800000,
+            "value": "1SKCK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "1SKCK2",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Summer Kickoff Camp"
+        },
+        {
+            "index": 0,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2ML35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 590
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2ML35",
+            "gradeLevel": "3-5",
+            "location": "Charlottesville Catholic",
+            "courseName": "Matter Lab"
+        },
+        {
+            "index": 0,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3SHSK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 885
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3SHSK2",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Superhero Science"
+        },
+        {
+            "index": 0,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4PH35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1180
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4PH35",
+            "gradeLevel": "3-5",
+            "location": "Charlottesville Catholic",
+            "courseName": "Photography"
+        },
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5GGK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1475
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5GGK2",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Gadgets & Gizmos"
+        },
+        {
+            "index": 0,
+            "weekId": 6,
+            "dateString": "July 19-23, 2021",
+            "dateStart": 1626699600000,
+            "dateEnd": 1627077600000,
+            "value": "6RFO35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1770
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "6RFO35",
+            "gradeLevel": "3-5",
+            "location": "Charlottesville Catholic",
+            "courseName": "Rockets & Flying Objects"
+        },
+        {
+            "index": 0,
+            "weekId": 7,
+            "dateString": "July 26-30, 2021",
+            "dateStart": 1627304400000,
+            "dateEnd": 1627682400000,
+            "value": "7GIK2H",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 240,
+                "runningTotal": 1960
+            },
+            "message": {},
+            "day": "HALF",
+            "courseId": "7GIK",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Girls Inspiration Station - HALF DAY - WAITLIST ONLY"
+        },
+        {
+            "index": 0,
+            "weekId": 8,
+            "dateString": "Aug 2-6, 2021",
+            "dateStart": 1627909200000,
+            "dateEnd": 1628287200000,
+            "value": "8MSP35",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2255
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "8MSP35",
+            "gradeLevel": "3-5",
+            "location": "STEAM Incubator",
+            "courseName": "Mission Space - WAITLIST"
+        },
+        {
+            "index": 0,
+            "weekId": 9,
+            "dateString": "August 9-14, 2021",
+            "dateStart": 1628514000000,
+            "dateEnd": 1628978400000,
+            "value": "9TVK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2550
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "9TVK2",
+            "gradeLevel": "K-2",
+            "location": "STEAM Incubator",
+            "courseName": "As Seen on TV - HALF DAY - WAITLIST ONLY"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "creationDateString": "Wed Mar 31 2021 14:12:41",
+    "creationDateUnix": 1617217961000,
+    "family": {
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Cynthia",
+                "last": "Brady",
+                "preferred": "Cindy",
+                "studentParentCombo": "Cindy Brady (CarolMartin)",
+                "lastFirst": "Brady, Cindy",
+                "fullName": "Cindy Brady"
+            },
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "06/06/2014",
+            "currentGrade": 2,
+            "currentGradeString": "Second Grade",
+            "currentGradeLevel": "K-2",
+            "dob": {
+                "date": "2014-06-06T05:00:00.000Z",
+                "month": 6,
+                "day": 6,
+                "year": 2014
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Martin",
+                "first": "Carol",
+                "fullName": "Carol Martin",
+                "lastFirst": "Martin, Carol"
+            }
+        },
+        "addresses": {
+            "mailing": {
+                "address": "11222 Dilling Street",
+                "city": "North Hollywood",
+                "state": "CA",
+                "zip": "91602"
+            }
+        }
+    },
+    "countWeekArray": [
+        -999,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "writeMapWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 4,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 1,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 2,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 3,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 4,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 5,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 6,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 7,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 8,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 0,
+                "zeroChecked": 1,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 9,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            true,
+            false,
+            false,
+            true
+        ],
+        "overloadedErrorArray": [
+            true,
+            false,
+            false,
+            true
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

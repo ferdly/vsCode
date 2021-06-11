@@ -1,0 +1,397 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5GGK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5GGK2",
+            "gradeLevel": "K-2",
+            "location": "Charlottesville Catholic",
+            "courseName": "Gadgets & Gizmos"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "formStack": {
+        "uniqueId": "786367646",
+        "formId": "4223065",
+        "wixWebhookId": "3635f797-6844-49a0-b795-0a58a79c0de3"
+    },
+    "appllication": {
+        "studentStatement": "I would like to learn new skills and socialize with other kids."
+    },
+    "stamps": [
+        {
+            "kind": "creation",
+            "string": "Wed Mar 31 2021 15:22:39 GMT-0500 (Central Daylight Time)",
+            "iso": "20210331202239000",
+            "unix": 1617222159
+        },
+        {
+            "kind": "process",
+            "string": "Sun Apr 04 2021 14:42:04 GMT-0500 (Central Daylight Time)",
+            "iso": "20210404194204808",
+            "unix": 1617565325
+        }
+    ],
+    "family": {
+        "phones": [
+            {
+                "phone": "(434) 566-8284",
+                "role": "Primary Parent",
+                "who": "Prasanna",
+                "kind": "cell",
+                "usage": "Personal"
+            }
+        ],
+        "emails": [
+            {
+                "email": "panabathula@gmail.com",
+                "role": "Primary Parent",
+                "who": "Prasanna",
+                "kind": "home",
+                "usage": "Personal"
+            }
+        ],
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Diraj",
+                "last": "Anabathula",
+                "preferred": "Diraaj",
+                "studentParentCombo": "Diraaj Anabathula (Prasanna)",
+                "lastFirst": "Anabathula, Diraaj",
+                "fullName": "Diraaj Anabathula"
+            },
+            "declaredGender": "",
+            "studentStatement": "I would like to learn new skills and socialize with other kids.",
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "01/31/2014",
+            "currentSchool": "V.L.Murray",
+            "currentGrade": 1,
+            "currentGradeString": "First Grade",
+            "currentGradeLevel": "K-2",
+            "dob": {
+                "date": "2014-01-31T06:00:00.000Z",
+                "month": 1,
+                "day": 31,
+                "year": 2014
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "e7c8d024-139a-404f-9ba2-f607a77682e1",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Anabathula",
+                "first": "Prasanna",
+                "fullName": "Prasanna Anabathula",
+                "lastFirst": "Anabathula, Prasanna"
+            }
+        },
+        "addresses": [
+            {
+                "kind": "mailing",
+                "address": {
+                    "streetAddress": {
+                        "number": "3125",
+                        "name": "morgantown rd"
+                    },
+                    "city": "charlottesville",
+                    "state": "VA",
+                    "postalCode": "22903",
+                    "country": "US",
+                    "subdivision": "VA",
+                    "location": {
+                        "latitude": null,
+                        "longitue": null
+                    },
+                    "formatted": "3125 morgantown rd, charlottesville, VA 22903, USA"
+                }
+            }
+        ]
+    },
+    "countWeekArray": [
+        -999,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "writeMapWeekArray": [
+        -999,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mapWeekCountObject": [
+        [
+            -999,
+            -777
+        ],
+        [
+            5,
+            1
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ],
+        [
+            0,
+            -999
+        ]
+    ],
+    "blockMapArray": {
+        "blockMapErrors": {
+            "zeroCheckedCount": 0,
+            "multipleCheckedCount": 0,
+            "gradeLevelMismatchCount": 0
+        },
+        "blockMapArray": [
+            {
+                "blockMap": -999,
+                "week": -999,
+                "switchIdArray": [
+                    -999
+                ],
+                "selectedCount": -999,
+                "checkedCount": -999,
+                "zeroChecked": -999,
+                "multipleChecked": -999,
+                "gradeMismatchCount": -999
+            },
+            {
+                "blockMap": 1,
+                "week": 5,
+                "switchIdArray": [
+                    "#switch101",
+                    "#switch102",
+                    "#switch103"
+                ],
+                "selectedCount": 1,
+                "checkedCount": 1,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 2,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch201",
+                    "#switch202",
+                    "#switch203"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 3,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch301",
+                    "#switch302",
+                    "#switch303"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 4,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch401",
+                    "#switch402",
+                    "#switch403"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 5,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch501",
+                    "#switch502",
+                    "#switch503"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 6,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch601",
+                    "#switch602",
+                    "#switch603"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 7,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch701",
+                    "#switch702",
+                    "#switch703"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 8,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch801",
+                    "#switch802",
+                    "#switch803"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            },
+            {
+                "blockMap": 9,
+                "week": 0,
+                "switchIdArray": [
+                    "#switch901",
+                    "#switch902",
+                    "#switch903"
+                ],
+                "selectedCount": 0,
+                "checkedCount": 0,
+                "zeroChecked": 0,
+                "multipleChecked": 0,
+                "gradeMismatchCount": 0
+            }
+        ]
+    },
+    "enrollment": {
+        "errorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "overloadedErrorArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "messages": {
+            "dox": [
+                "Zero Checked",
+                "Multible Checked",
+                "Student-Course GradeLevel",
+                "Grade-DOB",
+                "messaging specifically for the Enrollment Event"
+            ],
+            "error": [],
+            "warn": [
+                "Student was 4 years old on September 30, 2019"
+            ],
+            "fyi": [],
+            "btw": []
+        },
+        "errorNoOverloadArray": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "anyErrorWhatsoever": false
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "../canineConsultingLocal"
+    },
+    {
+      "path": "../snippets"
+    },
+    {
+      "path": "../dox/tryItGoLive/tryItQuokka"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#0066CC"
+    }
+  }
+}

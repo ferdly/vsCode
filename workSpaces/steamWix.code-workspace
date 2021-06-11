@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../steamdaWixLocal"
+    },
+    {
+      "path": "../snippets"
+    },
+    {
+      "path": "../dox/tryItGoLive/tryItQuokka"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#0066CC"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "steamdaWixLocal"
+  }
+}

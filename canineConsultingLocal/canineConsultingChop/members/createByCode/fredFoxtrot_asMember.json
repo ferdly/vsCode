@@ -1,0 +1,20 @@
+{
+    "_id": "955c303e-39ac-4308-b5ee-e3786234b70e",
+    "loginEmail": "qiqgroup+feather@gmail.com",
+    "name": "Fred Foxtrot",
+    "firstName": "Fred",
+    "lastName": "Foxtrot",
+    "picture": "//static.wixstatic.com/media/image%3A//v1/523205_f28ead167fb548468c8fe7484149a3d8%7Emv2.png/240_240/523205_f28ead167fb548468c8fe7484149a3d8%7Emv2.png",
+    "nickname": "Fred Foxtrot",
+    "slug": "qiqgroupfeather",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-03-22T18:44:27.000Z",
+    "_updatedDate": "2021-03-22T18:45:02.912Z",
+    "emails": [
+        "qiqgroup+feather@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "955c303e-39ac-4308-b5ee-e3786234b70e"
+}

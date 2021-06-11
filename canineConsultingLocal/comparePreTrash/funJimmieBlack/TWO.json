@@ -1,0 +1,111 @@
+{
+    "compareStamp": "20210520105400",
+    "gender": "custom.gender-male",
+    "name": {
+        "title": "Mr",
+        "first": "Jimmie",
+        "last": "Black"
+    },
+    "location": {
+        "street": {
+            "number": 4268,
+            "name": "Frances Ct",
+            "apt": "676"
+        },
+        "city": "Addison",
+        "state": "Vermont",
+        "country": "US",
+        "postcode": 77851,
+        "coordinates": {
+            "latitude": "-23.0989",
+            "longitude": "-81.9531"
+        },
+        "timezone": {
+            "offset": "+6:00",
+            "description": "Almaty, Dhaka, Colombo"
+        },
+        "postalCode": "77851",
+        "subdivision": "VT",
+        "addressLine2": "Box 223"
+    },
+    "email": "jimmie.black@example.com",
+    "login": {
+        "uuid": "81c640ec-52fe-4d49-bec4-43d361bff9dd",
+        "username": "custom.primary-parent",
+        "password": "trader",
+        "salt": "vi832tK8",
+        "md5": "f8d87cc27093561d84dd05749bf022b5",
+        "sha1": "b7be087fb63d5ca1efa5b30e0736a2a799f07b01",
+        "sha256": "b3e266e020e7133a1be1e449e549d87e1fb80ffaf1478137e8ff94f7dec465b1",
+        "usernameOrig": "smallfish361"
+    },
+    "dob": {
+        "date": "1958-01-17T04:28:37.901Z",
+        "age": "custom.t202106"
+    },
+    "registered": {
+        "date": "2016-11-10T14:44:08.543Z",
+        "age": 5
+    },
+    "phone": "(307)-996-8899",
+    "cell": "(446)-659-3940",
+    "id": {
+        "name": "SSN",
+        "value": "287-68-3151"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/24.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+    },
+    "nat": "US",
+    "seed": "2b09df5fa295637d",
+    "locale": "en-US",
+    "birthdate": "1958-01-17",
+    "company": "Frances Corporation",
+    "jobTitle": "Supervisor",
+    "emailPrimary": "qiqgroup+jimmie@gmail.com",
+    "developer": {
+        "transformedAttributes": [
+            [
+                "streetNumberBase: used as a 'random' number for populating _consistent/random_ data by 'seed''"
+            ],
+            [
+                "locale: literal 'en-US'"
+            ],
+            [
+                "postalCode: ensure 5 and string - left postcode as number"
+            ],
+            [
+                "birthdate: dob.date to left 10. no change to original"
+            ],
+            [
+                "subdivision: 2letter version of 'state' - original not removed"
+            ],
+            [
+                "Company: Street name + random business kind"
+            ],
+            [
+                "jobTitle: random jobTitle"
+            ],
+            [
+                "emailPrimary: qiqgroup + firstName - real so that enrollment happens"
+            ],
+            [
+                "addressLine2: random number and random type"
+            ],
+            [
+                "street.apt: random number more useful than addressLine2"
+            ],
+            [
+                "gender: changed to labelKey (original overloaded because of other code, also, core data not changed)"
+            ],
+            [
+                "login.username: changed to role labelKey (orig renamed usernameOrig)"
+            ],
+            [
+                "dob.age: changed to current summer termId tYYYY06 labelKey (age is calcuable)"
+            ]
+        ]
+    }
+}

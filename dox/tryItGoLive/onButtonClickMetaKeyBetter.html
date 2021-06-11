@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<body >
+<button onmousedown="isClickMePressed(event)">Click Here to Display Modifier Keys</button>
+<br>
+<hr>
+<br>
+
+<p id = "normalClick" style="visibility:hidden;color:white;background-color:black">None of the Modifier Keys pressed while clicking 'Click Me'.</p>
+<p id = "commandClick" style="visibility:hidden;color:white;background-color:red">The Command Key was pressed while clicking 'Click Me'.</p>
+<p id = "altClick" style="visibility:hidden;color:white;background-color:blue">The Alt Key was pressed while clicking 'Click Me'.</p>
+<p id = "controlClick" style="visibility:hidden;color:white;background-color:purple">The Control Key was pressed while clicking 'Click Me'.</p>
+<p id = "shiftClick" style="visibility:hidden;color:white;background-color:green">The Shift Key was pressed while clicking 'Click Me'.</p>
+
+<br>
+<hr>
+<br>
+<p>Click the 'Click Here to Display Modifier Keys' button to display, well,  whichever of the Modifier Keys were depressed
+while you clicked.</p>
+
+<p><strong>Tip:</strong><i>It is simpler to depress any Modifier Keys and hold
+  them depressed until after you have clicked.</i></p>
+  
+<script>
+function isClickMePressed(event) {
+  let anyModifiers = false;
+  document.getElementById("normalClick").style.visibility = "hidden"
+  document.getElementById("commandClick").style.visibility = "hidden"
+  document.getElementById("altClick").style.visibility = "hidden"
+  document.getElementById("controlClick").style.visibility = "hidden"
+  document.getElementById("shiftClick").style.visibility = "hidden"
+  if (event.metaKey) {
+    anyModifiers = true;
+    document.getElementById("commandClick").style.visibility = "visible"
+  } 
+  if(event.altKey) {
+    anyModifiers = true;
+    document.getElementById("altClick").style.visibility = "visible"
+  }
+  if(event.ctrlKey) {
+    anyModifiers = true;
+    document.getElementById("controlClick").style.visibility = "visible"
+  }
+  if(event.shiftKey) {
+    anyModifiers = true;
+    document.getElementById("shiftClick").style.visibility = "visible"
+  }
+  if(!anyModifiers){
+    document.getElementById("normalClick").style.visibility = "visible"
+  }
+}
+</script>
+
+</body>
+</html>

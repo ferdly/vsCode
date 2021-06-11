@@ -1,0 +1,36 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+sarah@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "qiqgroup+sarah@gmail.com",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+sarah@gmail.com",
+            "contacts.displayByFirstName": "qiqgroup+sarah@gmail.com"
+        },
+        "picture": {}
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+sarah@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

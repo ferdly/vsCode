@@ -1,0 +1,9 @@
+{
+    "status": "PENDING",
+    "approvalToken": "JWS.eyJraWQiOiJSc012MmV3MiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjcxNTE4YTRhLTM0Y2EtNGU1YS05NjMzLTNkNDU0OGRiZTU3OFwiLFwiY29sbGVjdGlvbklkXCI6XCIxMTcwNzUwOC0xOGVkLTRhOGEtYTNjZS1lNmQ5ODkwMDdiODNcIn0iLCJpYXQiOjE2MTkzMTE4OTksImV4cCI6MTYxOTQxOTg5OX0.zoZYGUTyOanpERFdYycpCSpOEjxbDkG60OuBc-fgXfE",
+    "user": {
+        "loggedIn": false,
+        "id": "71518a4a-34ca-4e5a-9633-3d4548dbe578",
+        "role": "Visitor"
+    }
+}

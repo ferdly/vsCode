@@ -1,0 +1,7 @@
+{
+  "_id": "071efcbe-6025-4999-9236-1929a935d089",
+  "service": "071efcbe-6025-4999-9236-1929a935d089",
+  "serviceSchedule": "{\"mon\":[],\"tue\":[],\"wed\":[],\"thu\":[],\"fri\":[],\"sat\":[],\"sun\":[]}",
+  "serviceDurationInMinutes": 90,
+  "repeatsEveryXWeeks": 1
+}

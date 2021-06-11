@@ -1,0 +1,133 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CKK2",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CKK2",
+            "gradeLevel": "K-2",
+            "location": "STEAM Incubator",
+            "courseName": "Construction Kids - HALF DAY"
+        },
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5CCK2H",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 240,
+                "runningTotal": 485
+            },
+            "message": {},
+            "day": "HALF",
+            "courseId": "5CCK",
+            "gradeLevel": "K-2",
+            "location": "STEAM Incubator",
+            "courseName": "Creative Creatures - HALF DAY"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "creationDateString": "Tue Mar 23 2021 12:20:01",
+    "creationDateUnix": 1616520001000,
+    "family": {
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Cameron",
+                "last": "Mashayekh",
+                "preferred": "Cam",
+                "lastFirst": "Mashayekh, Cam",
+                "fullName": "Cam Mashayekh",
+                "dob": "11/13/2012",
+                "currentGrad": "K-2"
+            },
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            }
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "70d909a0-49a6-42d6-a986-56c7c85ad14a",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Mashayekh",
+                "first": "Trisha",
+                "fullName": "Trisha Mashayekh",
+                "lastFirst": "Mashayekh, Trisha"
+            }
+        },
+        "addresses": {
+            "mailing": {
+                "address": "744 Concho Lane",
+                "city": "Crozet",
+                "state": "VA",
+                "zip": "22932"
+            }
+        }
+    },
+    "countWeekArray": [
+        -999,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+    ],
+    "writeMapWeekArray": [
+        -999,
+        3,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+}

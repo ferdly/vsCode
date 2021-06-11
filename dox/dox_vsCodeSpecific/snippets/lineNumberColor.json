@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "editorLineNumber.activeForeground": "#ffff00"
+    },
+    "notes": [
+        "\"editorLineNumber.foreground\": \"#999999\"",
+        "unused: that number is fine, I want the current one to be pushy"
+    ]
+}

@@ -1,0 +1,502 @@
+{
+    "courses_array": [
+        {
+            "index": 0,
+            "weekId": 1,
+            "dateString": "June 7-11, 2021",
+            "dateStart": 1623070800000,
+            "dateEnd": 1623448800000,
+            "value": "1SKC68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 295
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "1SKC68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Summer Kickoff Camp"
+        },
+        {
+            "index": 0,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2WSA47",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 590
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2WSA47",
+            "gradeLevel": "4-7",
+            "location": "Charlottesville Catholic",
+            "courseName": "Wilderness Survival & Architecture"
+        },
+        {
+            "index": 1,
+            "weekId": 2,
+            "dateString": "June 14-18, 2021",
+            "dateStart": 1623675600000,
+            "dateEnd": 1624053600000,
+            "value": "2DP68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 885
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "2DP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Drone Pilot"
+        },
+        {
+            "index": 0,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CM68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1180
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CM68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Ceramics"
+        },
+        {
+            "index": 1,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CP68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1475
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CP68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Computer Programming in Video Games & E-Sports"
+        },
+        {
+            "index": 2,
+            "weekId": 3,
+            "dateString": "June 21-25, 2021",
+            "dateStart": 1624280400000,
+            "dateEnd": 1624658400000,
+            "value": "3CE68",
+            "billing": {
+                "discount": [
+                    null,
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 1770
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "3CE68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Cardboard Engineering"
+        },
+        {
+            "index": 0,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4EA68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2065
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4EA68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Edible Art"
+        },
+        {
+            "index": 1,
+            "weekId": 4,
+            "dateString": "June 28 - July 2, 2021",
+            "dateStart": 1624885200000,
+            "dateEnd": 1625263200000,
+            "value": "4GI68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2360
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "4GI68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Girls Impact: Leaders in Science"
+        },
+        {
+            "index": 0,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5MSC68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2655
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5MSC68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Mad Science Chemistry"
+        },
+        {
+            "index": 1,
+            "weekId": 5,
+            "dateString": "July 12-16, 2021",
+            "dateStart": 1626094800000,
+            "dateEnd": 1626472800000,
+            "value": "5MGS68",
+            "billing": {
+                "discount": [
+                    null,
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 2950
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "5MGS68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Math & Game Strategy"
+        },
+        {
+            "index": 0,
+            "weekId": 6,
+            "dateString": "July 19-23, 2021",
+            "dateStart": 1626699600000,
+            "dateEnd": 1627077600000,
+            "value": "6DB68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3245
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "6DB68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Dissect Biology"
+        },
+        {
+            "index": 0,
+            "weekId": 7,
+            "dateString": "July 26-30, 2021",
+            "dateStart": 1627304400000,
+            "dateEnd": 1627682400000,
+            "value": "7FI68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3540
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "7FI68",
+            "gradeLevel": "6-8",
+            "location": "Charlottesville Catholic",
+            "courseName": "Forensic Investigators"
+        },
+        {
+            "index": 0,
+            "weekId": 8,
+            "dateString": "Aug 2-6, 2021",
+            "dateStart": 1627909200000,
+            "dateEnd": 1628287200000,
+            "value": "8MSP68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 3835
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "8MSP68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "Mission Space - WAITLIST"
+        },
+        {
+            "index": 0,
+            "weekId": 9,
+            "dateString": "August 9-14, 2021",
+            "dateStart": 1628514000000,
+            "dateEnd": 1628978400000,
+            "value": "9TV68",
+            "billing": {
+                "discount": [
+                    {
+                        "kind": "Early Bird",
+                        "amount": 50
+                    }
+                ],
+                "tuition": 345,
+                "runningTotal": 4130
+            },
+            "message": {},
+            "day": "FULL",
+            "courseId": "9TV68",
+            "gradeLevel": "6-8",
+            "location": "STEAM Incubator",
+            "courseName": "As Seen on TV"
+        }
+    ],
+    "dogs_array": [
+        "Marcy",
+        "Chester",
+        "Marais"
+    ],
+    "formStack": {
+        "uniqueId": "787812173",
+        "formId": "4223065",
+        "wixWebhookId": "9575e0b6-bab0-4212-82a9-db8083fcb448"
+    },
+    "appllication": {
+        "studentStatement": "This will be multiple course selections until 10"
+    },
+    "stamps": [
+        {
+            "kind": "creation",
+            "string": "Sun Apr 04 2021 11:10:05 GMT-0500 (Central Daylight Time)",
+            "iso": "20210404161005000",
+            "unix": 1617552605
+        },
+        {
+            "kind": "process",
+            "string": "Sun Apr 04 2021 11:16:05 GMT-0500 (Central Daylight Time)",
+            "iso": "20210404161605638",
+            "unix": 1617552966
+        }
+    ],
+    "family": {
+        "phones": [
+            {
+                "phone": "(218) 310-5153",
+                "role": "Primary Parent",
+                "who": "Carol",
+                "kind": "cell",
+                "usage": "Personal"
+            },
+            {
+                "phone": "(315) 287-2578",
+                "role": "Home",
+                "who": "family",
+                "kind": "landline",
+                "usage": "Family"
+            },
+            {
+                "phone": "(218) 595-0499",
+                "role": "Secondary Parent",
+                "who": "Mike",
+                "kind": "cell",
+                "usage": "Personal"
+            }
+        ],
+        "emails": [
+            {
+                "email": "qiqgroup+jan@gmail.com",
+                "role": "Primary Parent",
+                "who": "Carol",
+                "kind": "home",
+                "usage": "Personal"
+            }
+        ],
+        "messages": {
+            "dox": [
+                "only messages you want the Whole Family to see"
+            ]
+        },
+        "student": {
+            "name": {
+                "first": "Janet",
+                "last": "Brady",
+                "preferred": "Jan",
+                "studentParentCombo": "Jan Brady (CarolMartin)",
+                "lastFirst": "Brady, Jan",
+                "fullName": "Jan Brady"
+            },
+            "declaredGender": "female",
+            "studentStatement": "This will be multiple course selections until 10",
+            "messages": {
+                "dox": [
+                    "messages you want the Student only to see"
+                ]
+            },
+            "dobString": "04/10/2008",
+            "currentSchool": "Clinton Elementary",
+            "currentGrade": 6,
+            "currentGradeString": "Sixth Grade",
+            "currentGradeLevel": "6-8"
+        },
+        "parent": {
+            "messages": {
+                "dox": [
+                    "messages you want Both Parents to see"
+                ]
+            },
+            "primary": {
+                "memberId": "INSTANTIATE",
+                "messages": {
+                    "dox": [
+                        "messages you want the Primary Parent/Web Account Holder only to see"
+                    ]
+                },
+                "last": "Martin",
+                "first": "Carol",
+                "fullName": "Carol Martin",
+                "lastFirst": "Martin, Carol"
+            },
+            "secondary": {
+                "first": "Mike",
+                "last": "Brady"
+            }
+        },
+        "addresses": [
+            {
+                "kind": "mailing",
+                "address": {
+                    "streetAddress": {
+                        "number": "11222",
+                        "name": "Dilling Street"
+                    },
+                    "city": "North Hollywood",
+                    "state": "CA",
+                    "postalCode": "91602",
+                    "country": "US",
+                    "subdivision": "CA",
+                    "location": {
+                        "latitude": null,
+                        "longitue": null
+                    },
+                    "formatted": "11222 Dilling Street, North Hollywood, CA 91602, USA"
+                }
+            }
+        ]
+    },
+    "countWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+    ],
+    "writeMapWeekArray": [
+        -999,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ]
+}

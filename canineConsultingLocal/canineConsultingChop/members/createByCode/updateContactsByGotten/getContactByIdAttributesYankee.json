@@ -1,0 +1,40 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+yuri@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Yankee Yuri",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+yuri@gmail.com",
+            "contacts.displayByFirstName": "Yuri Yankee"
+        },
+        "name": {
+            "first": "Yuri",
+            "last": "Yankee"
+        },
+        "picture": {}
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+yuri@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

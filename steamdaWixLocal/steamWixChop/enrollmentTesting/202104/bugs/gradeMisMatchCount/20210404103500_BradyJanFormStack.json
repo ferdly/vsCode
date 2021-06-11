@@ -1,0 +1,142 @@
+{
+    "FormID": "4223065",
+    "UniqueID": "787812173",
+    "HandshakeKey": "AB324590076895D72F0F36A40070CEAB038B99982F41ACFA83EE6DDCDFF4BB2A",
+    "student_information": "",
+    "student_name": {
+        "first": "Janet",
+        "last": "Brady"
+    },
+    "preferred_name": "Jan",
+    "date_of_birth": "04/10/2008",
+    "gender": "female",
+    "grade_during_the_202021_school_year": [
+        {
+            "value": "6",
+            "label": "Sixth Grade"
+        }
+    ],
+    "current_school": "Clinton Elementary",
+    "have_you_attended_steam_discovery_academy_before": "No",
+    "why_are_you_interested_in_attending_steam_discovery_academy_this_summer": "This will be multiple course selections until 10",
+    "how_did_you_hear_about_us": "Eve Plum",
+    "have_you_discussed_the_course_selection": "Yes",
+    "parentguardian_information": "",
+    "primary_parentguardian_name": {
+        "first": "Carol",
+        "last": "Martin"
+    },
+    "mailing_address": {
+        "address": "11222 Dilling Street",
+        "city": " North Hollywood",
+        "state": "CA",
+        "zip": "91602"
+    },
+    "primary_mobile_phone": "(218) 310-5153",
+    "secondary_phone": "(315) 287-2578",
+    "primary_email_address": "qiqgroup+jan@gmail.com",
+    "second_parentguardian_phone": {
+        "first": "Mike",
+        "last": "Brady"
+    },
+    "secondary_parentguardian_mobile_phone": "(218) 595-0499",
+    "i_certify_that_i_am_the_legal_guardian_of_this_participant_and_am_allowing_himher_to_participate_in_the_steam_discovery_academy": "Yes",
+    "2021_course_selection": "",
+    "week_1_june_711_2021": [
+        {
+            "value": "1SKC68",
+            "label": "6-8: Summer Kickoff Camp - Charlottesville Catholic"
+        }
+    ],
+    "week_2_june_1418_2021": [
+        {
+            "value": "2WSA47",
+            "label": "4-7: Wilderness Survival & Architecture - Charlottesville Catholic"
+        },
+        {
+            "value": "2DP68",
+            "label": "6-8: Drone Pilot - Charlottesville Catholic"
+        }
+    ],
+    "week_3_june_2125_2021": [
+        {
+            "value": "3CM68",
+            "label": "6-8: Ceramics - Charlottesville Catholic"
+        },
+        {
+            "value": "3CP68",
+            "label": "6-8: Computer Programming in Video Games & E-Sports - Charlottesville Catholic"
+        },
+        {
+            "value": "3CE68",
+            "label": "6-8: Cardboard Engineering - STEAM Incubator"
+        }
+    ],
+    "week_4_june_28july_2_2021": [
+        {
+            "value": "4EA68",
+            "label": "6-8: Edible Art - Charlottesville Catholic"
+        },
+        {
+            "value": "4GI68",
+            "label": "6-8: Girls Impact: Leaders in Science - STEAM Incubator"
+        }
+    ],
+    "week_5_july_1216_2021": [
+        {
+            "value": "5MSC68",
+            "label": "6-8: Mad Science Chemistry - Charlottesville Catholic"
+        },
+        {
+            "value": "5MGS68",
+            "label": "6-8: Math & Game Strategy - STEAM Incubator"
+        }
+    ],
+    "week_6_july_1923_2021": [
+        {
+            "value": "6DB68",
+            "label": "6-8: Dissect Biology - Charlottesville Catholic"
+        }
+    ],
+    "week_7_july_2630_2021": [
+        {
+            "value": "7FI68",
+            "label": "6-8: Forensic Investigators - Charlottesville Catholic"
+        }
+    ],
+    "week_8_aug_26_2021": [
+        {
+            "value": "8MSP68",
+            "label": "6-8: Mission Space - WAITLIST - STEAM Incubator"
+        }
+    ],
+    "week_9_august_914_2021": [
+        {
+            "value": "9TV68",
+            "label": "6-8: As Seen on TV - STEAM Incubator"
+        }
+    ],
+    "student_acknowledgement": "JB",
+    "i_agree_to_abide_by_the_behavior_standards_set_forth_by_steam_discovery_academy_to_participate_in_all_planned_events_and_activities": "Yes",
+    "i_understand_that_as_part_of_my_course_i_will_have_access_to_expensive_and_fragile_tools_such_as_ipads_drones_and_robots_i_agree_to_use_all_tools_and_equipment_responsibly_and_as_it_is_intended_i_acknowledge_that_intentional_misuse_and_damage_will_result_in_a_replacement_fee_at_retail_rate": null,
+    "parent_acknowledgment": "C M",
+    "waivers_and_release_form": "",
+    "initials": "C M",
+    "photo_release": "Approved",
+    "parentguardian_signature_required": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10338369166",
+    "date_": "04/04/2021",
+    "parentguardian_signature": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10338369168",
+    "date": "04/04/2021",
+    "application_deposit__program_payment": "",
+    "please_indicate_how_you_would_like_to_be_invoiced": "One Invoice",
+    "application_deposit": {
+        "0": "quantity",
+        "1": "total",
+        "charge_type": "fixed_amount",
+        "unit_price": "75"
+    },
+    "credit_card": {
+        "card": "************6626",
+        "cardexp": "01/22"
+    }
+}

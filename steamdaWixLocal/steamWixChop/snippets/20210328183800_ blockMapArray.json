@@ -1,0 +1,146 @@
+{
+    "blockMapErrors": {
+        "zeroCheckedCount": 1,
+        "multipleCheckedCount": 0
+    },
+    "blockMapArray": [
+        {
+            "blockMap": -999,
+            "week": -999,
+            "switchIdArray": [
+                -999
+            ],
+            "selectedCount": -999,
+            "checkedCount": -999,
+            "zeroChecked": -999,
+            "multipleChecked": -999,
+            "gradeMismatchCount": -999
+        },
+        {
+            "blockMap": 1,
+            "week": 4,
+            "switchIdArray": [
+                "#switch101",
+                "#switch102",
+                "#switch103"
+            ],
+            "selectedCount": 1,
+            "checkedCount": 0,
+            "zeroChecked": 1,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 2,
+            "week": 0,
+            "switchIdArray": [
+                "#switch201",
+                "#switch202",
+                "#switch203"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 3,
+            "week": 0,
+            "switchIdArray": [
+                "#switch301",
+                "#switch302",
+                "#switch303"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 4,
+            "week": 0,
+            "switchIdArray": [
+                "#switch401",
+                "#switch402",
+                "#switch403"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 5,
+            "week": 0,
+            "switchIdArray": [
+                "#switch501",
+                "#switch502",
+                "#switch503"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 6,
+            "week": 0,
+            "switchIdArray": [
+                "#switch601",
+                "#switch602",
+                "#switch603"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 7,
+            "week": 0,
+            "switchIdArray": [
+                "#switch701",
+                "#switch702",
+                "#switch703"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 8,
+            "week": 0,
+            "switchIdArray": [
+                "#switch801",
+                "#switch802",
+                "#switch803"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        },
+        {
+            "blockMap": 9,
+            "week": 0,
+            "switchIdArray": [
+                "#switch901",
+                "#switch902",
+                "#switch903"
+            ],
+            "selectedCount": 0,
+            "checkedCount": 0,
+            "zeroChecked": 0,
+            "multipleChecked": 0,
+            "gradeMismatchCount": 0
+        }
+    ]
+}

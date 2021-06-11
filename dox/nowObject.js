@@ -1,0 +1,13 @@
+ let dob = new Date(enrollmentObject.family.student.dobString);
+     let dobString = enrollmentObject.family.student.dobString;
+     console.log(dobString);
+     console.log(dob);
+     // enrollmentObject.family.student.dobString = dobString;
+     enrollmentObject.family.student.dob = {};
+     enrollmentObject.family.student.dob.date = dob;
+     let month = dob.getMonth() + 1;
+     enrollmentObject.family.student.dob.month = month;
+     let day = dob.getDate();
+     enrollmentObject.family.student.dob.day = day;
+     let year = dob.getFullYear();
+     enrollmentObject.family.student.dob.year = year;

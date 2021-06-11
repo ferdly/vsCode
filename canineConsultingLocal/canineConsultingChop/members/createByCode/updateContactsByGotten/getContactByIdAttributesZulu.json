@@ -1,0 +1,36 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+zane@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "qiqgroup+zane@gmail.com",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+zane@gmail.com",
+            "contacts.displayByFirstName": "qiqgroup+zane@gmail.com"
+        },
+        "picture": {}
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+zane@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

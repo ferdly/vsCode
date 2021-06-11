@@ -1,0 +1,44 @@
+{
+    "_createdDate": "2021-04-23T15:52:31.644Z",
+    "_id": "1ff21d64-af4d-411a-8258-4da8e8a75a22",
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+zane@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "qiqgroup+zane@gmail.com",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+zane@gmail.com",
+            "contacts.displayByFirstName": "qiqgroup+zane@gmail.com"
+        },
+        "picture": {}
+    },
+    "lastActivity": {
+        "activityDate": "2021-04-23T16:11:33.097Z",
+        "activityType": "MEMBER_LOGIN"
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+zane@gmail.com"
+    },
+    "revision": 4,
+    "source": {
+        "sourceType": "ADMIN"
+    },
+    "_updatedDate": "2021-04-23T16:11:33.421Z"
+}

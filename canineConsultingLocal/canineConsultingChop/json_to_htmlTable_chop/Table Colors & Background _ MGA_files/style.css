@@ -1,0 +1,65 @@
+/* GLOBAL */
+body { background-color:#f0f0f0; }
+.container { background-color:#FFF; }
+
+/* HEADER */
+header.row { padding-top:15px; }
+.siteTitle, .siteTitle:visited { text-align:center; display:block; 
+    padding:30px 0% 0px 0%; font-size:1.9em; color:#633393; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.siteTitle:hover, .siteTitle:focus { color:orange; }
+
+
+/* NAVIGATION */
+nav { font-size:90%;  }
+nav ul, nav li { margin:0; padding:0; list-style-type:none; }
+nav > ul > li > ul > li { padding-left:10px; }
+nav > ul > li > ul > li > ul > li { padding-left:10px; }
+.togMenu { font-size:135%;}
+.togMenu:hover, .togMenu:focus { text-decoration:none; }
+a.selected { color:red; }
+
+#bookMenu { display:inline-block;}
+
+/* MAIN */
+.main .bread { font-size:.85em; width:95%; }
+.main .drop { padding:3px 6px; font-size:12px; height:auto; }
+.main figure { background-color:#f0f0f0; padding-top:10px; padding-bottom:1px;}
+.main figure * { padding-left:3%; padding-right:3%; }
+.main figure em, .main figure code, .main figure strong { padding:0; }
+.main figure img { margin:0 auto; }
+.main figcaption h4 {font-weight:bold; }
+.main figcaption p {  }
+.main .em { font-style:italic; }
+.main blockquote h5 { font-weight:bold; }
+.main blockquote p { font-size:90%; }
+.main pre code { color: #c7254e}
+.main .top { font-size:75%;}
+.main .deprecated { background-color:#f5f5f5; margin-left:1%; padding-left:1%; padding-top:5px; 
+                    padding-bottom:5px; border-left:1px solid red; }
+
+.main h1, .main h2, .main h3, .main h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* FOOTER */
+footer { text-align:center; }
+
+/* RESUSABLE */
+.underline { text-decoration:underline; }
+
+@media print {
+    header, footer, nav, .main .bread, .bNav { display:none; }
+    .bookMenu a:after{content:" (" attr(href) ") "; font-size:0.8em;font-weight:normal;} 
+}
+
+@media only screen and (max-width:992px) {
+    nav { font-size:1em; }
+    .main .drop { display:inline-block; width:80%; }
+}
+
+@media only screen and (min-width:1200px) {
+    nav { font-size:1em; }
+
+}

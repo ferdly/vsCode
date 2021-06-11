@@ -1,0 +1,21 @@
+{
+    "_id": "INSTANTIATE",
+    "loginEmail": "qiqgroup+ernie@gmail.com",
+    "name": "Eva Echo",
+    "firstName": "Evangeline",
+    "lastName": "Echo",
+    "picture": "",
+    "nickname": "",
+    "slug": "",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "",
+    "_updatedDate": "",
+    "lastLogin": "",
+    "emails": [
+        "qiqgroup+ernie@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "INSTANTIATE"
+}

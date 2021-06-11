@@ -1,0 +1,74 @@
+{
+    "FormID": "4223065",
+    "UniqueID": "786367646",
+    "HandshakeKey": "AB324590076895D72F0F36A40070CEAB038B99982F41ACFA83EE6DDCDFF4BB2A",
+    "student_information": "",
+    "student_name": {
+        "first": "Diraj",
+        "last": "Anabathula        "
+    },
+    "preferred_name": "Diraaj",
+    "date_of_birth": "01/31/2014",
+    "gender": "",
+    "grade_during_the_202021_school_year": [
+        {
+            "value": "1",
+            "label": "First Grade"
+        }
+    ],
+    "current_school": "V.L.Murray",
+    "have_you_attended_steam_discovery_academy_before": "No",
+    "why_are_you_interested_in_attending_steam_discovery_academy_this_summer": "I would like to learn new skills and socialize with other kids.",
+    "how_did_you_hear_about_us": "",
+    "have_you_discussed_the_course_selection": "Yes",
+    "parentguardian_information": "",
+    "primary_parentguardian_name": {
+        "first": "Prasanna",
+        "last": "Anabathula"
+    },
+    "mailing_address": {
+        "address": "3125 morgantown rd",
+        "city": "charlottesville",
+        "state": "VA",
+        "zip": "22903"
+    },
+    "primary_mobile_phone": "(434) 566-8284",
+    "secondary_phone": "",
+    "primary_email_address": "panabathula@gmail.com",
+    "second_parentguardian_phone": "",
+    "secondary_parentguardian_mobile_phone": "",
+    "i_certify_that_i_am_the_legal_guardian_of_this_participant_and_am_allowing_himher_to_participate_in_the_steam_discovery_academy": "Yes",
+    "2021_course_selection": "",
+    "week_1_june_711_2021": null,
+    "week_2_june_1418_2021": null,
+    "week_3_june_2125_2021": null,
+    "week_4_june_28july_2_2021": null,
+    "week_5_july_1216_2021": [
+        {
+            "value": "5GGK2",
+            "label": "K-2: Gadgets & Gizmos  - Charlottesville Catholic"
+        }
+    ],
+    "week_6_july_1923_2021": null,
+    "week_7_july_2630_2021": null,
+    "week_8_aug_26_2021": null,
+    "week_9_august_914_2021": null,
+    "student_acknowledgement": "Diraj",
+    "i_agree_to_abide_by_the_behavior_standards_set_forth_by_steam_discovery_academy_to_participate_in_all_planned_events_and_activities": "Yes",
+    "i_understand_that_as_part_of_my_course_i_will_have_access_to_expensive_and_fragile_tools_such_as_ipads_drones_and_robots_i_agree_to_use_all_tools_and_equipment_responsibly_and_as_it_is_intended_i_acknowledge_that_intentional_misuse_and_damage_will_result_in_a_replacement_fee_at_retail_rate": null,
+    "parent_acknowledgment": "Prasanna Anabathula",
+    "waivers_and_release_form": "",
+    "initials": "PA",
+    "photo_release": "Approved",
+    "parentguardian_signature_required": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10320661269",
+    "date_": "03/31/2021",
+    "parentguardian_signature": "https://steamdiscoveryacademy.formstack.com/admin/download/file/10320661272",
+    "date": "03/31/2021",
+    "application_deposit__program_payment": "",
+    "please_indicate_how_you_would_like_to_be_invoiced": "Two Invoices",
+    "application_deposit": [],
+    "credit_card": {
+        "card": "************1465",
+        "cardexp": "06/24"
+    }
+}

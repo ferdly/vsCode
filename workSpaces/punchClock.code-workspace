@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "../punchClockLocal"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#0066CC"
+    }
+  }
+}

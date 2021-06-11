@@ -1,0 +1,40 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+tom@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Tango Tom",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+tom@gmail.com",
+            "contacts.displayByFirstName": "Tom Tango"
+        },
+        "name": {
+            "first": "Tom",
+            "last": "Tango"
+        },
+        "picture": {}
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+tom@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

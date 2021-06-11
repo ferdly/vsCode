@@ -1,0 +1,63 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+ulysses948@gmail.com",
+                "primary": true
+            },
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+ulysses776@gmail.com",
+                "primary": false
+            },
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+ulysses@gmail.com",
+                "primary": false
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Uniform Ulysses",
+            "emailSubscriptions.deliverabilityStatus": "NOT_SET",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+ulysses776@gmail.com",
+            "contacts.displayByFirstName": "Ulysses Uniform"
+        },
+        "name": {
+            "first": "Ulysses",
+            "last": "Uniform"
+        },
+        "phones": [
+            {
+                "tag": "UNTAGGED",
+                "phone": "(905) 498-9298",
+                "primary": true
+            },
+            {
+                "tag": "UNTAGGED",
+                "phone": "(518) 270-6373",
+                "primary": false
+            }
+        ],
+        "picture": {}
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+ulysses948@gmail.com",
+        "phone": "(905) 498-9298"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

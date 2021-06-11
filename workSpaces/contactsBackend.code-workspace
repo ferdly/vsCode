@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../canineConsultingLocal/canineConsulting/workflowContactsMembers"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+            "tab.activeBackground": "#0066CC",
+            "editorLineNumber.activeForeground": "#ffff00"
+        },
+		"workbench.editorAssociations": [
+		
+		]
+	}
+}

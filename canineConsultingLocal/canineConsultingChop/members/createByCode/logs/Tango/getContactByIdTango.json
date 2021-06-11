@@ -1,0 +1,48 @@
+{
+    "_createdDate": "2021-04-26T17:25:20.567Z",
+    "_id": "5448c23a-2723-44f9-9809-cd7ec099a3b5",
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+tom@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Tango Tom",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+tom@gmail.com",
+            "contacts.displayByFirstName": "Tom Tango"
+        },
+        "name": {
+            "first": "Tom",
+            "last": "Tango"
+        },
+        "picture": {}
+    },
+    "lastActivity": {
+        "activityDate": "2021-04-26T18:42:56.054Z",
+        "activityType": "MEMBER_LOGIN"
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+tom@gmail.com"
+    },
+    "revision": 4,
+    "source": {
+        "sourceType": "ADMIN"
+    },
+    "_updatedDate": "2021-04-26T18:42:56.644Z"
+}

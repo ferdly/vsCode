@@ -1,0 +1,22 @@
+{
+  "_id": "071efcbe-6025-4999-9236-1929a935d089",
+  "serviceName": "Flight Evolution",
+  "serviceType": "CLASS",
+  "imageURL": "wix:image://v1/38f83c_8096883d088446dd928f22a9999d62f4~mv2.jpg/38f83c_8096883d088446dd928f22a9999d62f4~mv2.jpg#originWidth=2250&originHeight=3000",
+  "description": "Discover the technology, design, and skills needed to launch various aircraft. Develop and test parachutes, gliders, airplanes, and water rockets. ",
+  "tagLine": "Grades K-8",
+  "servicePageUrl": "/bookings-checkout/flight-evolution",
+  "bookingsFlowEntryUrl": "/bookings-checkout/flight-evolution/book",
+  "priceSummary": "$30.00",
+  "slug": "flight-evolution",
+  "paymentType": "ONLINE",
+  "partOfPricingPlan": false,
+  "priceAmount": 30,
+  "depositAmount": 0,
+  "currency": "USD",
+  "maxSessionCapacity": 15,
+  "maxNumberOfParticipantsPerReservation": 3,
+  "form": "{\"fields\":[{\"_id\":\"00000000-0000-0000-0000-000000000002\",\"type\":\"email\",\"label\":\"Parent Email\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"00000000-0000-0000-0000-000000000003\",\"type\":\"tel\",\"label\":\"Parent Phone Number\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"00000000-0000-0000-0000-000000000001\",\"type\":\"text\",\"label\":\"Parent Full Name\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"00000000-0000-0000-0000-000000000008\",\"type\":\"text\",\"label\":\"Student 1 Full Name\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"6c90f190-ce5b-4294-9588-e4f63c373f70\",\"type\":\"text\",\"label\":\"Student 2 Full Name\",\"link\":null,\"constraints\":{\"required\":false}},{\"_id\":\"5c4090ed-5a4d-4682-9483-dea809ef7c6c\",\"type\":\"text\",\"label\":\"Student 1 Grade\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"5ecb61cd-8024-402e-a150-a05dc6a65227\",\"type\":\"text\",\"label\":\"Student 2 Grade\",\"link\":null,\"constraints\":{\"required\":false}},{\"_id\":\"3bc0bde5-2d60-491d-b311-a67ad690b039\",\"type\":\"text\",\"label\":\"Student 1 Age\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"cfeb3981-c6db-4712-bb50-116af11d1191\",\"type\":\"text\",\"label\":\"Student 2 Age\",\"link\":null,\"constraints\":{\"required\":false}},{\"_id\":\"e7239d21-388a-4a64-8d5a-e620775cce74\",\"type\":\"text\",\"label\":\"Current School\",\"link\":null,\"constraints\":{\"required\":false}},{\"_id\":\"84e4ae3f-1b3d-4785-b087-d872dbf3c293\",\"type\":\"checkbox\",\"label\":\"I certify that I am the legal guardian of this participant and I am allowing him/her to participate in the STEAM Discovery Academy.\",\"link\":null,\"constraints\":{\"required\":true}},{\"_id\":\"00bf7cf6-d237-4167-96a3-bf8cd3f717fc\",\"type\":\"checkbox\",\"label\":\"I agree to the Terms & Conditions\",\"link\":{\"url\":\"https://www.steamda.com/cancellationT&Cs\",\"text\":\"View Terms\"},\"constraints\":{\"required\":true}}]}",
+  "link-services-all": "/services/",
+  "link-services-slug": "/services/flight-evolution"
+}

@@ -1,0 +1,161 @@
+brad@Brads-MBP-2 ~ % brew upgrade
+==> Upgrading 6 outdated packages:
+libtool 2.4.6_2 -> 2.4.6_3
+nettle 3.7.1 -> 3.7.2
+emacs 27.1 -> 27.2
+openssl@1.1 1.1.1j -> 1.1.1k
+node 15.11.0 -> 15.13.0
+git 2.30.2 -> 2.31.1
+==> Upgrading openssl@1.1 1.1.1j -> 1.1.1k 
+==> Downloading https://homebrew.bintray.com/bottles/openssl%401.1-1.1.1k.catali
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/cb610ecdda346011031b8
+######################################################################## 100.0%
+==> Pouring openssl@1.1-1.1.1k.catalina.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+==> Caveats
+A CA file has been bootstrapped using certificates from the system
+keychain. To add additional certificates, place .pem files in
+  /usr/local/etc/openssl@1.1/certs
+
+and run
+  /usr/local/opt/openssl@1.1/bin/c_rehash
+
+openssl@1.1 is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides LibreSSL.
+
+If you need to have openssl@1.1 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find openssl@1.1 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+
+For pkg-config to find openssl@1.1 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+
+==> Summary
+🍺  /usr/local/Cellar/openssl@1.1/1.1.1k: 8,071 files, 18.5MB
+Removing: /usr/local/Cellar/openssl@1.1/1.1.1j... (8,071 files, 18.5MB)
+Removing: /Users/brad/Library/Caches/Homebrew/openssl@1.1--1.1.1j.catalina.bottle.tar.gz... (5.4MB)
+==> Upgrading libtool 2.4.6_2 -> 2.4.6_3 
+==> Downloading https://homebrew.bintray.com/bottles/m4-1.4.18.catalina.bottle.1
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/2fdf452c94c6b63ea0a45
+######################################################################## 100.0%
+==> Downloading https://homebrew.bintray.com/bottles/libtool-2.4.6_3.catalina.bo
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/9e4b12c13734a5f1b72df
+######################################################################## 100.0%
+==> Installing dependencies for libtool: m4
+==> Installing libtool dependency: m4
+==> Pouring m4-1.4.18.catalina.bottle.1.tar.gz
+==> Caveats
+m4 is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have m4 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/m4/bin:$PATH"' >> ~/.zshrc
+
+==> Summary
+🍺  /usr/local/Cellar/m4/1.4.18: 13 files, 672.3KB
+==> Installing libtool
+==> Pouring libtool-2.4.6_3.catalina.bottle.tar.gz
+==> Caveats
+In order to prevent conflicts with Apple's own libtool we have prepended a "g"
+so, you have instead: glibtool and glibtoolize.
+==> Summary
+🍺  /usr/local/Cellar/libtool/2.4.6_3: 71 files, 3.7MB
+Removing: /usr/local/Cellar/libtool/2.4.6_2... (71 files, 3.7MB)
+==> Upgrading nettle 3.7.1 -> 3.7.2 
+==> Downloading https://homebrew.bintray.com/bottles/nettle-3.7.2.catalina.bottl
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/08a2b9568b211c2c8dbf2
+######################################################################## 100.0%
+==> Pouring nettle-3.7.2.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/nettle/3.7.2: 89 files, 2.7MB
+Removing: /usr/local/Cellar/nettle/3.7.1... (89 files, 2.7MB)
+Removing: /Users/brad/Library/Caches/Homebrew/nettle--3.7.1.catalina.bottle.tar.gz... (940KB)
+==> Upgrading emacs 27.1 -> 27.2 
+==> Downloading https://homebrew.bintray.com/bottles/emacs-27.2.catalina.bottle.
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/53b0d78af688a20e12e89
+######################################################################## 100.0%
+==> Pouring emacs-27.2.catalina.bottle.tar.gz
+==> Caveats
+To have launchd start emacs now and restart at login:
+  brew services start emacs
+Or, if you don't want/need a background service you can just run:
+  emacs
+==> Summary
+🍺  /usr/local/Cellar/emacs/27.2: 4,012 files, 104.3MB
+Removing: /usr/local/Cellar/emacs/27.1... (4,009 files, 104.1MB)
+Removing: /Users/brad/Library/Caches/Homebrew/emacs--27.1.catalina.bottle.1.tar.gz... (44.3MB)
+==> Upgrading node 15.11.0 -> 15.13.0 
+==> Downloading https://homebrew.bintray.com/bottles/node-15.13.0.catalina.bottl
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/56e0aef90c9e3efcc5d45
+######################################################################## 100.0%
+==> Pouring node-15.13.0.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/node/15.13.0: 3,273 files, 55.6MB
+Removing: /usr/local/Cellar/node/15.11.0... (3,298 files, 56.5MB)
+Removing: /Users/brad/Library/Caches/Homebrew/node--15.11.0.catalina.bottle.tar.gz... (15.5MB)
+==> Upgrading git 2.30.2 -> 2.31.1 
+==> Downloading https://homebrew.bintray.com/bottles/git-2.31.1.catalina.bottle.
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/6247bd388d85b30900923
+######################################################################## 100.0%
+==> Pouring git-2.31.1.catalina.bottle.tar.gz
+==> Caveats
+The Tcl/Tk GUIs (e.g. gitk, git-gui) are now in the `git-gui` formula.
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+==> Summary
+🍺  /usr/local/Cellar/git/2.31.1: 1,508 files, 41MB
+Removing: /usr/local/Cellar/git/2.30.2... (1,501 files, 40.5MB)
+Removing: /Users/brad/Library/Caches/Homebrew/git--2.30.2.catalina.bottle.tar.gz... (14.8MB)
+==> Caveats
+==> openssl@1.1
+A CA file has been bootstrapped using certificates from the system
+keychain. To add additional certificates, place .pem files in
+  /usr/local/etc/openssl@1.1/certs
+
+and run
+  /usr/local/opt/openssl@1.1/bin/c_rehash
+
+openssl@1.1 is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides LibreSSL.
+
+If you need to have openssl@1.1 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find openssl@1.1 you may need to set:
+  export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include"
+
+For pkg-config to find openssl@1.1 you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+
+==> m4
+m4 is keg-only, which means it was not symlinked into /usr/local,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have m4 first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/m4/bin:$PATH"' >> ~/.zshrc
+
+==> libtool
+In order to prevent conflicts with Apple's own libtool we have prepended a "g"
+so, you have instead: glibtool and glibtoolize.
+==> emacs
+To have launchd start emacs now and restart at login:
+  brew services start emacs
+Or, if you don't want/need a background service you can just run:
+  emacs
+==> git
+The Tcl/Tk GUIs (e.g. gitk, git-gui) are now in the `git-gui` formula.
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+brad@Brads-MBP-2 ~ % 

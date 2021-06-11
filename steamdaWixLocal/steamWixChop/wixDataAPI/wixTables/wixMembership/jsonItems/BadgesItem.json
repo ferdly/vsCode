@@ -1,0 +1,13 @@
+{
+    "_id": "ID Demo",
+    "title": "Title Demo",
+    "description": "Description Demo",
+    "backgroundColor": "Background Color Demo",
+    "textColor": "Text Color Demo",
+    "icon": "",
+    "roleId": "Role ID Demo",
+    "slug": "Slug Demo",
+    "_createdDate": "Nov 15, 2020, 05:09 PM",
+    "_updatedDate": "Nov 15, 2020, 05:09 PM",
+    "members": "Members Demo"
+}

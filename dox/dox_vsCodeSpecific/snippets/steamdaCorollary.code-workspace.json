@@ -1,0 +1,31 @@
+{
+    "path": "/Users/brad/Documents/bradRepositories/vsCode/steamdaCorollary.code-workspace",
+    "relativePath": "steamdaCorollary.code-workspace",
+    "goTo": {
+        "Command + , ": {
+            "Settings": {
+                "Workspace": {
+                    "Workbench": {
+                        "Editor Associations": {
+                            "in settings.json": "click"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "jsonContent": {
+        "folders": [
+            {
+                "path": "."
+            }
+        ],
+        "settings": {
+            "workbench.colorCustomizations": {
+                "tab.activeBackground": "#0066CC",
+                "editorLineNumber.activeForeground": "#ffff00"
+            },
+            "workbench.editorAssociations": []
+        }
+    }
+}

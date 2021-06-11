@@ -1,0 +1,25 @@
+{
+    "_id": "a7b26181-add5-4e81-8a80-2b45f0177034",
+    "loginEmail": "qiqgroup+ulysses@gmail.com",
+    "name": "Ulysses Uniform",
+    "firstName": "Ulysses",
+    "lastName": "Uniform",
+    "nickname": "Ulysses Uniform",
+    "slug": "qiqgroupulysses",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "2021-04-25T14:37:08.000Z",
+    "_updatedDate": "2021-04-25T14:42:06.301Z",
+    "emails": [
+        "qiqgroup+ulysses948@gmail.com",
+        "qiqgroup+ulysses776@gmail.com",
+        "qiqgroup+ulysses@gmail.com"
+    ],
+    "phones": [
+        "9054989298",
+        "5182706373"
+    ],
+    "mainPhone": "9054989298",
+    "groups": [],
+    "contactId": "a7b26181-add5-4e81-8a80-2b45f0177034"
+}

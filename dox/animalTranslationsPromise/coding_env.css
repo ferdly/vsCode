@@ -1,0 +1,29 @@
+/**
+  * coding_env.css
+ */
+
+ body {
+     background-color:lemonchiffon;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ #responseFieldSet{
+   background-color: #fff;
+   border: 5px solid #000;
+   padding: 20px;
+  }
+  #title{
+    color: #000;
+  }
+  #legend{
+    color: #000;
+    background-color: #fff;
+   font-size: 24px;
+ }
+ #result{
+   color: blue;
+   font-size: 30px;
+  }
+  #error{
+    color:#EA4536;
+    font-size: 24px;
+ }

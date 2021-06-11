@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+<!-- tryitDateParse.html -->
+<body>
+    <p>Click the button to display milliseconds between a specified date and January 1, 1970.</p>
+    <button onclick="myFunction()">Try it</button>
+    <dl>
+        <dt>Date String One</dt>
+        <dd id="dateString1"></dd>
+        <dt>Unix msec One</dt>
+        <dd id="unixMs1"></dd>
+        <dt>Date String Two</dt>
+        <dd id="dateString2"></dd>
+        <dt>Unix msec Two</dt>
+        <dd id="unixMs2"></dd>
+        <hr>
+        <dt>Diff Millisectons</dt>
+        <dd id="diffMs"></dd>
+        <dt>Hours</dt>
+        <dd id="timeHours"></dd>
+        <dt>Minutes</dt>
+        <dd id="timeMinutes"></dd>
+        <dt>Seconds</dt>
+        <dd id="timeSeconds"></dd>
+        <dt>MilliSeconds</dt>
+        <dd id="timeMilliSeconds"></dd>
+    </dl>
+    <script>
+    function myFunction() {
+        var dateString1 = "March 7, 2021";
+        var dateString2 = "Sun Mar 07 2021 19:46:55 GMT-0600 (Central Standard Time)";
+        var unixMs1 = Date.parse(dateString1);
+        var unixMs2 = Date.parse(dateString2);
+        var diffMs = unixMs2 - unixMs1;
+        var timeHours = Math.floor(diffMs / (60 * 60 * 1000));
+        diffMs = diffMs % (60 * 60 * 1000);
+        var timeMinutes = Math.floor(diffMs / (60 * 1000));
+        diffMs = diffMs % (60 * 1000);
+        var timeSeconds = Math.floor(diffMs / (1000));
+        diffMs = diffMs % (1000);
+        var timeMilliSeconds = Math.floor(diffMs / (1));
+        document.getElementById("dateString1").innerHTML = dateString1;
+        document.getElementById("unixMs1").innerHTML = unixMs1;
+        document.getElementById("dateString2").innerHTML = dateString2;
+        document.getElementById("unixMs2").innerHTML = unixMs2;
+        document.getElementById("diffMs").innerHTML = diffMs;
+        document.getElementById("timeHours").innerHTML = timeHours;
+        document.getElementById("timeMinutes").innerHTML = timeMinutes;
+        document.getElementById("timeSeconds").innerHTML = timeSeconds;
+        document.getElementById("timeMilliSeconds").innerHTML = timeMilliSeconds;
+    }
+    </script>
+</body>
+
+</html>

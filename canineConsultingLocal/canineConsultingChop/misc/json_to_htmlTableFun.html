@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>
+		How to convert JSON data to a
+		html table using JavaScript ?
+	</title>
+	
+	<script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+	</script>
+</head>
+
+<body style = "text-align:center;" id = "body">
+	<div>
+		<a
+		href="https://www.geeksforgeeks.org/how-to-convert-json-data-to-a-html-table-using-javascript-jquery/">Source:
+		Geeks for Geeks</a>
+	</div>
+<div id="minimal">
+    <span style="color:blue;font-size:36px;">Minimal</span>
+    <table align="center" id="test-table" border="1"><thead><tr><th>email</th><th>tag</th><th>security</th><th>primary</th></tr></thead><tbody><tr><td>fredweston@cia.gov</td><td>MAIN</td><td>TOP_SECRET</td><td>true</td></tr><tr><td>quickgroup@gmail.com</td><td>HOME</td><td>undefined</td><td>false</td></tr><tr><td>fred@stormda.com</td><td>WORK</td><td>undefined</td><td>false</td></tr></tbody><tfoot><tr></tr></tfoot></table></table>
+    <caption>only keys from first row are applied to the remaining rows<br>oops!
+    the CIA email was first and messed up the whole table</caption>
+    <p>&nbsp;</p>
+    <hr>	
+</div>
+<div id="headers">
+    <span style="color:blue;font-size:36px;">Header</span>
+    <table align="center" id="test-table" border="1"><thead><tr><th>eMail Address</th><th>Kind</th><th>Primary</th></tr></thead><tbody><tr><td>fredweston@cia.gov</td><td>MAIN</td><td>true</td></tr><tr><td>quickgroup@gmail.com</td><td>HOME</td><td>false</td></tr><tr><td>fred@stormda.com</td><td>WORK</td><td>false</td></tr></tbody><tfoot><tr></tr></tfoot></table></table> 
+    <caption>custom headers, title-case, alternative names, no phantom
+    data<br>just by adding a 'faux-row' as parameter with 'values' that you wish
+    for Header Text, <br>and only those elements that you wish to display:
+    <br>essentially filtering with a parameter <br>-- imagine raw data with dozends
+    of attributes for a three column table!</caption>
+    <p>&nbsp;</p>
+    <hr>	
+</div>	
+<div id="both">
+    <span style="color:blue;font-size:36px;">Header &amp; Footer</span>
+    <table align="center" id="test-table" border="1"><thead><tr><th>eMail Address</th><th>Kind</th><th>Primary</th></tr></thead><tbody><tr><td>fredweston@cia.gov</td><td>MAIN</td><td>true</td></tr><tr><td>quickgroup@gmail.com</td><td>HOME</td><td>false</td></tr><tr><td>fred@stormda.com</td><td>WORK</td><td>false</td></tr></tbody><tfoot><tr><td colspan="3">Mon May 10 2021 14:32</td></tr></tfoot></table></table> 
+    <caption>custom headers (as above),<br> with complex evaluation of date and
+    time using eval()<br>you could have mutiple rows, all with any data you are
+    willing to let it consume</caption>
+        <p>&nbsp;</p>
+        <hr>	
+    </div>	
+	<h1 style = "color:green;" >
+		GeeksForGeeks
+	</h1>
+	
+	<p id = "GFG_UP" style ="font-size: 15px; font-weight: bold;">
+	</p>
+
+	
+	<button onclick = "constructTable('#table')">
+		click here
+	</button>
+	
+	<br><br>
+	
+	<table align = "center" id="table" border="1">
+	</table>
+	
+	<script>
+		var el_up = document.getElementById("GFG_UP");
+		
+		var list = [
+            {
+                "email": "fredweston@cia.gov",
+                "tag": "MAIN",
+                "security": "TOP_SECRET",
+                "primary": "true"
+            },
+            {
+                "email": "quickgroup@gmail.com",
+                "tag": "HOME",
+                "primary": "false"
+                ,"description":"quickGroup is the email from my Vermont days"
+            },
+            {
+                "email": "fred@stormta.com",
+                "tag": "WORK",
+                "primary": "false",
+                "description":"a gSuite account from Storm Tracking Associates"
+            }
+        ];
+		
+		el_up.innerHTML = "Click on the button to create "
+				+ "the table from the JSON data.<br><br>"
+				+ JSON.stringify(list[0]) + "<br>"
+				+ JSON.stringify(list[1]) + "<br>"
+				+ JSON.stringify(list[2]);
+			
+		function constructTable(selector) {
+			
+			// Getting the all column names
+			var cols = Headers(list, selector);
+
+			// Traversing the JSON data
+			for (var i = 0; i < list.length; i++) {
+				var row = $('<tr/>');
+				for (var colIndex = 0; colIndex < cols.length; colIndex++)
+				{
+					var val = list[i][cols[colIndex]];
+					
+					// If there is any key, which is matching
+					// with the column name
+					if (val == null) val = "";
+						row.append($('<td/>').html(val));
+				}
+				
+				// Adding each row to the table
+				$(selector).append(row);
+			}
+		}
+		
+		function Headers(list, selector) {
+			var columns = [];
+			var header = $('<tr/>');
+			
+			for (var i = 0; i < list.length; i++) {
+				var row = list[i];
+				
+				for (var k in row) {
+					if ($.inArray(k, columns) == -1) {
+						columns.push(k);
+						
+						// Creating the header
+						header.append($('<th/>').html(k));
+					}
+				}
+			}
+			
+			// Appending the header to the table
+			$(selector).append(header);
+				return columns;
+		}	
+	</script>
+</body>
+
+</html>

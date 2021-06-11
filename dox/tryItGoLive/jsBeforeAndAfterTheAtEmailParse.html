@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <!-- jsBeforeAndAfterTheAtEmailParse.html -->
+<body>
+
+<h2>jsBeforeAndAfterTheAtEmailParse</h2>
+
+<p>I can't think of a reason to use substring()<br>when you can use substr()</p>
+<dl>
+    <dt>originalEmail</dt>
+    <dd id="codeEmailAddress"></dd>
+    <hr>
+    <dt>Working variables code:</dt>
+    <dd id="codeWorkingVariables"></dd>
+    <hr>
+    <dt>get the string before the @ [code]:</dt>
+    <dd id="codeBeforeTheAt"></dd>
+    <dt>result:</dt>
+    <dd id="beforeTheAt"></dd>
+    <hr>
+    <dt>code: get the string after the @:</dt>
+    <dd id="codeAfterTheAt"></dd>
+    <dt>result:</dt>
+    <dd id="afterTheAt"></dd>
+</dl>
+<script>
+var emailAddress = "bradlowry@gmail.com";
+
+var atPosition = emailAddress.lastIndexOf("@");
+// • indexOf and lastIndexOf should be moot, validation should check for more than one @,but...
+
+var atPositionFromTheEnd = atPosition - (emailAddress.length - 1);
+// • purposely negative
+// • length vs indexOf you always have to nudge by 1
+
+var beforeTheAt = emailAddress.substr(0, atPosition);
+
+var afterTheAt = emailAddress.substr(atPositionFromTheEnd);
+
+var codeEmailAddress = 'emailAddress = "bradlowry@gmail.com";';
+var codeWorkingVariables = 'atPosition = emailAddress.lastIndexOf("@");<br>// • indexOf and lastIndexOf should be moot, validation should check for more than one @,but...<br><br>atPositionFromTheEnd = atPosition - (emailAddress.length - 1);<br>// • purposely negative<br>// • length vs indexOf you always have to nudge by 1';
+var codeBeforeTheAt = 'beforeTheAt = emailAddress.substr(0, atPosition);';
+var codeAfterTheAt = 'afterTheAt = emailAddress.substr(atPositionFromTheEnd);';
+
+document.getElementById("codeWorkingVariables").innerHTML = codeWorkingVariables;
+document.getElementById("codeEmailAddress").innerHTML = codeEmailAddress;
+document.getElementById("codeBeforeTheAt").innerHTML = codeBeforeTheAt;
+document.getElementById("beforeTheAt").innerHTML = beforeTheAt;
+document.getElementById("afterTheAt").innerHTML = afterTheAt;
+document.getElementById("codeAfterTheAt").innerHTML = codeAfterTheAt;
+</script>
+
+</body>
+</html>
+

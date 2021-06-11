@@ -1,0 +1,76 @@
+{
+    "_createdDate": "2021-04-24T14:03:48.737Z",
+    "_id": "edb8cfba-a47a-4f48-bfd5-a0761e036795",
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+wendy584@gmail.com",
+                "primary": true
+            },
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+wendy978@gmail.com",
+                "primary": false
+            },
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+wendy664@gmail.com",
+                "primary": false
+            },
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+wendy@gmail.com",
+                "primary": false
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Whiskey Wendy",
+            "emailSubscriptions.deliverabilityStatus": "NOT_SET",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+wendy584@gmail.com",
+            "contacts.displayByFirstName": "Wendy Whiskey"
+        },
+        "name": {
+            "first": "Wendy",
+            "last": "Whiskey"
+        },
+        "phones": [
+            {
+                "tag": "UNTAGGED",
+                "phone": "(509) 551-3299",
+                "primary": true
+            },
+            {
+                "tag": "UNTAGGED",
+                "phone": "(307) 252-7542",
+                "primary": false
+            }
+        ],
+        "picture": {}
+    },
+    "lastActivity": {
+        "activityDate": "2021-04-25T00:41:53.444Z",
+        "activityType": "MEMBER_STATUS_CHANGED"
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+wendy584@gmail.com",
+        "phone": "(509) 551-3299"
+    },
+    "revision": 3,
+    "source": {
+        "sourceType": "ADMIN"
+    },
+    "_updatedDate": "2021-04-25T00:42:35.710Z"
+}

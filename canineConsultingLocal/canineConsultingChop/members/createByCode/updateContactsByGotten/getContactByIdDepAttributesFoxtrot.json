@@ -1,0 +1,43 @@
+{
+    "info": {
+        "addresses": [
+            {
+                "address": {
+                    "formatted": "United States",
+                    "country": "US"
+                },
+                "tag": "UNTAGGED"
+            }
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "qiqgroup+feather@gmail.com",
+                "primary": true
+            }
+        ],
+        "extendedFields": {
+            "contacts.displayByLastName": "Foxtrot Fred",
+            "emailSubscriptions.deliverabilityStatus": "VALID",
+            "members.membershipStatus": "APPROVED",
+            "emailSubscriptions.subscriptionStatus": "NOT_SET",
+            "members.mobile": false,
+            "emailSubscriptions.effectiveEmail": "qiqgroup+feather@gmail.com",
+            "contacts.displayByFirstName": "Fred Foxtrot"
+        },
+        "name": {
+            "first": "Fred",
+            "last": "Foxtrot"
+        },
+        "picture": {
+            "image": "image://v1/523205_f28ead167fb548468c8fe7484149a3d8~mv2.png/240_240/523205_f28ead167fb548468c8fe7484149a3d8~mv2.png",
+            "imageProvider": "EXTERNAL"
+        }
+    },
+    "primaryInfo": {
+        "email": "qiqgroup+feather@gmail.com"
+    },
+    "source": {
+        "sourceType": "ADMIN"
+    }
+}

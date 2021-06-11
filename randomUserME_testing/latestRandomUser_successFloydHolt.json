@@ -1,0 +1,97 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "Mr",
+        "first": "Floyd",
+        "last": "Holt"
+    },
+    "location": {
+        "street": {
+            "number": 5365,
+            "name": "Woodland St",
+            "apt": "371"
+        },
+        "city": "Elko",
+        "state": "California",
+        "country": "US",
+        "postcode": 13195,
+        "coordinates": {
+            "latitude": "-32.1370",
+            "longitude": "-38.8458"
+        },
+        "timezone": {
+            "offset": "-5:00",
+            "description": "Eastern Time (US & Canada), Bogota, Lima"
+        },
+        "postalCode": "13195",
+        "subdivision": "CA",
+        "addressLine2": "Box 122"
+    },
+    "email": "floyd.holt@example.com",
+    "login": {
+        "uuid": "5638f410-b574-4551-b262-ff4bf4ebfb87",
+        "username": "happycat971",
+        "password": "buster1",
+        "salt": "RwDqvtgU",
+        "md5": "9584ff21a6d448905719e2216eb9b976",
+        "sha1": "f684942cda707ba52d78af9c104b290d70fc392f",
+        "sha256": "fa1c0cd4a1c8927cb9a3a5d2d6b7c6004641a8174faec28643938fdf0921660a"
+    },
+    "dob": {
+        "date": "1996-01-15T05:11:36.209Z",
+        "age": 25
+    },
+    "registered": {
+        "date": "2006-11-05T22:27:23.562Z",
+        "age": 15
+    },
+    "phone": "(938)-796-5414",
+    "cell": "(315)-781-5760",
+    "id": {
+        "name": "SSN",
+        "value": "364-38-2775"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "US",
+    "seed": "3628bfbbd09c27aa",
+    "locale": "en-US",
+    "birthdate": "1996-01-15",
+    "company": "Woodland College",
+    "jobTitle": "Supervisor",
+    "emailPrimary": "qiqgroup+floyd@gmail.com",
+    "developer": {
+        "transformedAttributes": [
+            [
+                "locale: literal 'en-US'"
+            ],
+            [
+                "postalCode: ensure 5 and string - left postcode as number"
+            ],
+            [
+                "birthdate: dob.date to left 10. no change to original"
+            ],
+            [
+                "subdivision: 2letter version of 'state' - original not removed"
+            ],
+            [
+                "Company: Street name + random business kind"
+            ],
+            [
+                "jobTitle: random jobTitle"
+            ],
+            [
+                "emailPrimary: qiqgroup + firstName - real so that enrollment happens"
+            ],
+            [
+                "addressLine2: random number and random type"
+            ],
+            [
+                "street.apt: random number more useful than addressLine2"
+            ]
+        ]
+    }
+}

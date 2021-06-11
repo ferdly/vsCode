@@ -1,0 +1,16 @@
+body {
+    background-color:slategray;
+    color:white
+}
+
+#overall{
+    /* background-color: blue; */
+}
+table,h2,p {
+    text-align: center;
+  }
+.container table {
+	/* border: 1px solid purple;   */
+    /* background-color: gold;       */
+    margin: 0 auto;
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"tab.activeBackground": "#0066CC",
+			"editorLineNumber.activeForeground": "#ffff00"
+		},
+		"workbench.editorAssociations": {}
+	}
+}

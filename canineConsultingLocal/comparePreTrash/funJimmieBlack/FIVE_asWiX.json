@@ -1,0 +1,62 @@
+{
+    "compareStamp": "20210520121400",
+    "contactInfo": {
+        "name": {
+            "first": "Jimmie",
+            "last": "Black"
+        },
+        "company": "Frances Corporation",
+        "jobTitle": "Supervisor",
+        "locale": "en-US",
+        "birthdate": "1958-01-17",
+        "labelKeys": [
+            "custom.gender-male",
+            "custom.t202106",
+            "custom.primary-parent"
+        ],
+        "emails": [
+            {
+                "tag": "UNTAGGED",
+                "email": "jimmie.black@example.com"
+            },
+            {
+                "tag": "MAIN",
+                "email": "qiqgroup+jimmie@gmail.com",
+                "primary": "true"
+            }
+        ],
+        "phones": [
+            {
+                "tag": "MOBILE",
+                "phone": "(446)-659-3940",
+                "primary": "true"
+            },
+            {
+                "tag": "HOME",
+                "phone": "(307)-996-8899"
+            }
+        ],
+        "addresses": [
+            {
+                "tag": "home",
+                "address": {
+                    "streetAddress": {
+                        "number": "4268",
+                        "name": "Frances Ct",
+                        "apt": "51"
+                    },
+                    "addressLine2": "Box 36",
+                    "city": "Addison",
+                    "subdivision": "VT",
+                    "postalCode": "77851",
+                    "country": "US",
+                    "location": {
+                        "latitude": "-23.0989",
+                        "longitude": "-81.9531"
+                    },
+                    "formatted": "4268 Frances Ct 51, Box 36, Addison, VT 77851, USA"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,4015 @@
+{
+    "description": [
+        "use the path 'wordsByIndex' and then the index is what you want the word for",
+        "then gather word by language key",
+        "'en' for English",
+        "'es' for Spanish",
+        "of course, this is extensible"
+    ],
+    "wordsByIndex": [
+        {
+            "en": "zero",
+            "es": "cero"
+        },
+        {
+            "en": "one",
+            "es": "uno"
+        },
+        {
+            "en": "two",
+            "es": "dos"
+        },
+        {
+            "en": "three",
+            "es": "tres"
+        },
+        {
+            "en": "four",
+            "es": "cuatro"
+        },
+        {
+            "en": "five",
+            "es": "cinco"
+        },
+        {
+            "en": "six",
+            "es": "seis"
+        },
+        {
+            "en": "seven",
+            "es": "siete"
+        },
+        {
+            "en": "eight",
+            "es": "ocho"
+        },
+        {
+            "en": "nine",
+            "es": "nueve"
+        },
+        {
+            "en": "ten",
+            "es": "diez"
+        },
+        {
+            "en": "eleven",
+            "es": "once"
+        },
+        {
+            "en": "twelve",
+            "es": "doce"
+        },
+        {
+            "en": "thirteen",
+            "es": "trece"
+        },
+        {
+            "en": "fourteen",
+            "es": "catorce"
+        },
+        {
+            "en": "fifteen",
+            "es": "quince"
+        },
+        {
+            "en": "sixteen",
+            "es": "dieciséis"
+        },
+        {
+            "en": "seventeen",
+            "es": "diecisiete"
+        },
+        {
+            "en": "eighteen",
+            "es": "dieciocho"
+        },
+        {
+            "en": "nineteen",
+            "es": "diecinueve"
+        },
+        {
+            "en": "twenty",
+            "es": "veinte"
+        },
+        {
+            "en": "twenty-one",
+            "es": "veintiuno"
+        },
+        {
+            "en": "twenty-two",
+            "es": "veintidós"
+        },
+        {
+            "en": "twenty-three",
+            "es": "veintitrés"
+        },
+        {
+            "en": "twenty-four",
+            "es": "veinticuatro"
+        },
+        {
+            "en": "twenty-five",
+            "es": "veinticinco"
+        },
+        {
+            "en": "twenty-six",
+            "es": "veintiséis"
+        },
+        {
+            "en": "twenty-seven",
+            "es": "veintisiete"
+        },
+        {
+            "en": "twenty-eight",
+            "es": "veintiocho"
+        },
+        {
+            "en": "twenty-nine",
+            "es": "veintinueve"
+        },
+        {
+            "en": "thirty",
+            "es": "treinta"
+        },
+        {
+            "en": "thirty-one",
+            "es": "treinta y uno"
+        },
+        {
+            "en": "thirty-two",
+            "es": "treinta y dos"
+        },
+        {
+            "en": "thirty-three",
+            "es": "treinta y tres"
+        },
+        {
+            "en": "thirty-four",
+            "es": "treinta y cuatro"
+        },
+        {
+            "en": "thirty-five",
+            "es": "treinta y cinco"
+        },
+        {
+            "en": "thirty-six",
+            "es": "treinta y seis"
+        },
+        {
+            "en": "thirty-seven",
+            "es": "treinta y siete"
+        },
+        {
+            "en": "thirty-eight",
+            "es": "treinta y ocho"
+        },
+        {
+            "en": "thirty-nine",
+            "es": "treinta y nueve"
+        },
+        {
+            "en": "forty",
+            "es": "cuarenta"
+        },
+        {
+            "en": "forty-one",
+            "es": "cuarenta y uno"
+        },
+        {
+            "en": "forty-two",
+            "es": "cuarenta y dos"
+        },
+        {
+            "en": "forty-three",
+            "es": "cuarenta y tres"
+        },
+        {
+            "en": "forty-four",
+            "es": "cuarenta y cuatro"
+        },
+        {
+            "en": "forty-five",
+            "es": "cuarenta y cinco"
+        },
+        {
+            "en": "forty-six",
+            "es": "cuarenta y seis"
+        },
+        {
+            "en": "forty-seven",
+            "es": "cuarenta y siete"
+        },
+        {
+            "en": "forty-eight",
+            "es": "cuarenta y ocho"
+        },
+        {
+            "en": "forty-nine",
+            "es": "cuarenta y nueve"
+        },
+        {
+            "en": "fifty",
+            "es": "cincuenta"
+        },
+        {
+            "en": "fifty-one",
+            "es": "cincuenta y uno"
+        },
+        {
+            "en": "fifty-two",
+            "es": "cincuenta y dos"
+        },
+        {
+            "en": "fifty-three",
+            "es": "cincuenta y tres"
+        },
+        {
+            "en": "fifty-four",
+            "es": "cincuenta y cuatro"
+        },
+        {
+            "en": "fifty-five",
+            "es": "cincuenta y cinco"
+        },
+        {
+            "en": "fifty-six",
+            "es": "cincuenta y seis"
+        },
+        {
+            "en": "fifty-seven",
+            "es": "cincuenta y siete"
+        },
+        {
+            "en": "fifty-eight",
+            "es": "cincuenta y ocho"
+        },
+        {
+            "en": "fifty-nine",
+            "es": "cincuenta y nueve"
+        },
+        {
+            "en": "sixty",
+            "es": "sesenta"
+        },
+        {
+            "en": "sixty-one",
+            "es": "sesenta y uno"
+        },
+        {
+            "en": "sixty-two",
+            "es": "sesenta y dos"
+        },
+        {
+            "en": "sixty-three",
+            "es": "sesenta y tres"
+        },
+        {
+            "en": "sixty-four",
+            "es": "sesenta y cuatro"
+        },
+        {
+            "en": "sixty-five",
+            "es": "sesenta y cinco"
+        },
+        {
+            "en": "sixty-six",
+            "es": "sesenta y seis"
+        },
+        {
+            "en": "sixty-seven",
+            "es": "sesenta y siete"
+        },
+        {
+            "en": "sixty-eight",
+            "es": "sesenta y ocho"
+        },
+        {
+            "en": "sixty-nine",
+            "es": "sesenta y nueve"
+        },
+        {
+            "en": "seventy",
+            "es": "setenta"
+        },
+        {
+            "en": "seventy-one",
+            "es": "setenta y uno"
+        },
+        {
+            "en": "seventy-two",
+            "es": "setenta y dos"
+        },
+        {
+            "en": "seventy-three",
+            "es": "setenta y tres"
+        },
+        {
+            "en": "seventy-four",
+            "es": "setenta y cuatro"
+        },
+        {
+            "en": "seventy-five",
+            "es": "setenta y cinco"
+        },
+        {
+            "en": "seventy-six",
+            "es": "setenta y seis"
+        },
+        {
+            "en": "seventy-seven",
+            "es": "setenta y siete"
+        },
+        {
+            "en": "seventy-eight",
+            "es": "setenta y ocho"
+        },
+        {
+            "en": "seventy-nine",
+            "es": "setenta y nueve"
+        },
+        {
+            "en": "eighty",
+            "es": "ochenta"
+        },
+        {
+            "en": "eighty-one",
+            "es": "ochenta y uno"
+        },
+        {
+            "en": "eighty-two",
+            "es": "ochenta y dos"
+        },
+        {
+            "en": "eighty-three",
+            "es": "ochenta y tres"
+        },
+        {
+            "en": "eighty-four",
+            "es": "ochenta y cuatro"
+        },
+        {
+            "en": "eighty-five",
+            "es": "ochenta y cinco"
+        },
+        {
+            "en": "eighty-six",
+            "es": "ochenta y seis"
+        },
+        {
+            "en": "eighty-seven",
+            "es": "ochenta y siete"
+        },
+        {
+            "en": "eighty-eight",
+            "es": "ochenta y ocho"
+        },
+        {
+            "en": "eighty-nine",
+            "es": "ochenta y nueve"
+        },
+        {
+            "en": "ninety",
+            "es": "noventa"
+        },
+        {
+            "en": "ninety-one",
+            "es": "noventa y uno"
+        },
+        {
+            "en": "ninety-two",
+            "es": "noventa y dos"
+        },
+        {
+            "en": "ninety-three",
+            "es": "noventa y tres"
+        },
+        {
+            "en": "ninety-four",
+            "es": "noventa y cuatro"
+        },
+        {
+            "en": "ninety-five",
+            "es": "noventa y cinco"
+        },
+        {
+            "en": "ninety-six",
+            "es": "noventa y seis"
+        },
+        {
+            "en": "ninety-seven",
+            "es": "noventa y siete"
+        },
+        {
+            "en": "ninety-eight",
+            "es": "noventa y ocho"
+        },
+        {
+            "en": "ninety-nine",
+            "es": "noventa y nueve"
+        },
+        {
+            "en": "one hundred",
+            "es": "cien"
+        },
+        {
+            "en": "one hundred one",
+            "es": "ciento uno"
+        },
+        {
+            "en": "one hundred two",
+            "es": "ciento dos"
+        },
+        {
+            "en": "one hundred three",
+            "es": "ciento tres"
+        },
+        {
+            "en": "one hundred four",
+            "es": "ciento cuatro"
+        },
+        {
+            "en": "one hundred five",
+            "es": "ciento cinco"
+        },
+        {
+            "en": "one hundred six",
+            "es": "ciento seis"
+        },
+        {
+            "en": "one hundred seven",
+            "es": "ciento siete"
+        },
+        {
+            "en": "one hundred eight",
+            "es": "ciento ocho"
+        },
+        {
+            "en": "one hundred nine",
+            "es": "ciento nueve"
+        },
+        {
+            "en": "one hundred ten",
+            "es": "ciento diez"
+        },
+        {
+            "en": "one hundred eleven",
+            "es": "ciento once"
+        },
+        {
+            "en": "one hundred twelve",
+            "es": "ciento doce"
+        },
+        {
+            "en": "one hundred thirteen",
+            "es": "ciento trece"
+        },
+        {
+            "en": "one hundred fourteen",
+            "es": "ciento catorce"
+        },
+        {
+            "en": "one hundred fifteen",
+            "es": "ciento quince"
+        },
+        {
+            "en": "one hundred sixteen",
+            "es": "ciento dieciséis"
+        },
+        {
+            "en": "one hundred seventeen",
+            "es": "ciento diecisiete"
+        },
+        {
+            "en": "one hundred eighteen",
+            "es": "ciento dieciocho"
+        },
+        {
+            "en": "one hundred nineteen",
+            "es": "ciento diecinueve"
+        },
+        {
+            "en": "one hundred twenty",
+            "es": "ciento veinte"
+        },
+        {
+            "en": "one hundred twenty-one",
+            "es": "ciento veintiuno"
+        },
+        {
+            "en": "one hundred twenty-two",
+            "es": "ciento veintidós"
+        },
+        {
+            "en": "one hundred twenty-three",
+            "es": "ciento veintitrés"
+        },
+        {
+            "en": "one hundred twenty-four",
+            "es": "ciento veinticuatro"
+        },
+        {
+            "en": "one hundred twenty-five",
+            "es": "ciento veinticinco"
+        },
+        {
+            "en": "one hundred twenty-six",
+            "es": "ciento veintiséis"
+        },
+        {
+            "en": "one hundred twenty-seven",
+            "es": "ciento veintisiete"
+        },
+        {
+            "en": "one hundred twenty-eight",
+            "es": "ciento veintiocho"
+        },
+        {
+            "en": "one hundred twenty-nine",
+            "es": "ciento veintinueve"
+        },
+        {
+            "en": "one hundred thirty",
+            "es": "ciento treinta"
+        },
+        {
+            "en": "one hundred thirty-one",
+            "es": "ciento treinta y uno"
+        },
+        {
+            "en": "one hundred thirty-two",
+            "es": "ciento treinta y dos"
+        },
+        {
+            "en": "one hundred thirty-three",
+            "es": "ciento treinta y tres"
+        },
+        {
+            "en": "one hundred thirty-four",
+            "es": "ciento treinta y cuatro"
+        },
+        {
+            "en": "one hundred thirty-five",
+            "es": "ciento treinta y cinco"
+        },
+        {
+            "en": "one hundred thirty-six",
+            "es": "ciento treinta y seis"
+        },
+        {
+            "en": "one hundred thirty-seven",
+            "es": "ciento treinta y siete"
+        },
+        {
+            "en": "one hundred thirty-eight",
+            "es": "ciento treinta y ocho"
+        },
+        {
+            "en": "one hundred thirty-nine",
+            "es": "ciento treinta y nueve"
+        },
+        {
+            "en": "one hundred forty",
+            "es": "ciento cuarenta"
+        },
+        {
+            "en": "one hundred forty-one",
+            "es": "ciento cuarenta y uno"
+        },
+        {
+            "en": "one hundred forty-two",
+            "es": "ciento cuarenta y dos"
+        },
+        {
+            "en": "one hundred forty-three",
+            "es": "ciento cuarenta y tres"
+        },
+        {
+            "en": "one hundred forty-four",
+            "es": "ciento cuarenta y cuatro"
+        },
+        {
+            "en": "one hundred forty-five",
+            "es": "ciento cuarenta y cinco"
+        },
+        {
+            "en": "one hundred forty-six",
+            "es": "ciento cuarenta y seis"
+        },
+        {
+            "en": "one hundred forty-seven",
+            "es": "ciento cuarenta y siete"
+        },
+        {
+            "en": "one hundred forty-eight",
+            "es": "ciento cuarenta y ocho"
+        },
+        {
+            "en": "one hundred forty-nine",
+            "es": "ciento cuarenta y nueve"
+        },
+        {
+            "en": "one hundred fifty",
+            "es": "ciento cincuenta"
+        },
+        {
+            "en": "one hundred fifty-one",
+            "es": "ciento cincuenta y uno"
+        },
+        {
+            "en": "one hundred fifty-two",
+            "es": "ciento cincuenta y dos"
+        },
+        {
+            "en": "one hundred fifty-three",
+            "es": "ciento cincuenta y tres"
+        },
+        {
+            "en": "one hundred fifty-four",
+            "es": "ciento cincuenta y cuatro"
+        },
+        {
+            "en": "one hundred fifty-five",
+            "es": "ciento cincuenta y cinco"
+        },
+        {
+            "en": "one hundred fifty-six",
+            "es": "ciento cincuenta y seis"
+        },
+        {
+            "en": "one hundred fifty-seven",
+            "es": "ciento cincuenta y siete"
+        },
+        {
+            "en": "one hundred fifty-eight",
+            "es": "ciento cincuenta y ocho"
+        },
+        {
+            "en": "one hundred fifty-nine",
+            "es": "ciento cincuenta y nueve"
+        },
+        {
+            "en": "one hundred sixty",
+            "es": "ciento sesenta"
+        },
+        {
+            "en": "one hundred sixty-one",
+            "es": "ciento sesenta y uno"
+        },
+        {
+            "en": "one hundred sixty-two",
+            "es": "ciento sesenta y dos"
+        },
+        {
+            "en": "one hundred sixty-three",
+            "es": "ciento sesenta y tres"
+        },
+        {
+            "en": "one hundred sixty-four",
+            "es": "ciento sesenta y cuatro"
+        },
+        {
+            "en": "one hundred sixty-five",
+            "es": "ciento sesenta y cinco"
+        },
+        {
+            "en": "one hundred sixty-six",
+            "es": "ciento sesenta y seis"
+        },
+        {
+            "en": "one hundred sixty-seven",
+            "es": "ciento sesenta y siete"
+        },
+        {
+            "en": "one hundred sixty-eight",
+            "es": "ciento sesenta y ocho"
+        },
+        {
+            "en": "one hundred sixty-nine",
+            "es": "ciento sesenta y nueve"
+        },
+        {
+            "en": "one hundred seventy",
+            "es": "ciento setenta"
+        },
+        {
+            "en": "one hundred seventy-one",
+            "es": "ciento setenta y uno"
+        },
+        {
+            "en": "one hundred seventy-two",
+            "es": "ciento setenta y dos"
+        },
+        {
+            "en": "one hundred seventy-three",
+            "es": "ciento setenta y tres"
+        },
+        {
+            "en": "one hundred seventy-four",
+            "es": "ciento setenta y cuatro"
+        },
+        {
+            "en": "one hundred seventy-five",
+            "es": "ciento setenta y cinco"
+        },
+        {
+            "en": "one hundred seventy-six",
+            "es": "ciento setenta y seis"
+        },
+        {
+            "en": "one hundred seventy-seven",
+            "es": "ciento setenta y siete"
+        },
+        {
+            "en": "one hundred seventy-eight",
+            "es": "ciento setenta y ocho"
+        },
+        {
+            "en": "one hundred seventy-nine",
+            "es": "ciento setenta y nueve"
+        },
+        {
+            "en": "one hundred eighty",
+            "es": "ciento ochenta"
+        },
+        {
+            "en": "one hundred eighty-one",
+            "es": "ciento ochenta y uno"
+        },
+        {
+            "en": "one hundred eighty-two",
+            "es": "ciento ochenta y dos"
+        },
+        {
+            "en": "one hundred eighty-three",
+            "es": "ciento ochenta y tres"
+        },
+        {
+            "en": "one hundred eighty-four",
+            "es": "ciento ochenta y cuatro"
+        },
+        {
+            "en": "one hundred eighty-five",
+            "es": "ciento ochenta y cinco"
+        },
+        {
+            "en": "one hundred eighty-six",
+            "es": "ciento ochenta y seis"
+        },
+        {
+            "en": "one hundred eighty-seven",
+            "es": "ciento ochenta y siete"
+        },
+        {
+            "en": "one hundred eighty-eight",
+            "es": "ciento ochenta y ocho"
+        },
+        {
+            "en": "one hundred eighty-nine",
+            "es": "ciento ochenta y nueve"
+        },
+        {
+            "en": "one hundred ninety",
+            "es": "ciento noventa"
+        },
+        {
+            "en": "one hundred ninety-one",
+            "es": "ciento noventa y uno"
+        },
+        {
+            "en": "one hundred ninety-two",
+            "es": "ciento noventa y dos"
+        },
+        {
+            "en": "one hundred ninety-three",
+            "es": "ciento noventa y tres"
+        },
+        {
+            "en": "one hundred ninety-four",
+            "es": "ciento noventa y cuatro"
+        },
+        {
+            "en": "one hundred ninety-five",
+            "es": "ciento noventa y cinco"
+        },
+        {
+            "en": "one hundred ninety-six",
+            "es": "ciento noventa y seis"
+        },
+        {
+            "en": "one hundred ninety-seven",
+            "es": "ciento noventa y siete"
+        },
+        {
+            "en": "one hundred ninety-eight",
+            "es": "ciento noventa y ocho"
+        },
+        {
+            "en": "one hundred ninety-nine",
+            "es": "ciento noventa y nueve"
+        },
+        {
+            "en": "two hundred",
+            "es": "doscientos"
+        },
+        {
+            "en": "two hundred one",
+            "es": "doscientos uno"
+        },
+        {
+            "en": "two hundred two",
+            "es": "doscientos dos"
+        },
+        {
+            "en": "two hundred three",
+            "es": "doscientos tres"
+        },
+        {
+            "en": "two hundred four",
+            "es": "doscientos cuatro"
+        },
+        {
+            "en": "two hundred five",
+            "es": "doscientos cinco"
+        },
+        {
+            "en": "two hundred six",
+            "es": "doscientos seis"
+        },
+        {
+            "en": "two hundred seven",
+            "es": "doscientos siete"
+        },
+        {
+            "en": "two hundred eight",
+            "es": "doscientos ocho"
+        },
+        {
+            "en": "two hundred nine",
+            "es": "doscientos nueve"
+        },
+        {
+            "en": "two hundred ten",
+            "es": "doscientos diez"
+        },
+        {
+            "en": "two hundred eleven",
+            "es": "doscientos once"
+        },
+        {
+            "en": "two hundred twelve",
+            "es": "doscientos doce"
+        },
+        {
+            "en": "two hundred thirteen",
+            "es": "doscientos trece"
+        },
+        {
+            "en": "two hundred fourteen",
+            "es": "doscientos catorce"
+        },
+        {
+            "en": "two hundred fifteen",
+            "es": "doscientos quince"
+        },
+        {
+            "en": "two hundred sixteen",
+            "es": "doscientos dieciséis"
+        },
+        {
+            "en": "two hundred seventeen",
+            "es": "doscientos diecisiete"
+        },
+        {
+            "en": "two hundred eighteen",
+            "es": "doscientos dieciocho"
+        },
+        {
+            "en": "two hundred nineteen",
+            "es": "doscientos diecinueve"
+        },
+        {
+            "en": "two hundred twenty",
+            "es": "doscientos veinte"
+        },
+        {
+            "en": "two hundred twenty-one",
+            "es": "doscientos veintiuno"
+        },
+        {
+            "en": "two hundred twenty-two",
+            "es": "doscientos veintidós"
+        },
+        {
+            "en": "two hundred twenty-three",
+            "es": "doscientos veintitrés"
+        },
+        {
+            "en": "two hundred twenty-four",
+            "es": "doscientos veinticuatro"
+        },
+        {
+            "en": "two hundred twenty-five",
+            "es": "doscientos veinticinco"
+        },
+        {
+            "en": "two hundred twenty-six",
+            "es": "doscientos veintiséis"
+        },
+        {
+            "en": "two hundred twenty-seven",
+            "es": "doscientos veintisiete"
+        },
+        {
+            "en": "two hundred twenty-eight",
+            "es": "doscientos veintiocho"
+        },
+        {
+            "en": "two hundred twenty-nine",
+            "es": "doscientos veintinueve"
+        },
+        {
+            "en": "two hundred thirty",
+            "es": "doscientos treinta"
+        },
+        {
+            "en": "two hundred thirty-one",
+            "es": "doscientos treinta y uno"
+        },
+        {
+            "en": "two hundred thirty-two",
+            "es": "doscientos treinta y dos"
+        },
+        {
+            "en": "two hundred thirty-three",
+            "es": "doscientos treinta y tres"
+        },
+        {
+            "en": "two hundred thirty-four",
+            "es": "doscientos treinta y cuatro"
+        },
+        {
+            "en": "two hundred thirty-five",
+            "es": "doscientos treinta y cinco"
+        },
+        {
+            "en": "two hundred thirty-six",
+            "es": "doscientos treinta y seis"
+        },
+        {
+            "en": "two hundred thirty-seven",
+            "es": "doscientos treinta y siete"
+        },
+        {
+            "en": "two hundred thirty-eight",
+            "es": "doscientos treinta y ocho"
+        },
+        {
+            "en": "two hundred thirty-nine",
+            "es": "doscientos treinta y nueve"
+        },
+        {
+            "en": "two hundred forty",
+            "es": "doscientos cuarenta"
+        },
+        {
+            "en": "two hundred forty-one",
+            "es": "doscientos cuarenta y uno"
+        },
+        {
+            "en": "two hundred forty-two",
+            "es": "doscientos cuarenta y dos"
+        },
+        {
+            "en": "two hundred forty-three",
+            "es": "doscientos cuarenta y tres"
+        },
+        {
+            "en": "two hundred forty-four",
+            "es": "doscientos cuarenta y cuatro"
+        },
+        {
+            "en": "two hundred forty-five",
+            "es": "doscientos cuarenta y cinco"
+        },
+        {
+            "en": "two hundred forty-six",
+            "es": "doscientos cuarenta y seis"
+        },
+        {
+            "en": "two hundred forty-seven",
+            "es": "doscientos cuarenta y siete"
+        },
+        {
+            "en": "two hundred forty-eight",
+            "es": "doscientos cuarenta y ocho"
+        },
+        {
+            "en": "two hundred forty-nine",
+            "es": "doscientos cuarenta y nueve"
+        },
+        {
+            "en": "two hundred fifty",
+            "es": "doscientos cincuenta"
+        },
+        {
+            "en": "two hundred fifty-one",
+            "es": "doscientos cincuenta y uno"
+        },
+        {
+            "en": "two hundred fifty-two",
+            "es": "doscientos cincuenta y dos"
+        },
+        {
+            "en": "two hundred fifty-three",
+            "es": "doscientos cincuenta y tres"
+        },
+        {
+            "en": "two hundred fifty-four",
+            "es": "doscientos cincuenta y cuatro"
+        },
+        {
+            "en": "two hundred fifty-five",
+            "es": "doscientos cincuenta y cinco"
+        },
+        {
+            "en": "two hundred fifty-six",
+            "es": "doscientos cincuenta y seis"
+        },
+        {
+            "en": "two hundred fifty-seven",
+            "es": "doscientos cincuenta y siete"
+        },
+        {
+            "en": "two hundred fifty-eight",
+            "es": "doscientos cincuenta y ocho"
+        },
+        {
+            "en": "two hundred fifty-nine",
+            "es": "doscientos cincuenta y nueve"
+        },
+        {
+            "en": "two hundred sixty",
+            "es": "doscientos sesenta"
+        },
+        {
+            "en": "two hundred sixty-one",
+            "es": "doscientos sesenta y uno"
+        },
+        {
+            "en": "two hundred sixty-two",
+            "es": "doscientos sesenta y dos"
+        },
+        {
+            "en": "two hundred sixty-three",
+            "es": "doscientos sesenta y tres"
+        },
+        {
+            "en": "two hundred sixty-four",
+            "es": "doscientos sesenta y cuatro"
+        },
+        {
+            "en": "two hundred sixty-five",
+            "es": "doscientos sesenta y cinco"
+        },
+        {
+            "en": "two hundred sixty-six",
+            "es": "doscientos sesenta y seis"
+        },
+        {
+            "en": "two hundred sixty-seven",
+            "es": "doscientos sesenta y siete"
+        },
+        {
+            "en": "two hundred sixty-eight",
+            "es": "doscientos sesenta y ocho"
+        },
+        {
+            "en": "two hundred sixty-nine",
+            "es": "doscientos sesenta y nueve"
+        },
+        {
+            "en": "two hundred seventy",
+            "es": "doscientos setenta"
+        },
+        {
+            "en": "two hundred seventy-one",
+            "es": "doscientos setenta y uno"
+        },
+        {
+            "en": "two hundred seventy-two",
+            "es": "doscientos setenta y dos"
+        },
+        {
+            "en": "two hundred seventy-three",
+            "es": "doscientos setenta y tres"
+        },
+        {
+            "en": "two hundred seventy-four",
+            "es": "doscientos setenta y cuatro"
+        },
+        {
+            "en": "two hundred seventy-five",
+            "es": "doscientos setenta y cinco"
+        },
+        {
+            "en": "two hundred seventy-six",
+            "es": "doscientos setenta y seis"
+        },
+        {
+            "en": "two hundred seventy-seven",
+            "es": "doscientos setenta y siete"
+        },
+        {
+            "en": "two hundred seventy-eight",
+            "es": "doscientos setenta y ocho"
+        },
+        {
+            "en": "two hundred seventy-nine",
+            "es": "doscientos setenta y nueve"
+        },
+        {
+            "en": "two hundred eighty",
+            "es": "doscientos ochenta"
+        },
+        {
+            "en": "two hundred eighty-one",
+            "es": "doscientos ochenta y uno"
+        },
+        {
+            "en": "two hundred eighty-two",
+            "es": "doscientos ochenta y dos"
+        },
+        {
+            "en": "two hundred eighty-three",
+            "es": "doscientos ochenta y tres"
+        },
+        {
+            "en": "two hundred eighty-four",
+            "es": "doscientos ochenta y cuatro"
+        },
+        {
+            "en": "two hundred eighty-five",
+            "es": "doscientos ochenta y cinco"
+        },
+        {
+            "en": "two hundred eighty-six",
+            "es": "doscientos ochenta y seis"
+        },
+        {
+            "en": "two hundred eighty-seven",
+            "es": "doscientos ochenta y siete"
+        },
+        {
+            "en": "two hundred eighty-eight",
+            "es": "doscientos ochenta y ocho"
+        },
+        {
+            "en": "two hundred eighty-nine",
+            "es": "doscientos ochenta y nueve"
+        },
+        {
+            "en": "two hundred ninety",
+            "es": "doscientos noventa"
+        },
+        {
+            "en": "two hundred ninety-one",
+            "es": "doscientos noventa y uno"
+        },
+        {
+            "en": "two hundred ninety-two",
+            "es": "doscientos noventa y dos"
+        },
+        {
+            "en": "two hundred ninety-three",
+            "es": "doscientos noventa y tres"
+        },
+        {
+            "en": "two hundred ninety-four",
+            "es": "doscientos noventa y cuatro"
+        },
+        {
+            "en": "two hundred ninety-five",
+            "es": "doscientos noventa y cinco"
+        },
+        {
+            "en": "two hundred ninety-six",
+            "es": "doscientos noventa y seis"
+        },
+        {
+            "en": "two hundred ninety-seven",
+            "es": "doscientos noventa y siete"
+        },
+        {
+            "en": "two hundred ninety-eight",
+            "es": "doscientos noventa y ocho"
+        },
+        {
+            "en": "two hundred ninety-nine",
+            "es": "doscientos noventa y nueve"
+        },
+        {
+            "en": "three hundred",
+            "es": "trescientos"
+        },
+        {
+            "en": "three hundred one",
+            "es": "trescientos uno"
+        },
+        {
+            "en": "three hundred two",
+            "es": "trescientos dos"
+        },
+        {
+            "en": "three hundred three",
+            "es": "trescientos tres"
+        },
+        {
+            "en": "three hundred four",
+            "es": "trescientos cuatro"
+        },
+        {
+            "en": "three hundred five",
+            "es": "trescientos cinco"
+        },
+        {
+            "en": "three hundred six",
+            "es": "trescientos seis"
+        },
+        {
+            "en": "three hundred seven",
+            "es": "trescientos siete"
+        },
+        {
+            "en": "three hundred eight",
+            "es": "trescientos ocho"
+        },
+        {
+            "en": "three hundred nine",
+            "es": "trescientos nueve"
+        },
+        {
+            "en": "three hundred ten",
+            "es": "trescientos diez"
+        },
+        {
+            "en": "three hundred eleven",
+            "es": "trescientos once"
+        },
+        {
+            "en": "three hundred twelve",
+            "es": "trescientos doce"
+        },
+        {
+            "en": "three hundred thirteen",
+            "es": "trescientos trece"
+        },
+        {
+            "en": "three hundred fourteen",
+            "es": "trescientos catorce"
+        },
+        {
+            "en": "three hundred fifteen",
+            "es": "trescientos quince"
+        },
+        {
+            "en": "three hundred sixteen",
+            "es": "trescientos dieciséis"
+        },
+        {
+            "en": "three hundred seventeen",
+            "es": "trescientos diecisiete"
+        },
+        {
+            "en": "three hundred eighteen",
+            "es": "trescientos dieciocho"
+        },
+        {
+            "en": "three hundred nineteen",
+            "es": "trescientos diecinueve"
+        },
+        {
+            "en": "three hundred twenty",
+            "es": "trescientos veinte"
+        },
+        {
+            "en": "three hundred twenty-one",
+            "es": "trescientos veintiuno"
+        },
+        {
+            "en": "three hundred twenty-two",
+            "es": "trescientos veintidós"
+        },
+        {
+            "en": "three hundred twenty-three",
+            "es": "trescientos veintitrés"
+        },
+        {
+            "en": "three hundred twenty-four",
+            "es": "trescientos veinticuatro"
+        },
+        {
+            "en": "three hundred twenty-five",
+            "es": "trescientos veinticinco"
+        },
+        {
+            "en": "three hundred twenty-six",
+            "es": "trescientos veintiséis"
+        },
+        {
+            "en": "three hundred twenty-seven",
+            "es": "trescientos veintisiete"
+        },
+        {
+            "en": "three hundred twenty-eight",
+            "es": "trescientos veintiocho"
+        },
+        {
+            "en": "three hundred twenty-nine",
+            "es": "trescientos veintinueve"
+        },
+        {
+            "en": "three hundred thirty",
+            "es": "trescientos treinta"
+        },
+        {
+            "en": "three hundred thirty-one",
+            "es": "trescientos treinta y uno"
+        },
+        {
+            "en": "three hundred thirty-two",
+            "es": "trescientos treinta y dos"
+        },
+        {
+            "en": "three hundred thirty-three",
+            "es": "trescientos treinta y tres"
+        },
+        {
+            "en": "three hundred thirty-four",
+            "es": "trescientos treinta y cuatro"
+        },
+        {
+            "en": "three hundred thirty-five",
+            "es": "trescientos treinta y cinco"
+        },
+        {
+            "en": "three hundred thirty-six",
+            "es": "trescientos treinta y seis"
+        },
+        {
+            "en": "three hundred thirty-seven",
+            "es": "trescientos treinta y siete"
+        },
+        {
+            "en": "three hundred thirty-eight",
+            "es": "trescientos treinta y ocho"
+        },
+        {
+            "en": "three hundred thirty-nine",
+            "es": "trescientos treinta y nueve"
+        },
+        {
+            "en": "three hundred forty",
+            "es": "trescientos cuarenta"
+        },
+        {
+            "en": "three hundred forty-one",
+            "es": "trescientos cuarenta y uno"
+        },
+        {
+            "en": "three hundred forty-two",
+            "es": "trescientos cuarenta y dos"
+        },
+        {
+            "en": "three hundred forty-three",
+            "es": "trescientos cuarenta y tres"
+        },
+        {
+            "en": "three hundred forty-four",
+            "es": "trescientos cuarenta y cuatro"
+        },
+        {
+            "en": "three hundred forty-five",
+            "es": "trescientos cuarenta y cinco"
+        },
+        {
+            "en": "three hundred forty-six",
+            "es": "trescientos cuarenta y seis"
+        },
+        {
+            "en": "three hundred forty-seven",
+            "es": "trescientos cuarenta y siete"
+        },
+        {
+            "en": "three hundred forty-eight",
+            "es": "trescientos cuarenta y ocho"
+        },
+        {
+            "en": "three hundred forty-nine",
+            "es": "trescientos cuarenta y nueve"
+        },
+        {
+            "en": "three hundred fifty",
+            "es": "trescientos cincuenta"
+        },
+        {
+            "en": "three hundred fifty-one",
+            "es": "trescientos cincuenta y uno"
+        },
+        {
+            "en": "three hundred fifty-two",
+            "es": "trescientos cincuenta y dos"
+        },
+        {
+            "en": "three hundred fifty-three",
+            "es": "trescientos cincuenta y tres"
+        },
+        {
+            "en": "three hundred fifty-four",
+            "es": "trescientos cincuenta y cuatro"
+        },
+        {
+            "en": "three hundred fifty-five",
+            "es": "trescientos cincuenta y cinco"
+        },
+        {
+            "en": "three hundred fifty-six",
+            "es": "trescientos cincuenta y seis"
+        },
+        {
+            "en": "three hundred fifty-seven",
+            "es": "trescientos cincuenta y siete"
+        },
+        {
+            "en": "three hundred fifty-eight",
+            "es": "trescientos cincuenta y ocho"
+        },
+        {
+            "en": "three hundred fifty-nine",
+            "es": "trescientos cincuenta y nueve"
+        },
+        {
+            "en": "three hundred sixty",
+            "es": "trescientos sesenta"
+        },
+        {
+            "en": "three hundred sixty-one",
+            "es": "trescientos sesenta y uno"
+        },
+        {
+            "en": "three hundred sixty-two",
+            "es": "trescientos sesenta y dos"
+        },
+        {
+            "en": "three hundred sixty-three",
+            "es": "trescientos sesenta y tres"
+        },
+        {
+            "en": "three hundred sixty-four",
+            "es": "trescientos sesenta y cuatro"
+        },
+        {
+            "en": "three hundred sixty-five",
+            "es": "trescientos sesenta y cinco"
+        },
+        {
+            "en": "three hundred sixty-six",
+            "es": "trescientos sesenta y seis"
+        },
+        {
+            "en": "three hundred sixty-seven",
+            "es": "trescientos sesenta y siete"
+        },
+        {
+            "en": "three hundred sixty-eight",
+            "es": "trescientos sesenta y ocho"
+        },
+        {
+            "en": "three hundred sixty-nine",
+            "es": "trescientos sesenta y nueve"
+        },
+        {
+            "en": "three hundred seventy",
+            "es": "trescientos setenta"
+        },
+        {
+            "en": "three hundred seventy-one",
+            "es": "trescientos setenta y uno"
+        },
+        {
+            "en": "three hundred seventy-two",
+            "es": "trescientos setenta y dos"
+        },
+        {
+            "en": "three hundred seventy-three",
+            "es": "trescientos setenta y tres"
+        },
+        {
+            "en": "three hundred seventy-four",
+            "es": "trescientos setenta y cuatro"
+        },
+        {
+            "en": "three hundred seventy-five",
+            "es": "trescientos setenta y cinco"
+        },
+        {
+            "en": "three hundred seventy-six",
+            "es": "trescientos setenta y seis"
+        },
+        {
+            "en": "three hundred seventy-seven",
+            "es": "trescientos setenta y siete"
+        },
+        {
+            "en": "three hundred seventy-eight",
+            "es": "trescientos setenta y ocho"
+        },
+        {
+            "en": "three hundred seventy-nine",
+            "es": "trescientos setenta y nueve"
+        },
+        {
+            "en": "three hundred eighty",
+            "es": "trescientos ochenta"
+        },
+        {
+            "en": "three hundred eighty-one",
+            "es": "trescientos ochenta y uno"
+        },
+        {
+            "en": "three hundred eighty-two",
+            "es": "trescientos ochenta y dos"
+        },
+        {
+            "en": "three hundred eighty-three",
+            "es": "trescientos ochenta y tres"
+        },
+        {
+            "en": "three hundred eighty-four",
+            "es": "trescientos ochenta y cuatro"
+        },
+        {
+            "en": "three hundred eighty-five",
+            "es": "trescientos ochenta y cinco"
+        },
+        {
+            "en": "three hundred eighty-six",
+            "es": "trescientos ochenta y seis"
+        },
+        {
+            "en": "three hundred eighty-seven",
+            "es": "trescientos ochenta y siete"
+        },
+        {
+            "en": "three hundred eighty-eight",
+            "es": "trescientos ochenta y ocho"
+        },
+        {
+            "en": "three hundred eighty-nine",
+            "es": "trescientos ochenta y nueve"
+        },
+        {
+            "en": "three hundred ninety",
+            "es": "trescientos noventa"
+        },
+        {
+            "en": "three hundred ninety-one",
+            "es": "trescientos noventa y uno"
+        },
+        {
+            "en": "three hundred ninety-two",
+            "es": "trescientos noventa y dos"
+        },
+        {
+            "en": "three hundred ninety-three",
+            "es": "trescientos noventa y tres"
+        },
+        {
+            "en": "three hundred ninety-four",
+            "es": "trescientos noventa y cuatro"
+        },
+        {
+            "en": "three hundred ninety-five",
+            "es": "trescientos noventa y cinco"
+        },
+        {
+            "en": "three hundred ninety-six",
+            "es": "trescientos noventa y seis"
+        },
+        {
+            "en": "three hundred ninety-seven",
+            "es": "trescientos noventa y siete"
+        },
+        {
+            "en": "three hundred ninety-eight",
+            "es": "trescientos noventa y ocho"
+        },
+        {
+            "en": "three hundred ninety-nine",
+            "es": "trescientos noventa y nueve"
+        },
+        {
+            "en": "four hundred",
+            "es": "cuatrocientos"
+        },
+        {
+            "en": "four hundred one",
+            "es": "cuatrocientos uno"
+        },
+        {
+            "en": "four hundred two",
+            "es": "cuatrocientos dos"
+        },
+        {
+            "en": "four hundred three",
+            "es": "cuatrocientos tres"
+        },
+        {
+            "en": "four hundred four",
+            "es": "cuatrocientos cuatro"
+        },
+        {
+            "en": "four hundred five",
+            "es": "cuatrocientos cinco"
+        },
+        {
+            "en": "four hundred six",
+            "es": "cuatrocientos seis"
+        },
+        {
+            "en": "four hundred seven",
+            "es": "cuatrocientos siete"
+        },
+        {
+            "en": "four hundred eight",
+            "es": "cuatrocientos ocho"
+        },
+        {
+            "en": "four hundred nine",
+            "es": "cuatrocientos nueve"
+        },
+        {
+            "en": "four hundred ten",
+            "es": "cuatrocientos diez"
+        },
+        {
+            "en": "four hundred eleven",
+            "es": "cuatrocientos once"
+        },
+        {
+            "en": "four hundred twelve",
+            "es": "cuatrocientos doce"
+        },
+        {
+            "en": "four hundred thirteen",
+            "es": "cuatrocientos trece"
+        },
+        {
+            "en": "four hundred fourteen",
+            "es": "cuatrocientos catorce"
+        },
+        {
+            "en": "four hundred fifteen",
+            "es": "cuatrocientos quince"
+        },
+        {
+            "en": "four hundred sixteen",
+            "es": "cuatrocientos dieciséis"
+        },
+        {
+            "en": "four hundred seventeen",
+            "es": "cuatrocientos diecisiete"
+        },
+        {
+            "en": "four hundred eighteen",
+            "es": "cuatrocientos dieciocho"
+        },
+        {
+            "en": "four hundred nineteen",
+            "es": "cuatrocientos diecinueve"
+        },
+        {
+            "en": "four hundred twenty",
+            "es": "cuatrocientos veinte"
+        },
+        {
+            "en": "four hundred twenty-one",
+            "es": "cuatrocientos veintiuno"
+        },
+        {
+            "en": "four hundred twenty-two",
+            "es": "cuatrocientos veintidós"
+        },
+        {
+            "en": "four hundred twenty-three",
+            "es": "cuatrocientos veintitrés"
+        },
+        {
+            "en": "four hundred twenty-four",
+            "es": "cuatrocientos veinticuatro"
+        },
+        {
+            "en": "four hundred twenty-five",
+            "es": "cuatrocientos veinticinco"
+        },
+        {
+            "en": "four hundred twenty-six",
+            "es": "cuatrocientos veintiséis"
+        },
+        {
+            "en": "four hundred twenty-seven",
+            "es": "cuatrocientos veintisiete"
+        },
+        {
+            "en": "four hundred twenty-eight",
+            "es": "cuatrocientos veintiocho"
+        },
+        {
+            "en": "four hundred twenty-nine",
+            "es": "cuatrocientos veintinueve"
+        },
+        {
+            "en": "four hundred thirty",
+            "es": "cuatrocientos treinta"
+        },
+        {
+            "en": "four hundred thirty-one",
+            "es": "cuatrocientos treinta y uno"
+        },
+        {
+            "en": "four hundred thirty-two",
+            "es": "cuatrocientos treinta y dos"
+        },
+        {
+            "en": "four hundred thirty-three",
+            "es": "cuatrocientos treinta y tres"
+        },
+        {
+            "en": "four hundred thirty-four",
+            "es": "cuatrocientos treinta y cuatro"
+        },
+        {
+            "en": "four hundred thirty-five",
+            "es": "cuatrocientos treinta y cinco"
+        },
+        {
+            "en": "four hundred thirty-six",
+            "es": "cuatrocientos treinta y seis"
+        },
+        {
+            "en": "four hundred thirty-seven",
+            "es": "cuatrocientos treinta y siete"
+        },
+        {
+            "en": "four hundred thirty-eight",
+            "es": "cuatrocientos treinta y ocho"
+        },
+        {
+            "en": "four hundred thirty-nine",
+            "es": "cuatrocientos treinta y nueve"
+        },
+        {
+            "en": "four hundred forty",
+            "es": "cuatrocientos cuarenta"
+        },
+        {
+            "en": "four hundred forty-one",
+            "es": "cuatrocientos cuarenta y uno"
+        },
+        {
+            "en": "four hundred forty-two",
+            "es": "cuatrocientos cuarenta y dos"
+        },
+        {
+            "en": "four hundred forty-three",
+            "es": "cuatrocientos cuarenta y tres"
+        },
+        {
+            "en": "four hundred forty-four",
+            "es": "cuatrocientos cuarenta y cuatro"
+        },
+        {
+            "en": "four hundred forty-five",
+            "es": "cuatrocientos cuarenta y cinco"
+        },
+        {
+            "en": "four hundred forty-six",
+            "es": "cuatrocientos cuarenta y seis"
+        },
+        {
+            "en": "four hundred forty-seven",
+            "es": "cuatrocientos cuarenta y siete"
+        },
+        {
+            "en": "four hundred forty-eight",
+            "es": "cuatrocientos cuarenta y ocho"
+        },
+        {
+            "en": "four hundred forty-nine",
+            "es": "cuatrocientos cuarenta y nueve"
+        },
+        {
+            "en": "four hundred fifty",
+            "es": "cuatrocientos cincuenta"
+        },
+        {
+            "en": "four hundred fifty-one",
+            "es": "cuatrocientos cincuenta y uno"
+        },
+        {
+            "en": "four hundred fifty-two",
+            "es": "cuatrocientos cincuenta y dos"
+        },
+        {
+            "en": "four hundred fifty-three",
+            "es": "cuatrocientos cincuenta y tres"
+        },
+        {
+            "en": "four hundred fifty-four",
+            "es": "cuatrocientos cincuenta y cuatro"
+        },
+        {
+            "en": "four hundred fifty-five",
+            "es": "cuatrocientos cincuenta y cinco"
+        },
+        {
+            "en": "four hundred fifty-six",
+            "es": "cuatrocientos cincuenta y seis"
+        },
+        {
+            "en": "four hundred fifty-seven",
+            "es": "cuatrocientos cincuenta y siete"
+        },
+        {
+            "en": "four hundred fifty-eight",
+            "es": "cuatrocientos cincuenta y ocho"
+        },
+        {
+            "en": "four hundred fifty-nine",
+            "es": "cuatrocientos cincuenta y nueve"
+        },
+        {
+            "en": "four hundred sixty",
+            "es": "cuatrocientos sesenta"
+        },
+        {
+            "en": "four hundred sixty-one",
+            "es": "cuatrocientos sesenta y uno"
+        },
+        {
+            "en": "four hundred sixty-two",
+            "es": "cuatrocientos sesenta y dos"
+        },
+        {
+            "en": "four hundred sixty-three",
+            "es": "cuatrocientos sesenta y tres"
+        },
+        {
+            "en": "four hundred sixty-four",
+            "es": "cuatrocientos sesenta y cuatro"
+        },
+        {
+            "en": "four hundred sixty-five",
+            "es": "cuatrocientos sesenta y cinco"
+        },
+        {
+            "en": "four hundred sixty-six",
+            "es": "cuatrocientos sesenta y seis"
+        },
+        {
+            "en": "four hundred sixty-seven",
+            "es": "cuatrocientos sesenta y siete"
+        },
+        {
+            "en": "four hundred sixty-eight",
+            "es": "cuatrocientos sesenta y ocho"
+        },
+        {
+            "en": "four hundred sixty-nine",
+            "es": "cuatrocientos sesenta y nueve"
+        },
+        {
+            "en": "four hundred seventy",
+            "es": "cuatrocientos setenta"
+        },
+        {
+            "en": "four hundred seventy-one",
+            "es": "cuatrocientos setenta y uno"
+        },
+        {
+            "en": "four hundred seventy-two",
+            "es": "cuatrocientos setenta y dos"
+        },
+        {
+            "en": "four hundred seventy-three",
+            "es": "cuatrocientos setenta y tres"
+        },
+        {
+            "en": "four hundred seventy-four",
+            "es": "cuatrocientos setenta y cuatro"
+        },
+        {
+            "en": "four hundred seventy-five",
+            "es": "cuatrocientos setenta y cinco"
+        },
+        {
+            "en": "four hundred seventy-six",
+            "es": "cuatrocientos setenta y seis"
+        },
+        {
+            "en": "four hundred seventy-seven",
+            "es": "cuatrocientos setenta y siete"
+        },
+        {
+            "en": "four hundred seventy-eight",
+            "es": "cuatrocientos setenta y ocho"
+        },
+        {
+            "en": "four hundred seventy-nine",
+            "es": "cuatrocientos setenta y nueve"
+        },
+        {
+            "en": "four hundred eighty",
+            "es": "cuatrocientos ochenta"
+        },
+        {
+            "en": "four hundred eighty-one",
+            "es": "cuatrocientos ochenta y uno"
+        },
+        {
+            "en": "four hundred eighty-two",
+            "es": "cuatrocientos ochenta y dos"
+        },
+        {
+            "en": "four hundred eighty-three",
+            "es": "cuatrocientos ochenta y tres"
+        },
+        {
+            "en": "four hundred eighty-four",
+            "es": "cuatrocientos ochenta y cuatro"
+        },
+        {
+            "en": "four hundred eighty-five",
+            "es": "cuatrocientos ochenta y cinco"
+        },
+        {
+            "en": "four hundred eighty-six",
+            "es": "cuatrocientos ochenta y seis"
+        },
+        {
+            "en": "four hundred eighty-seven",
+            "es": "cuatrocientos ochenta y siete"
+        },
+        {
+            "en": "four hundred eighty-eight",
+            "es": "cuatrocientos ochenta y ocho"
+        },
+        {
+            "en": "four hundred eighty-nine",
+            "es": "cuatrocientos ochenta y nueve"
+        },
+        {
+            "en": "four hundred ninety",
+            "es": "cuatrocientos noventa"
+        },
+        {
+            "en": "four hundred ninety-one",
+            "es": "cuatrocientos noventa y uno"
+        },
+        {
+            "en": "four hundred ninety-two",
+            "es": "cuatrocientos noventa y dos"
+        },
+        {
+            "en": "four hundred ninety-three",
+            "es": "cuatrocientos noventa y tres"
+        },
+        {
+            "en": "four hundred ninety-four",
+            "es": "cuatrocientos noventa y cuatro"
+        },
+        {
+            "en": "four hundred ninety-five",
+            "es": "cuatrocientos noventa y cinco"
+        },
+        {
+            "en": "four hundred ninety-six",
+            "es": "cuatrocientos noventa y seis"
+        },
+        {
+            "en": "four hundred ninety-seven",
+            "es": "cuatrocientos noventa y siete"
+        },
+        {
+            "en": "four hundred ninety-eight",
+            "es": "cuatrocientos noventa y ocho"
+        },
+        {
+            "en": "four hundred ninety-nine",
+            "es": "cuatrocientos noventa y nueve"
+        },
+        {
+            "en": "five hundred",
+            "es": "quinientos"
+        },
+        {
+            "en": "five hundred one",
+            "es": "quinientos uno"
+        },
+        {
+            "en": "five hundred two",
+            "es": "quinientos dos"
+        },
+        {
+            "en": "five hundred three",
+            "es": "quinientos tres"
+        },
+        {
+            "en": "five hundred four",
+            "es": "quinientos cuatro"
+        },
+        {
+            "en": "five hundred five",
+            "es": "quinientos cinco"
+        },
+        {
+            "en": "five hundred six",
+            "es": "quinientos seis"
+        },
+        {
+            "en": "five hundred seven",
+            "es": "quinientos siete"
+        },
+        {
+            "en": "five hundred eight",
+            "es": "quinientos ocho"
+        },
+        {
+            "en": "five hundred nine",
+            "es": "quinientos nueve"
+        },
+        {
+            "en": "five hundred ten",
+            "es": "quinientos diez"
+        },
+        {
+            "en": "five hundred eleven",
+            "es": "quinientos once"
+        },
+        {
+            "en": "five hundred twelve",
+            "es": "quinientos doce"
+        },
+        {
+            "en": "five hundred thirteen",
+            "es": "quinientos trece"
+        },
+        {
+            "en": "five hundred fourteen",
+            "es": "quinientos catorce"
+        },
+        {
+            "en": "five hundred fifteen",
+            "es": "quinientos quince"
+        },
+        {
+            "en": "five hundred sixteen",
+            "es": "quinientos dieciséis"
+        },
+        {
+            "en": "five hundred seventeen",
+            "es": "quinientos diecisiete"
+        },
+        {
+            "en": "five hundred eighteen",
+            "es": "quinientos dieciocho"
+        },
+        {
+            "en": "five hundred nineteen",
+            "es": "quinientos diecinueve"
+        },
+        {
+            "en": "five hundred twenty",
+            "es": "quinientos veinte"
+        },
+        {
+            "en": "five hundred twenty-one",
+            "es": "quinientos veintiuno"
+        },
+        {
+            "en": "five hundred twenty-two",
+            "es": "quinientos veintidós"
+        },
+        {
+            "en": "five hundred twenty-three",
+            "es": "quinientos veintitrés"
+        },
+        {
+            "en": "five hundred twenty-four",
+            "es": "quinientos veinticuatro"
+        },
+        {
+            "en": "five hundred twenty-five",
+            "es": "quinientos veinticinco"
+        },
+        {
+            "en": "five hundred twenty-six",
+            "es": "quinientos veintiséis"
+        },
+        {
+            "en": "five hundred twenty-seven",
+            "es": "quinientos veintisiete"
+        },
+        {
+            "en": "five hundred twenty-eight",
+            "es": "quinientos veintiocho"
+        },
+        {
+            "en": "five hundred twenty-nine",
+            "es": "quinientos veintinueve"
+        },
+        {
+            "en": "five hundred thirty",
+            "es": "quinientos treinta"
+        },
+        {
+            "en": "five hundred thirty-one",
+            "es": "quinientos treinta y uno"
+        },
+        {
+            "en": "five hundred thirty-two",
+            "es": "quinientos treinta y dos"
+        },
+        {
+            "en": "five hundred thirty-three",
+            "es": "quinientos treinta y tres"
+        },
+        {
+            "en": "five hundred thirty-four",
+            "es": "quinientos treinta y cuatro"
+        },
+        {
+            "en": "five hundred thirty-five",
+            "es": "quinientos treinta y cinco"
+        },
+        {
+            "en": "five hundred thirty-six",
+            "es": "quinientos treinta y seis"
+        },
+        {
+            "en": "five hundred thirty-seven",
+            "es": "quinientos treinta y siete"
+        },
+        {
+            "en": "five hundred thirty-eight",
+            "es": "quinientos treinta y ocho"
+        },
+        {
+            "en": "five hundred thirty-nine",
+            "es": "quinientos treinta y nueve"
+        },
+        {
+            "en": "five hundred forty",
+            "es": "quinientos cuarenta"
+        },
+        {
+            "en": "five hundred forty-one",
+            "es": "quinientos cuarenta y uno"
+        },
+        {
+            "en": "five hundred forty-two",
+            "es": "quinientos cuarenta y dos"
+        },
+        {
+            "en": "five hundred forty-three",
+            "es": "quinientos cuarenta y tres"
+        },
+        {
+            "en": "five hundred forty-four",
+            "es": "quinientos cuarenta y cuatro"
+        },
+        {
+            "en": "five hundred forty-five",
+            "es": "quinientos cuarenta y cinco"
+        },
+        {
+            "en": "five hundred forty-six",
+            "es": "quinientos cuarenta y seis"
+        },
+        {
+            "en": "five hundred forty-seven",
+            "es": "quinientos cuarenta y siete"
+        },
+        {
+            "en": "five hundred forty-eight",
+            "es": "quinientos cuarenta y ocho"
+        },
+        {
+            "en": "five hundred forty-nine",
+            "es": "quinientos cuarenta y nueve"
+        },
+        {
+            "en": "five hundred fifty",
+            "es": "quinientos cincuenta"
+        },
+        {
+            "en": "five hundred fifty-one",
+            "es": "quinientos cincuenta y uno"
+        },
+        {
+            "en": "five hundred fifty-two",
+            "es": "quinientos cincuenta y dos"
+        },
+        {
+            "en": "five hundred fifty-three",
+            "es": "quinientos cincuenta y tres"
+        },
+        {
+            "en": "five hundred fifty-four",
+            "es": "quinientos cincuenta y cuatro"
+        },
+        {
+            "en": "five hundred fifty-five",
+            "es": "quinientos cincuenta y cinco"
+        },
+        {
+            "en": "five hundred fifty-six",
+            "es": "quinientos cincuenta y seis"
+        },
+        {
+            "en": "five hundred fifty-seven",
+            "es": "quinientos cincuenta y siete"
+        },
+        {
+            "en": "five hundred fifty-eight",
+            "es": "quinientos cincuenta y ocho"
+        },
+        {
+            "en": "five hundred fifty-nine",
+            "es": "quinientos cincuenta y nueve"
+        },
+        {
+            "en": "five hundred sixty",
+            "es": "quinientos sesenta"
+        },
+        {
+            "en": "five hundred sixty-one",
+            "es": "quinientos sesenta y uno"
+        },
+        {
+            "en": "five hundred sixty-two",
+            "es": "quinientos sesenta y dos"
+        },
+        {
+            "en": "five hundred sixty-three",
+            "es": "quinientos sesenta y tres"
+        },
+        {
+            "en": "five hundred sixty-four",
+            "es": "quinientos sesenta y cuatro"
+        },
+        {
+            "en": "five hundred sixty-five",
+            "es": "quinientos sesenta y cinco"
+        },
+        {
+            "en": "five hundred sixty-six",
+            "es": "quinientos sesenta y seis"
+        },
+        {
+            "en": "five hundred sixty-seven",
+            "es": "quinientos sesenta y siete"
+        },
+        {
+            "en": "five hundred sixty-eight",
+            "es": "quinientos sesenta y ocho"
+        },
+        {
+            "en": "five hundred sixty-nine",
+            "es": "quinientos sesenta y nueve"
+        },
+        {
+            "en": "five hundred seventy",
+            "es": "quinientos setenta"
+        },
+        {
+            "en": "five hundred seventy-one",
+            "es": "quinientos setenta y uno"
+        },
+        {
+            "en": "five hundred seventy-two",
+            "es": "quinientos setenta y dos"
+        },
+        {
+            "en": "five hundred seventy-three",
+            "es": "quinientos setenta y tres"
+        },
+        {
+            "en": "five hundred seventy-four",
+            "es": "quinientos setenta y cuatro"
+        },
+        {
+            "en": "five hundred seventy-five",
+            "es": "quinientos setenta y cinco"
+        },
+        {
+            "en": "five hundred seventy-six",
+            "es": "quinientos setenta y seis"
+        },
+        {
+            "en": "five hundred seventy-seven",
+            "es": "quinientos setenta y siete"
+        },
+        {
+            "en": "five hundred seventy-eight",
+            "es": "quinientos setenta y ocho"
+        },
+        {
+            "en": "five hundred seventy-nine",
+            "es": "quinientos setenta y nueve"
+        },
+        {
+            "en": "five hundred eighty",
+            "es": "quinientos ochenta"
+        },
+        {
+            "en": "five hundred eighty-one",
+            "es": "quinientos ochenta y uno"
+        },
+        {
+            "en": "five hundred eighty-two",
+            "es": "quinientos ochenta y dos"
+        },
+        {
+            "en": "five hundred eighty-three",
+            "es": "quinientos ochenta y tres"
+        },
+        {
+            "en": "five hundred eighty-four",
+            "es": "quinientos ochenta y cuatro"
+        },
+        {
+            "en": "five hundred eighty-five",
+            "es": "quinientos ochenta y cinco"
+        },
+        {
+            "en": "five hundred eighty-six",
+            "es": "quinientos ochenta y seis"
+        },
+        {
+            "en": "five hundred eighty-seven",
+            "es": "quinientos ochenta y siete"
+        },
+        {
+            "en": "five hundred eighty-eight",
+            "es": "quinientos ochenta y ocho"
+        },
+        {
+            "en": "five hundred eighty-nine",
+            "es": "quinientos ochenta y nueve"
+        },
+        {
+            "en": "five hundred ninety",
+            "es": "quinientos noventa"
+        },
+        {
+            "en": "five hundred ninety-one",
+            "es": "quinientos noventa y uno"
+        },
+        {
+            "en": "five hundred ninety-two",
+            "es": "quinientos noventa y dos"
+        },
+        {
+            "en": "five hundred ninety-three",
+            "es": "quinientos noventa y tres"
+        },
+        {
+            "en": "five hundred ninety-four",
+            "es": "quinientos noventa y cuatro"
+        },
+        {
+            "en": "five hundred ninety-five",
+            "es": "quinientos noventa y cinco"
+        },
+        {
+            "en": "five hundred ninety-six",
+            "es": "quinientos noventa y seis"
+        },
+        {
+            "en": "five hundred ninety-seven",
+            "es": "quinientos noventa y siete"
+        },
+        {
+            "en": "five hundred ninety-eight",
+            "es": "quinientos noventa y ocho"
+        },
+        {
+            "en": "five hundred ninety-nine",
+            "es": "quinientos noventa y nueve"
+        },
+        {
+            "en": "six hundred",
+            "es": "seiscientos"
+        },
+        {
+            "en": "six hundred one",
+            "es": "seiscientos uno"
+        },
+        {
+            "en": "six hundred two",
+            "es": "seiscientos dos"
+        },
+        {
+            "en": "six hundred three",
+            "es": "seiscientos tres"
+        },
+        {
+            "en": "six hundred four",
+            "es": "seiscientos cuatro"
+        },
+        {
+            "en": "six hundred five",
+            "es": "seiscientos cinco"
+        },
+        {
+            "en": "six hundred six",
+            "es": "seiscientos seis"
+        },
+        {
+            "en": "six hundred seven",
+            "es": "seiscientos siete"
+        },
+        {
+            "en": "six hundred eight",
+            "es": "seiscientos ocho"
+        },
+        {
+            "en": "six hundred nine",
+            "es": "seiscientos nueve"
+        },
+        {
+            "en": "six hundred ten",
+            "es": "seiscientos diez"
+        },
+        {
+            "en": "six hundred eleven",
+            "es": "seiscientos once"
+        },
+        {
+            "en": "six hundred twelve",
+            "es": "seiscientos doce"
+        },
+        {
+            "en": "six hundred thirteen",
+            "es": "seiscientos trece"
+        },
+        {
+            "en": "six hundred fourteen",
+            "es": "seiscientos catorce"
+        },
+        {
+            "en": "six hundred fifteen",
+            "es": "seiscientos quince"
+        },
+        {
+            "en": "six hundred sixteen",
+            "es": "seiscientos dieciséis"
+        },
+        {
+            "en": "six hundred seventeen",
+            "es": "seiscientos diecisiete"
+        },
+        {
+            "en": "six hundred eighteen",
+            "es": "seiscientos dieciocho"
+        },
+        {
+            "en": "six hundred nineteen",
+            "es": "seiscientos diecinueve"
+        },
+        {
+            "en": "six hundred twenty",
+            "es": "seiscientos veinte"
+        },
+        {
+            "en": "six hundred twenty-one",
+            "es": "seiscientos veintiuno"
+        },
+        {
+            "en": "six hundred twenty-two",
+            "es": "seiscientos veintidós"
+        },
+        {
+            "en": "six hundred twenty-three",
+            "es": "seiscientos veintitrés"
+        },
+        {
+            "en": "six hundred twenty-four",
+            "es": "seiscientos veinticuatro"
+        },
+        {
+            "en": "six hundred twenty-five",
+            "es": "seiscientos veinticinco"
+        },
+        {
+            "en": "six hundred twenty-six",
+            "es": "seiscientos veintiséis"
+        },
+        {
+            "en": "six hundred twenty-seven",
+            "es": "seiscientos veintisiete"
+        },
+        {
+            "en": "six hundred twenty-eight",
+            "es": "seiscientos veintiocho"
+        },
+        {
+            "en": "six hundred twenty-nine",
+            "es": "seiscientos veintinueve"
+        },
+        {
+            "en": "six hundred thirty",
+            "es": "seiscientos treinta"
+        },
+        {
+            "en": "six hundred thirty-one",
+            "es": "seiscientos treinta y uno"
+        },
+        {
+            "en": "six hundred thirty-two",
+            "es": "seiscientos treinta y dos"
+        },
+        {
+            "en": "six hundred thirty-three",
+            "es": "seiscientos treinta y tres"
+        },
+        {
+            "en": "six hundred thirty-four",
+            "es": "seiscientos treinta y cuatro"
+        },
+        {
+            "en": "six hundred thirty-five",
+            "es": "seiscientos treinta y cinco"
+        },
+        {
+            "en": "six hundred thirty-six",
+            "es": "seiscientos treinta y seis"
+        },
+        {
+            "en": "six hundred thirty-seven",
+            "es": "seiscientos treinta y siete"
+        },
+        {
+            "en": "six hundred thirty-eight",
+            "es": "seiscientos treinta y ocho"
+        },
+        {
+            "en": "six hundred thirty-nine",
+            "es": "seiscientos treinta y nueve"
+        },
+        {
+            "en": "six hundred forty",
+            "es": "seiscientos cuarenta"
+        },
+        {
+            "en": "six hundred forty-one",
+            "es": "seiscientos cuarenta y uno"
+        },
+        {
+            "en": "six hundred forty-two",
+            "es": "seiscientos cuarenta y dos"
+        },
+        {
+            "en": "six hundred forty-three",
+            "es": "seiscientos cuarenta y tres"
+        },
+        {
+            "en": "six hundred forty-four",
+            "es": "seiscientos cuarenta y cuatro"
+        },
+        {
+            "en": "six hundred forty-five",
+            "es": "seiscientos cuarenta y cinco"
+        },
+        {
+            "en": "six hundred forty-six",
+            "es": "seiscientos cuarenta y seis"
+        },
+        {
+            "en": "six hundred forty-seven",
+            "es": "seiscientos cuarenta y siete"
+        },
+        {
+            "en": "six hundred forty-eight",
+            "es": "seiscientos cuarenta y ocho"
+        },
+        {
+            "en": "six hundred forty-nine",
+            "es": "seiscientos cuarenta y nueve"
+        },
+        {
+            "en": "six hundred fifty",
+            "es": "seiscientos cincuenta"
+        },
+        {
+            "en": "six hundred fifty-one",
+            "es": "seiscientos cincuenta y uno"
+        },
+        {
+            "en": "six hundred fifty-two",
+            "es": "seiscientos cincuenta y dos"
+        },
+        {
+            "en": "six hundred fifty-three",
+            "es": "seiscientos cincuenta y tres"
+        },
+        {
+            "en": "six hundred fifty-four",
+            "es": "seiscientos cincuenta y cuatro"
+        },
+        {
+            "en": "six hundred fifty-five",
+            "es": "seiscientos cincuenta y cinco"
+        },
+        {
+            "en": "six hundred fifty-six",
+            "es": "seiscientos cincuenta y seis"
+        },
+        {
+            "en": "six hundred fifty-seven",
+            "es": "seiscientos cincuenta y siete"
+        },
+        {
+            "en": "six hundred fifty-eight",
+            "es": "seiscientos cincuenta y ocho"
+        },
+        {
+            "en": "six hundred fifty-nine",
+            "es": "seiscientos cincuenta y nueve"
+        },
+        {
+            "en": "six hundred sixty",
+            "es": "seiscientos sesenta"
+        },
+        {
+            "en": "six hundred sixty-one",
+            "es": "seiscientos sesenta y uno"
+        },
+        {
+            "en": "six hundred sixty-two",
+            "es": "seiscientos sesenta y dos"
+        },
+        {
+            "en": "six hundred sixty-three",
+            "es": "seiscientos sesenta y tres"
+        },
+        {
+            "en": "six hundred sixty-four",
+            "es": "seiscientos sesenta y cuatro"
+        },
+        {
+            "en": "six hundred sixty-five",
+            "es": "seiscientos sesenta y cinco"
+        },
+        {
+            "en": "six hundred sixty-six",
+            "es": "seiscientos sesenta y seis"
+        },
+        {
+            "en": "six hundred sixty-seven",
+            "es": "seiscientos sesenta y siete"
+        },
+        {
+            "en": "six hundred sixty-eight",
+            "es": "seiscientos sesenta y ocho"
+        },
+        {
+            "en": "six hundred sixty-nine",
+            "es": "seiscientos sesenta y nueve"
+        },
+        {
+            "en": "six hundred seventy",
+            "es": "seiscientos setenta"
+        },
+        {
+            "en": "six hundred seventy-one",
+            "es": "seiscientos setenta y uno"
+        },
+        {
+            "en": "six hundred seventy-two",
+            "es": "seiscientos setenta y dos"
+        },
+        {
+            "en": "six hundred seventy-three",
+            "es": "seiscientos setenta y tres"
+        },
+        {
+            "en": "six hundred seventy-four",
+            "es": "seiscientos setenta y cuatro"
+        },
+        {
+            "en": "six hundred seventy-five",
+            "es": "seiscientos setenta y cinco"
+        },
+        {
+            "en": "six hundred seventy-six",
+            "es": "seiscientos setenta y seis"
+        },
+        {
+            "en": "six hundred seventy-seven",
+            "es": "seiscientos setenta y siete"
+        },
+        {
+            "en": "six hundred seventy-eight",
+            "es": "seiscientos setenta y ocho"
+        },
+        {
+            "en": "six hundred seventy-nine",
+            "es": "seiscientos setenta y nueve"
+        },
+        {
+            "en": "six hundred eighty",
+            "es": "seiscientos ochenta"
+        },
+        {
+            "en": "six hundred eighty-one",
+            "es": "seiscientos ochenta y uno"
+        },
+        {
+            "en": "six hundred eighty-two",
+            "es": "seiscientos ochenta y dos"
+        },
+        {
+            "en": "six hundred eighty-three",
+            "es": "seiscientos ochenta y tres"
+        },
+        {
+            "en": "six hundred eighty-four",
+            "es": "seiscientos ochenta y cuatro"
+        },
+        {
+            "en": "six hundred eighty-five",
+            "es": "seiscientos ochenta y cinco"
+        },
+        {
+            "en": "six hundred eighty-six",
+            "es": "seiscientos ochenta y seis"
+        },
+        {
+            "en": "six hundred eighty-seven",
+            "es": "seiscientos ochenta y siete"
+        },
+        {
+            "en": "six hundred eighty-eight",
+            "es": "seiscientos ochenta y ocho"
+        },
+        {
+            "en": "six hundred eighty-nine",
+            "es": "seiscientos ochenta y nueve"
+        },
+        {
+            "en": "six hundred ninety",
+            "es": "seiscientos noventa"
+        },
+        {
+            "en": "six hundred ninety-one",
+            "es": "seiscientos noventa y uno"
+        },
+        {
+            "en": "six hundred ninety-two",
+            "es": "seiscientos noventa y dos"
+        },
+        {
+            "en": "six hundred ninety-three",
+            "es": "seiscientos noventa y tres"
+        },
+        {
+            "en": "six hundred ninety-four",
+            "es": "seiscientos noventa y cuatro"
+        },
+        {
+            "en": "six hundred ninety-five",
+            "es": "seiscientos noventa y cinco"
+        },
+        {
+            "en": "six hundred ninety-six",
+            "es": "seiscientos noventa y seis"
+        },
+        {
+            "en": "six hundred ninety-seven",
+            "es": "seiscientos noventa y siete"
+        },
+        {
+            "en": "six hundred ninety-eight",
+            "es": "seiscientos noventa y ocho"
+        },
+        {
+            "en": "six hundred ninety-nine",
+            "es": "seiscientos noventa y nueve"
+        },
+        {
+            "en": "seven hundred",
+            "es": "setecientos"
+        },
+        {
+            "en": "seven hundred one",
+            "es": "setecientos uno"
+        },
+        {
+            "en": "seven hundred two",
+            "es": "setecientos dos"
+        },
+        {
+            "en": "seven hundred three",
+            "es": "setecientos tres"
+        },
+        {
+            "en": "seven hundred four",
+            "es": "setecientos cuatro"
+        },
+        {
+            "en": "seven hundred five",
+            "es": "setecientos cinco"
+        },
+        {
+            "en": "seven hundred six",
+            "es": "setecientos seis"
+        },
+        {
+            "en": "seven hundred seven",
+            "es": "setecientos siete"
+        },
+        {
+            "en": "seven hundred eight",
+            "es": "setecientos ocho"
+        },
+        {
+            "en": "seven hundred nine",
+            "es": "setecientos nueve"
+        },
+        {
+            "en": "seven hundred ten",
+            "es": "setecientos diez"
+        },
+        {
+            "en": "seven hundred eleven",
+            "es": "setecientos once"
+        },
+        {
+            "en": "seven hundred twelve",
+            "es": "setecientos doce"
+        },
+        {
+            "en": "seven hundred thirteen",
+            "es": "setecientos trece"
+        },
+        {
+            "en": "seven hundred fourteen",
+            "es": "setecientos catorce"
+        },
+        {
+            "en": "seven hundred fifteen",
+            "es": "setecientos quince"
+        },
+        {
+            "en": "seven hundred sixteen",
+            "es": "setecientos dieciséis"
+        },
+        {
+            "en": "seven hundred seventeen",
+            "es": "setecientos diecisiete"
+        },
+        {
+            "en": "seven hundred eighteen",
+            "es": "setecientos dieciocho"
+        },
+        {
+            "en": "seven hundred nineteen",
+            "es": "setecientos diecinueve"
+        },
+        {
+            "en": "seven hundred twenty",
+            "es": "setecientos veinte"
+        },
+        {
+            "en": "seven hundred twenty-one",
+            "es": "setecientos veintiuno"
+        },
+        {
+            "en": "seven hundred twenty-two",
+            "es": "setecientos veintidós"
+        },
+        {
+            "en": "seven hundred twenty-three",
+            "es": "setecientos veintitrés"
+        },
+        {
+            "en": "seven hundred twenty-four",
+            "es": "setecientos veinticuatro"
+        },
+        {
+            "en": "seven hundred twenty-five",
+            "es": "setecientos veinticinco"
+        },
+        {
+            "en": "seven hundred twenty-six",
+            "es": "setecientos veintiséis"
+        },
+        {
+            "en": "seven hundred twenty-seven",
+            "es": "setecientos veintisiete"
+        },
+        {
+            "en": "seven hundred twenty-eight",
+            "es": "setecientos veintiocho"
+        },
+        {
+            "en": "seven hundred twenty-nine",
+            "es": "setecientos veintinueve"
+        },
+        {
+            "en": "seven hundred thirty",
+            "es": "setecientos treinta"
+        },
+        {
+            "en": "seven hundred thirty-one",
+            "es": "setecientos treinta y uno"
+        },
+        {
+            "en": "seven hundred thirty-two",
+            "es": "setecientos treinta y dos"
+        },
+        {
+            "en": "seven hundred thirty-three",
+            "es": "setecientos treinta y tres"
+        },
+        {
+            "en": "seven hundred thirty-four",
+            "es": "setecientos treinta y cuatro"
+        },
+        {
+            "en": "seven hundred thirty-five",
+            "es": "setecientos treinta y cinco"
+        },
+        {
+            "en": "seven hundred thirty-six",
+            "es": "setecientos treinta y seis"
+        },
+        {
+            "en": "seven hundred thirty-seven",
+            "es": "setecientos treinta y siete"
+        },
+        {
+            "en": "seven hundred thirty-eight",
+            "es": "setecientos treinta y ocho"
+        },
+        {
+            "en": "seven hundred thirty-nine",
+            "es": "setecientos treinta y nueve"
+        },
+        {
+            "en": "seven hundred forty",
+            "es": "setecientos cuarenta"
+        },
+        {
+            "en": "seven hundred forty-one",
+            "es": "setecientos cuarenta y uno"
+        },
+        {
+            "en": "seven hundred forty-two",
+            "es": "setecientos cuarenta y dos"
+        },
+        {
+            "en": "seven hundred forty-three",
+            "es": "setecientos cuarenta y tres"
+        },
+        {
+            "en": "seven hundred forty-four",
+            "es": "setecientos cuarenta y cuatro"
+        },
+        {
+            "en": "seven hundred forty-five",
+            "es": "setecientos cuarenta y cinco"
+        },
+        {
+            "en": "seven hundred forty-six",
+            "es": "setecientos cuarenta y seis"
+        },
+        {
+            "en": "seven hundred forty-seven",
+            "es": "setecientos cuarenta y siete"
+        },
+        {
+            "en": "seven hundred forty-eight",
+            "es": "setecientos cuarenta y ocho"
+        },
+        {
+            "en": "seven hundred forty-nine",
+            "es": "setecientos cuarenta y nueve"
+        },
+        {
+            "en": "seven hundred fifty",
+            "es": "setecientos cincuenta"
+        },
+        {
+            "en": "seven hundred fifty-one",
+            "es": "setecientos cincuenta y uno"
+        },
+        {
+            "en": "seven hundred fifty-two",
+            "es": "setecientos cincuenta y dos"
+        },
+        {
+            "en": "seven hundred fifty-three",
+            "es": "setecientos cincuenta y tres"
+        },
+        {
+            "en": "seven hundred fifty-four",
+            "es": "setecientos cincuenta y cuatro"
+        },
+        {
+            "en": "seven hundred fifty-five",
+            "es": "setecientos cincuenta y cinco"
+        },
+        {
+            "en": "seven hundred fifty-six",
+            "es": "setecientos cincuenta y seis"
+        },
+        {
+            "en": "seven hundred fifty-seven",
+            "es": "setecientos cincuenta y siete"
+        },
+        {
+            "en": "seven hundred fifty-eight",
+            "es": "setecientos cincuenta y ocho"
+        },
+        {
+            "en": "seven hundred fifty-nine",
+            "es": "setecientos cincuenta y nueve"
+        },
+        {
+            "en": "seven hundred sixty",
+            "es": "setecientos sesenta"
+        },
+        {
+            "en": "seven hundred sixty-one",
+            "es": "setecientos sesenta y uno"
+        },
+        {
+            "en": "seven hundred sixty-two",
+            "es": "setecientos sesenta y dos"
+        },
+        {
+            "en": "seven hundred sixty-three",
+            "es": "setecientos sesenta y tres"
+        },
+        {
+            "en": "seven hundred sixty-four",
+            "es": "setecientos sesenta y cuatro"
+        },
+        {
+            "en": "seven hundred sixty-five",
+            "es": "setecientos sesenta y cinco"
+        },
+        {
+            "en": "seven hundred sixty-six",
+            "es": "setecientos sesenta y seis"
+        },
+        {
+            "en": "seven hundred sixty-seven",
+            "es": "setecientos sesenta y siete"
+        },
+        {
+            "en": "seven hundred sixty-eight",
+            "es": "setecientos sesenta y ocho"
+        },
+        {
+            "en": "seven hundred sixty-nine",
+            "es": "setecientos sesenta y nueve"
+        },
+        {
+            "en": "seven hundred seventy",
+            "es": "setecientos setenta"
+        },
+        {
+            "en": "seven hundred seventy-one",
+            "es": "setecientos setenta y uno"
+        },
+        {
+            "en": "seven hundred seventy-two",
+            "es": "setecientos setenta y dos"
+        },
+        {
+            "en": "seven hundred seventy-three",
+            "es": "setecientos setenta y tres"
+        },
+        {
+            "en": "seven hundred seventy-four",
+            "es": "setecientos setenta y cuatro"
+        },
+        {
+            "en": "seven hundred seventy-five",
+            "es": "setecientos setenta y cinco"
+        },
+        {
+            "en": "seven hundred seventy-six",
+            "es": "setecientos setenta y seis"
+        },
+        {
+            "en": "seven hundred seventy-seven",
+            "es": "setecientos setenta y siete"
+        },
+        {
+            "en": "seven hundred seventy-eight",
+            "es": "setecientos setenta y ocho"
+        },
+        {
+            "en": "seven hundred seventy-nine",
+            "es": "setecientos setenta y nueve"
+        },
+        {
+            "en": "seven hundred eighty",
+            "es": "setecientos ochenta"
+        },
+        {
+            "en": "seven hundred eighty-one",
+            "es": "setecientos ochenta y uno"
+        },
+        {
+            "en": "seven hundred eighty-two",
+            "es": "setecientos ochenta y dos"
+        },
+        {
+            "en": "seven hundred eighty-three",
+            "es": "setecientos ochenta y tres"
+        },
+        {
+            "en": "seven hundred eighty-four",
+            "es": "setecientos ochenta y cuatro"
+        },
+        {
+            "en": "seven hundred eighty-five",
+            "es": "setecientos ochenta y cinco"
+        },
+        {
+            "en": "seven hundred eighty-six",
+            "es": "setecientos ochenta y seis"
+        },
+        {
+            "en": "seven hundred eighty-seven",
+            "es": "setecientos ochenta y siete"
+        },
+        {
+            "en": "seven hundred eighty-eight",
+            "es": "setecientos ochenta y ocho"
+        },
+        {
+            "en": "seven hundred eighty-nine",
+            "es": "setecientos ochenta y nueve"
+        },
+        {
+            "en": "seven hundred ninety",
+            "es": "setecientos noventa"
+        },
+        {
+            "en": "seven hundred ninety-one",
+            "es": "setecientos noventa y uno"
+        },
+        {
+            "en": "seven hundred ninety-two",
+            "es": "setecientos noventa y dos"
+        },
+        {
+            "en": "seven hundred ninety-three",
+            "es": "setecientos noventa y tres"
+        },
+        {
+            "en": "seven hundred ninety-four",
+            "es": "setecientos noventa y cuatro"
+        },
+        {
+            "en": "seven hundred ninety-five",
+            "es": "setecientos noventa y cinco"
+        },
+        {
+            "en": "seven hundred ninety-six",
+            "es": "setecientos noventa y seis"
+        },
+        {
+            "en": "seven hundred ninety-seven",
+            "es": "setecientos noventa y siete"
+        },
+        {
+            "en": "seven hundred ninety-eight",
+            "es": "setecientos noventa y ocho"
+        },
+        {
+            "en": "seven hundred ninety-nine",
+            "es": "setecientos noventa y nueve"
+        },
+        {
+            "en": "eight hundred",
+            "es": "ochocientos"
+        },
+        {
+            "en": "eight hundred one",
+            "es": "ochocientos uno"
+        },
+        {
+            "en": "eight hundred two",
+            "es": "ochocientos dos"
+        },
+        {
+            "en": "eight hundred three",
+            "es": "ochocientos tres"
+        },
+        {
+            "en": "eight hundred four",
+            "es": "ochocientos cuatro"
+        },
+        {
+            "en": "eight hundred five",
+            "es": "ochocientos cinco"
+        },
+        {
+            "en": "eight hundred six",
+            "es": "ochocientos seis"
+        },
+        {
+            "en": "eight hundred seven",
+            "es": "ochocientos siete"
+        },
+        {
+            "en": "eight hundred eight",
+            "es": "ochocientos ocho"
+        },
+        {
+            "en": "eight hundred nine",
+            "es": "ochocientos nueve"
+        },
+        {
+            "en": "eight hundred ten",
+            "es": "ochocientos diez"
+        },
+        {
+            "en": "eight hundred eleven",
+            "es": "ochocientos once"
+        },
+        {
+            "en": "eight hundred twelve",
+            "es": "ochocientos doce"
+        },
+        {
+            "en": "eight hundred thirteen",
+            "es": "ochocientos trece"
+        },
+        {
+            "en": "eight hundred fourteen",
+            "es": "ochocientos catorce"
+        },
+        {
+            "en": "eight hundred fifteen",
+            "es": "ochocientos quince"
+        },
+        {
+            "en": "eight hundred sixteen",
+            "es": "ochocientos dieciséis"
+        },
+        {
+            "en": "eight hundred seventeen",
+            "es": "ochocientos diecisiete"
+        },
+        {
+            "en": "eight hundred eighteen",
+            "es": "ochocientos dieciocho"
+        },
+        {
+            "en": "eight hundred nineteen",
+            "es": "ochocientos diecinueve"
+        },
+        {
+            "en": "eight hundred twenty",
+            "es": "ochocientos veinte"
+        },
+        {
+            "en": "eight hundred twenty-one",
+            "es": "ochocientos veintiuno"
+        },
+        {
+            "en": "eight hundred twenty-two",
+            "es": "ochocientos veintidós"
+        },
+        {
+            "en": "eight hundred twenty-three",
+            "es": "ochocientos veintitrés"
+        },
+        {
+            "en": "eight hundred twenty-four",
+            "es": "ochocientos veinticuatro"
+        },
+        {
+            "en": "eight hundred twenty-five",
+            "es": "ochocientos veinticinco"
+        },
+        {
+            "en": "eight hundred twenty-six",
+            "es": "ochocientos veintiséis"
+        },
+        {
+            "en": "eight hundred twenty-seven",
+            "es": "ochocientos veintisiete"
+        },
+        {
+            "en": "eight hundred twenty-eight",
+            "es": "ochocientos veintiocho"
+        },
+        {
+            "en": "eight hundred twenty-nine",
+            "es": "ochocientos veintinueve"
+        },
+        {
+            "en": "eight hundred thirty",
+            "es": "ochocientos treinta"
+        },
+        {
+            "en": "eight hundred thirty-one",
+            "es": "ochocientos treinta y uno"
+        },
+        {
+            "en": "eight hundred thirty-two",
+            "es": "ochocientos treinta y dos"
+        },
+        {
+            "en": "eight hundred thirty-three",
+            "es": "ochocientos treinta y tres"
+        },
+        {
+            "en": "eight hundred thirty-four",
+            "es": "ochocientos treinta y cuatro"
+        },
+        {
+            "en": "eight hundred thirty-five",
+            "es": "ochocientos treinta y cinco"
+        },
+        {
+            "en": "eight hundred thirty-six",
+            "es": "ochocientos treinta y seis"
+        },
+        {
+            "en": "eight hundred thirty-seven",
+            "es": "ochocientos treinta y siete"
+        },
+        {
+            "en": "eight hundred thirty-eight",
+            "es": "ochocientos treinta y ocho"
+        },
+        {
+            "en": "eight hundred thirty-nine",
+            "es": "ochocientos treinta y nueve"
+        },
+        {
+            "en": "eight hundred forty",
+            "es": "ochocientos cuarenta"
+        },
+        {
+            "en": "eight hundred forty-one",
+            "es": "ochocientos cuarenta y uno"
+        },
+        {
+            "en": "eight hundred forty-two",
+            "es": "ochocientos cuarenta y dos"
+        },
+        {
+            "en": "eight hundred forty-three",
+            "es": "ochocientos cuarenta y tres"
+        },
+        {
+            "en": "eight hundred forty-four",
+            "es": "ochocientos cuarenta y cuatro"
+        },
+        {
+            "en": "eight hundred forty-five",
+            "es": "ochocientos cuarenta y cinco"
+        },
+        {
+            "en": "eight hundred forty-six",
+            "es": "ochocientos cuarenta y seis"
+        },
+        {
+            "en": "eight hundred forty-seven",
+            "es": "ochocientos cuarenta y siete"
+        },
+        {
+            "en": "eight hundred forty-eight",
+            "es": "ochocientos cuarenta y ocho"
+        },
+        {
+            "en": "eight hundred forty-nine",
+            "es": "ochocientos cuarenta y nueve"
+        },
+        {
+            "en": "eight hundred fifty",
+            "es": "ochocientos cincuenta"
+        },
+        {
+            "en": "eight hundred fifty-one",
+            "es": "ochocientos cincuenta y uno"
+        },
+        {
+            "en": "eight hundred fifty-two",
+            "es": "ochocientos cincuenta y dos"
+        },
+        {
+            "en": "eight hundred fifty-three",
+            "es": "ochocientos cincuenta y tres"
+        },
+        {
+            "en": "eight hundred fifty-four",
+            "es": "ochocientos cincuenta y cuatro"
+        },
+        {
+            "en": "eight hundred fifty-five",
+            "es": "ochocientos cincuenta y cinco"
+        },
+        {
+            "en": "eight hundred fifty-six",
+            "es": "ochocientos cincuenta y seis"
+        },
+        {
+            "en": "eight hundred fifty-seven",
+            "es": "ochocientos cincuenta y siete"
+        },
+        {
+            "en": "eight hundred fifty-eight",
+            "es": "ochocientos cincuenta y ocho"
+        },
+        {
+            "en": "eight hundred fifty-nine",
+            "es": "ochocientos cincuenta y nueve"
+        },
+        {
+            "en": "eight hundred sixty",
+            "es": "ochocientos sesenta"
+        },
+        {
+            "en": "eight hundred sixty-one",
+            "es": "ochocientos sesenta y uno"
+        },
+        {
+            "en": "eight hundred sixty-two",
+            "es": "ochocientos sesenta y dos"
+        },
+        {
+            "en": "eight hundred sixty-three",
+            "es": "ochocientos sesenta y tres"
+        },
+        {
+            "en": "eight hundred sixty-four",
+            "es": "ochocientos sesenta y cuatro"
+        },
+        {
+            "en": "eight hundred sixty-five",
+            "es": "ochocientos sesenta y cinco"
+        },
+        {
+            "en": "eight hundred sixty-six",
+            "es": "ochocientos sesenta y seis"
+        },
+        {
+            "en": "eight hundred sixty-seven",
+            "es": "ochocientos sesenta y siete"
+        },
+        {
+            "en": "eight hundred sixty-eight",
+            "es": "ochocientos sesenta y ocho"
+        },
+        {
+            "en": "eight hundred sixty-nine",
+            "es": "ochocientos sesenta y nueve"
+        },
+        {
+            "en": "eight hundred seventy",
+            "es": "ochocientos setenta"
+        },
+        {
+            "en": "eight hundred seventy-one",
+            "es": "ochocientos setenta y uno"
+        },
+        {
+            "en": "eight hundred seventy-two",
+            "es": "ochocientos setenta y dos"
+        },
+        {
+            "en": "eight hundred seventy-three",
+            "es": "ochocientos setenta y tres"
+        },
+        {
+            "en": "eight hundred seventy-four",
+            "es": "ochocientos setenta y cuatro"
+        },
+        {
+            "en": "eight hundred seventy-five",
+            "es": "ochocientos setenta y cinco"
+        },
+        {
+            "en": "eight hundred seventy-six",
+            "es": "ochocientos setenta y seis"
+        },
+        {
+            "en": "eight hundred seventy-seven",
+            "es": "ochocientos setenta y siete"
+        },
+        {
+            "en": "eight hundred seventy-eight",
+            "es": "ochocientos setenta y ocho"
+        },
+        {
+            "en": "eight hundred seventy-nine",
+            "es": "ochocientos setenta y nueve"
+        },
+        {
+            "en": "eight hundred eighty",
+            "es": "ochocientos ochenta"
+        },
+        {
+            "en": "eight hundred eighty-one",
+            "es": "ochocientos ochenta y uno"
+        },
+        {
+            "en": "eight hundred eighty-two",
+            "es": "ochocientos ochenta y dos"
+        },
+        {
+            "en": "eight hundred eighty-three",
+            "es": "ochocientos ochenta y tres"
+        },
+        {
+            "en": "eight hundred eighty-four",
+            "es": "ochocientos ochenta y cuatro"
+        },
+        {
+            "en": "eight hundred eighty-five",
+            "es": "ochocientos ochenta y cinco"
+        },
+        {
+            "en": "eight hundred eighty-six",
+            "es": "ochocientos ochenta y seis"
+        },
+        {
+            "en": "eight hundred eighty-seven",
+            "es": "ochocientos ochenta y siete"
+        },
+        {
+            "en": "eight hundred eighty-eight",
+            "es": "ochocientos ochenta y ocho"
+        },
+        {
+            "en": "eight hundred eighty-nine",
+            "es": "ochocientos ochenta y nueve"
+        },
+        {
+            "en": "eight hundred ninety",
+            "es": "ochocientos noventa"
+        },
+        {
+            "en": "eight hundred ninety-one",
+            "es": "ochocientos noventa y uno"
+        },
+        {
+            "en": "eight hundred ninety-two",
+            "es": "ochocientos noventa y dos"
+        },
+        {
+            "en": "eight hundred ninety-three",
+            "es": "ochocientos noventa y tres"
+        },
+        {
+            "en": "eight hundred ninety-four",
+            "es": "ochocientos noventa y cuatro"
+        },
+        {
+            "en": "eight hundred ninety-five",
+            "es": "ochocientos noventa y cinco"
+        },
+        {
+            "en": "eight hundred ninety-six",
+            "es": "ochocientos noventa y seis"
+        },
+        {
+            "en": "eight hundred ninety-seven",
+            "es": "ochocientos noventa y siete"
+        },
+        {
+            "en": "eight hundred ninety-eight",
+            "es": "ochocientos noventa y ocho"
+        },
+        {
+            "en": "eight hundred ninety-nine",
+            "es": "ochocientos noventa y nueve"
+        },
+        {
+            "en": "nine hundred",
+            "es": "novecientos"
+        },
+        {
+            "en": "nine hundred one",
+            "es": "novecientos uno"
+        },
+        {
+            "en": "nine hundred two",
+            "es": "novecientos dos"
+        },
+        {
+            "en": "nine hundred three",
+            "es": "novecientos tres"
+        },
+        {
+            "en": "nine hundred four",
+            "es": "novecientos cuatro"
+        },
+        {
+            "en": "nine hundred five",
+            "es": "novecientos cinco"
+        },
+        {
+            "en": "nine hundred six",
+            "es": "novecientos seis"
+        },
+        {
+            "en": "nine hundred seven",
+            "es": "novecientos siete"
+        },
+        {
+            "en": "nine hundred eight",
+            "es": "novecientos ocho"
+        },
+        {
+            "en": "nine hundred nine",
+            "es": "novecientos nueve"
+        },
+        {
+            "en": "nine hundred ten",
+            "es": "novecientos diez"
+        },
+        {
+            "en": "nine hundred eleven",
+            "es": "novecientos once"
+        },
+        {
+            "en": "nine hundred twelve",
+            "es": "novecientos doce"
+        },
+        {
+            "en": "nine hundred thirteen",
+            "es": "novecientos trece"
+        },
+        {
+            "en": "nine hundred fourteen",
+            "es": "novecientos catorce"
+        },
+        {
+            "en": "nine hundred fifteen",
+            "es": "novecientos quince"
+        },
+        {
+            "en": "nine hundred sixteen",
+            "es": "novecientos dieciséis"
+        },
+        {
+            "en": "nine hundred seventeen",
+            "es": "novecientos diecisiete"
+        },
+        {
+            "en": "nine hundred eighteen",
+            "es": "novecientos dieciocho"
+        },
+        {
+            "en": "nine hundred nineteen",
+            "es": "novecientos diecinueve"
+        },
+        {
+            "en": "nine hundred twenty",
+            "es": "novecientos veinte"
+        },
+        {
+            "en": "nine hundred twenty-one",
+            "es": "novecientos veintiuno"
+        },
+        {
+            "en": "nine hundred twenty-two",
+            "es": "novecientos veintidós"
+        },
+        {
+            "en": "nine hundred twenty-three",
+            "es": "novecientos veintitrés"
+        },
+        {
+            "en": "nine hundred twenty-four",
+            "es": "novecientos veinticuatro"
+        },
+        {
+            "en": "nine hundred twenty-five",
+            "es": "novecientos veinticinco"
+        },
+        {
+            "en": "nine hundred twenty-six",
+            "es": "novecientos veintiséis"
+        },
+        {
+            "en": "nine hundred twenty-seven",
+            "es": "novecientos veintisiete"
+        },
+        {
+            "en": "nine hundred twenty-eight",
+            "es": "novecientos veintiocho"
+        },
+        {
+            "en": "nine hundred twenty-nine",
+            "es": "novecientos veintinueve"
+        },
+        {
+            "en": "nine hundred thirty",
+            "es": "novecientos treinta"
+        },
+        {
+            "en": "nine hundred thirty-one",
+            "es": "novecientos treinta y uno"
+        },
+        {
+            "en": "nine hundred thirty-two",
+            "es": "novecientos treinta y dos"
+        },
+        {
+            "en": "nine hundred thirty-three",
+            "es": "novecientos treinta y tres"
+        },
+        {
+            "en": "nine hundred thirty-four",
+            "es": "novecientos treinta y cuatro"
+        },
+        {
+            "en": "nine hundred thirty-five",
+            "es": "novecientos treinta y cinco"
+        },
+        {
+            "en": "nine hundred thirty-six",
+            "es": "novecientos treinta y seis"
+        },
+        {
+            "en": "nine hundred thirty-seven",
+            "es": "novecientos treinta y siete"
+        },
+        {
+            "en": "nine hundred thirty-eight",
+            "es": "novecientos treinta y ocho"
+        },
+        {
+            "en": "nine hundred thirty-nine",
+            "es": "novecientos treinta y nueve"
+        },
+        {
+            "en": "nine hundred forty",
+            "es": "novecientos cuarenta"
+        },
+        {
+            "en": "nine hundred forty-one",
+            "es": "novecientos cuarenta y uno"
+        },
+        {
+            "en": "nine hundred forty-two",
+            "es": "novecientos cuarenta y dos"
+        },
+        {
+            "en": "nine hundred forty-three",
+            "es": "novecientos cuarenta y tres"
+        },
+        {
+            "en": "nine hundred forty-four",
+            "es": "novecientos cuarenta y cuatro"
+        },
+        {
+            "en": "nine hundred forty-five",
+            "es": "novecientos cuarenta y cinco"
+        },
+        {
+            "en": "nine hundred forty-six",
+            "es": "novecientos cuarenta y seis"
+        },
+        {
+            "en": "nine hundred forty-seven",
+            "es": "novecientos cuarenta y siete"
+        },
+        {
+            "en": "nine hundred forty-eight",
+            "es": "novecientos cuarenta y ocho"
+        },
+        {
+            "en": "nine hundred forty-nine",
+            "es": "novecientos cuarenta y nueve"
+        },
+        {
+            "en": "nine hundred fifty",
+            "es": "novecientos cincuenta"
+        },
+        {
+            "en": "nine hundred fifty-one",
+            "es": "novecientos cincuenta y uno"
+        },
+        {
+            "en": "nine hundred fifty-two",
+            "es": "novecientos cincuenta y dos"
+        },
+        {
+            "en": "nine hundred fifty-three",
+            "es": "novecientos cincuenta y tres"
+        },
+        {
+            "en": "nine hundred fifty-four",
+            "es": "novecientos cincuenta y cuatro"
+        },
+        {
+            "en": "nine hundred fifty-five",
+            "es": "novecientos cincuenta y cinco"
+        },
+        {
+            "en": "nine hundred fifty-six",
+            "es": "novecientos cincuenta y seis"
+        },
+        {
+            "en": "nine hundred fifty-seven",
+            "es": "novecientos cincuenta y siete"
+        },
+        {
+            "en": "nine hundred fifty-eight",
+            "es": "novecientos cincuenta y ocho"
+        },
+        {
+            "en": "nine hundred fifty-nine",
+            "es": "novecientos cincuenta y nueve"
+        },
+        {
+            "en": "nine hundred sixty",
+            "es": "novecientos sesenta"
+        },
+        {
+            "en": "nine hundred sixty-one",
+            "es": "novecientos sesenta y uno"
+        },
+        {
+            "en": "nine hundred sixty-two",
+            "es": "novecientos sesenta y dos"
+        },
+        {
+            "en": "nine hundred sixty-three",
+            "es": "novecientos sesenta y tres"
+        },
+        {
+            "en": "nine hundred sixty-four",
+            "es": "novecientos sesenta y cuatro"
+        },
+        {
+            "en": "nine hundred sixty-five",
+            "es": "novecientos sesenta y cinco"
+        },
+        {
+            "en": "nine hundred sixty-six",
+            "es": "novecientos sesenta y seis"
+        },
+        {
+            "en": "nine hundred sixty-seven",
+            "es": "novecientos sesenta y siete"
+        },
+        {
+            "en": "nine hundred sixty-eight",
+            "es": "novecientos sesenta y ocho"
+        },
+        {
+            "en": "nine hundred sixty-nine",
+            "es": "novecientos sesenta y nueve"
+        },
+        {
+            "en": "nine hundred seventy",
+            "es": "novecientos setenta"
+        },
+        {
+            "en": "nine hundred seventy-one",
+            "es": "novecientos setenta y uno"
+        },
+        {
+            "en": "nine hundred seventy-two",
+            "es": "novecientos setenta y dos"
+        },
+        {
+            "en": "nine hundred seventy-three",
+            "es": "novecientos setenta y tres"
+        },
+        {
+            "en": "nine hundred seventy-four",
+            "es": "novecientos setenta y cuatro"
+        },
+        {
+            "en": "nine hundred seventy-five",
+            "es": "novecientos setenta y cinco"
+        },
+        {
+            "en": "nine hundred seventy-six",
+            "es": "novecientos setenta y seis"
+        },
+        {
+            "en": "nine hundred seventy-seven",
+            "es": "novecientos setenta y siete"
+        },
+        {
+            "en": "nine hundred seventy-eight",
+            "es": "novecientos setenta y ocho"
+        },
+        {
+            "en": "nine hundred seventy-nine",
+            "es": "novecientos setenta y nueve"
+        },
+        {
+            "en": "nine hundred eighty",
+            "es": "novecientos ochenta"
+        },
+        {
+            "en": "nine hundred eighty-one",
+            "es": "novecientos ochenta y uno"
+        },
+        {
+            "en": "nine hundred eighty-two",
+            "es": "novecientos ochenta y dos"
+        },
+        {
+            "en": "nine hundred eighty-three",
+            "es": "novecientos ochenta y tres"
+        },
+        {
+            "en": "nine hundred eighty-four",
+            "es": "novecientos ochenta y cuatro"
+        },
+        {
+            "en": "nine hundred eighty-five",
+            "es": "novecientos ochenta y cinco"
+        },
+        {
+            "en": "nine hundred eighty-six",
+            "es": "novecientos ochenta y seis"
+        },
+        {
+            "en": "nine hundred eighty-seven",
+            "es": "novecientos ochenta y siete"
+        },
+        {
+            "en": "nine hundred eighty-eight",
+            "es": "novecientos ochenta y ocho"
+        },
+        {
+            "en": "nine hundred eighty-nine",
+            "es": "novecientos ochenta y nueve"
+        },
+        {
+            "en": "nine hundred ninety",
+            "es": "novecientos noventa"
+        },
+        {
+            "en": "nine hundred ninety-one",
+            "es": "novecientos noventa y uno"
+        },
+        {
+            "en": "nine hundred ninety-two",
+            "es": "novecientos noventa y dos"
+        },
+        {
+            "en": "nine hundred ninety-three",
+            "es": "novecientos noventa y tres"
+        },
+        {
+            "en": "nine hundred ninety-four",
+            "es": "novecientos noventa y cuatro"
+        },
+        {
+            "en": "nine hundred ninety-five",
+            "es": "novecientos noventa y cinco"
+        },
+        {
+            "en": "nine hundred ninety-six",
+            "es": "novecientos noventa y seis"
+        },
+        {
+            "en": "nine hundred ninety-seven",
+            "es": "novecientos noventa y siete"
+        },
+        {
+            "en": "nine hundred ninety-eight",
+            "es": "novecientos noventa y ocho"
+        },
+        {
+            "en": "nine hundred ninety-nine",
+            "es": "novecientos noventa y nueve"
+        },
+        {
+            "en": "one thousand",
+            "es": "mil"
+        }
+    ]
+}

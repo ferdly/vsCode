@@ -1,0 +1,21 @@
+{
+    "_id": "INSTANTIATE",
+    "loginEmail": "qiqgroup+dexter@gmail.com",
+    "name": "Denis Dougan",
+    "firstName": "Denis",
+    "lastName": "Dougan",
+    "picture": "",
+    "nickname": "",
+    "slug": "",
+    "language": "en",
+    "status": "ACTIVE",
+    "_createdDate": "",
+    "_updatedDate": "",
+    "lastLogin": "",
+    "emails": [
+        "qiqgroup+dexter@gmail.com"
+    ],
+    "phones": [],
+    "groups": [],
+    "contactId": "INSTANTIATE"
+}

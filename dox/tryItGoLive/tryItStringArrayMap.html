@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <p>Click the button to get a new array with the full name of each person in the array.</p>
+    <button onclick="myFunction()">Try it</button>
+
+    <p>New array: <span id="demo"></span></p>
+
+    <script>
+        var persons = [
+            { firstname: "Malcom", lastname: "Reynolds" },
+            { firstname: "Kaylee", lastname: "Frye" },
+            { firstname: "Jayne", lastname: "Cobb" }
+        ];
+
+
+
+        function myFunction() {
+            document.getElementById("demo").innerHTML = persons.map((item) => item.firstname + ' ' + item.lastname);
+        }
+    </script>
+
+</body>
+
+</html>
